@@ -1,0 +1,18610 @@
+1:
+id: 1
+area: 北京
+parent_id: 
+
+2:
+id: 2
+area: 北京市
+parent_id: 1
+
+3:
+id: 3
+area: 东城区
+parent_id: 2
+
+4:
+id: 4
+area: 西城区
+parent_id: 2
+
+5:
+id: 5
+area: 崇文区
+parent_id: 2
+
+6:
+id: 6
+area: 宣武区
+parent_id: 2
+
+7:
+id: 7
+area: 朝阳区
+parent_id: 2
+
+8:
+id: 8
+area: 丰台区
+parent_id: 2
+
+9:
+id: 9
+area: 石景山区
+parent_id: 2
+
+10:
+id: 10
+area: 海淀区
+parent_id: 2
+
+11:
+id: 11
+area: 门头沟区
+parent_id: 2
+
+12:
+id: 12
+area: 房山区
+parent_id: 2
+
+13:
+id: 13
+area: 通州区
+parent_id: 2
+
+14:
+id: 14
+area: 顺义区
+parent_id: 2
+
+15:
+id: 15
+area: 昌平区
+parent_id: 2
+
+16:
+id: 16
+area: 大兴区
+parent_id: 2
+
+17:
+id: 17
+area: 怀柔区
+parent_id: 2
+
+18:
+id: 18
+area: 平谷区
+parent_id: 2
+
+19:
+id: 19
+area: 密云县
+parent_id: 2
+
+20:
+id: 20
+area: 延庆县
+parent_id: 2
+
+21:
+id: 21
+area: 其它区
+parent_id: 2
+
+22:
+id: 22
+area: 天津
+parent_id: 
+
+23:
+id: 23
+area: 天津市
+parent_id: 22
+
+24:
+id: 24
+area: 和平区
+parent_id: 23
+
+25:
+id: 25
+area: 河东区
+parent_id: 23
+
+26:
+id: 26
+area: 河西区
+parent_id: 23
+
+27:
+id: 27
+area: 南开区
+parent_id: 23
+
+28:
+id: 28
+area: 河北区
+parent_id: 23
+
+29:
+id: 29
+area: 红桥区
+parent_id: 23
+
+30:
+id: 30
+area: 塘沽区
+parent_id: 23
+
+31:
+id: 31
+area: 汉沽区
+parent_id: 23
+
+32:
+id: 32
+area: 大港区
+parent_id: 23
+
+33:
+id: 33
+area: 东丽区
+parent_id: 23
+
+34:
+id: 34
+area: 西青区
+parent_id: 23
+
+35:
+id: 35
+area: 津南区
+parent_id: 23
+
+36:
+id: 36
+area: 北辰区
+parent_id: 23
+
+37:
+id: 37
+area: 武清区
+parent_id: 23
+
+38:
+id: 38
+area: 宝坻区
+parent_id: 23
+
+39:
+id: 39
+area: 滨海新区
+parent_id: 23
+
+40:
+id: 40
+area: 宁河县
+parent_id: 23
+
+41:
+id: 41
+area: 静海县
+parent_id: 23
+
+42:
+id: 42
+area: 蓟县
+parent_id: 23
+
+43:
+id: 43
+area: 其它区
+parent_id: 23
+
+44:
+id: 44
+area: 河北省
+parent_id: 
+
+45:
+id: 45
+area: 石家庄市
+parent_id: 44
+
+46:
+id: 46
+area: 长安区
+parent_id: 45
+
+47:
+id: 47
+area: 桥东区
+parent_id: 45
+
+48:
+id: 48
+area: 桥西区
+parent_id: 45
+
+49:
+id: 49
+area: 新华区
+parent_id: 45
+
+50:
+id: 50
+area: 井陉矿区
+parent_id: 45
+
+51:
+id: 51
+area: 裕华区
+parent_id: 45
+
+52:
+id: 52
+area: 井陉县
+parent_id: 45
+
+53:
+id: 53
+area: 正定县
+parent_id: 45
+
+54:
+id: 54
+area: 栾城县
+parent_id: 45
+
+55:
+id: 55
+area: 行唐县
+parent_id: 45
+
+56:
+id: 56
+area: 灵寿县
+parent_id: 45
+
+57:
+id: 57
+area: 高邑县
+parent_id: 45
+
+58:
+id: 58
+area: 深泽县
+parent_id: 45
+
+59:
+id: 59
+area: 赞皇县
+parent_id: 45
+
+60:
+id: 60
+area: 无极县
+parent_id: 45
+
+61:
+id: 61
+area: 平山县
+parent_id: 45
+
+62:
+id: 62
+area: 元氏县
+parent_id: 45
+
+63:
+id: 63
+area: 赵县
+parent_id: 45
+
+64:
+id: 64
+area: 辛集市
+parent_id: 45
+
+65:
+id: 65
+area: 藁城市
+parent_id: 45
+
+66:
+id: 66
+area: 晋州市
+parent_id: 45
+
+67:
+id: 67
+area: 新乐市
+parent_id: 45
+
+68:
+id: 68
+area: 鹿泉市
+parent_id: 45
+
+69:
+id: 69
+area: 其它区
+parent_id: 45
+
+70:
+id: 70
+area: 唐山市
+parent_id: 44
+
+71:
+id: 71
+area: 路南区
+parent_id: 70
+
+72:
+id: 72
+area: 路北区
+parent_id: 70
+
+73:
+id: 73
+area: 古冶区
+parent_id: 70
+
+74:
+id: 74
+area: 开平区
+parent_id: 70
+
+75:
+id: 75
+area: 丰南区
+parent_id: 70
+
+76:
+id: 76
+area: 丰润区
+parent_id: 70
+
+77:
+id: 77
+area: 滦县
+parent_id: 70
+
+78:
+id: 78
+area: 滦南县
+parent_id: 70
+
+79:
+id: 79
+area: 乐亭县
+parent_id: 70
+
+80:
+id: 80
+area: 迁西县
+parent_id: 70
+
+81:
+id: 81
+area: 玉田县
+parent_id: 70
+
+82:
+id: 82
+area: 唐海县
+parent_id: 70
+
+83:
+id: 83
+area: 遵化市
+parent_id: 70
+
+84:
+id: 84
+area: 迁安市
+parent_id: 70
+
+85:
+id: 85
+area: 其它区
+parent_id: 70
+
+86:
+id: 86
+area: 秦皇岛市
+parent_id: 44
+
+87:
+id: 87
+area: 海港区
+parent_id: 86
+
+88:
+id: 88
+area: 山海关区
+parent_id: 86
+
+89:
+id: 89
+area: 北戴河区
+parent_id: 86
+
+90:
+id: 90
+area: 青龙满族自治县
+parent_id: 86
+
+91:
+id: 91
+area: 昌黎县
+parent_id: 86
+
+92:
+id: 92
+area: 抚宁县
+parent_id: 86
+
+93:
+id: 93
+area: 卢龙县
+parent_id: 86
+
+94:
+id: 94
+area: 其它区
+parent_id: 86
+
+95:
+id: 95
+area: 经济技术开发区
+parent_id: 86
+
+96:
+id: 96
+area: 邯郸市
+parent_id: 44
+
+97:
+id: 97
+area: 邯山区
+parent_id: 96
+
+98:
+id: 98
+area: 丛台区
+parent_id: 96
+
+99:
+id: 99
+area: 复兴区
+parent_id: 96
+
+100:
+id: 100
+area: 峰峰矿区
+parent_id: 96
+
+101:
+id: 101
+area: 邯郸县
+parent_id: 96
+
+102:
+id: 102
+area: 临漳县
+parent_id: 96
+
+103:
+id: 103
+area: 成安县
+parent_id: 96
+
+104:
+id: 104
+area: 大名县
+parent_id: 96
+
+105:
+id: 105
+area: 涉县
+parent_id: 96
+
+106:
+id: 106
+area: 磁县
+parent_id: 96
+
+107:
+id: 107
+area: 肥乡县
+parent_id: 96
+
+108:
+id: 108
+area: 永年县
+parent_id: 96
+
+109:
+id: 109
+area: 邱县
+parent_id: 96
+
+110:
+id: 110
+area: 鸡泽县
+parent_id: 96
+
+111:
+id: 111
+area: 广平县
+parent_id: 96
+
+112:
+id: 112
+area: 馆陶县
+parent_id: 96
+
+113:
+id: 113
+area: 魏县
+parent_id: 96
+
+114:
+id: 114
+area: 曲周县
+parent_id: 96
+
+115:
+id: 115
+area: 武安市
+parent_id: 96
+
+116:
+id: 116
+area: 其它区
+parent_id: 96
+
+117:
+id: 117
+area: 邢台市
+parent_id: 44
+
+118:
+id: 118
+area: 桥东区
+parent_id: 117
+
+119:
+id: 119
+area: 桥西区
+parent_id: 117
+
+120:
+id: 120
+area: 邢台县
+parent_id: 117
+
+121:
+id: 121
+area: 临城县
+parent_id: 117
+
+122:
+id: 122
+area: 内丘县
+parent_id: 117
+
+123:
+id: 123
+area: 柏乡县
+parent_id: 117
+
+124:
+id: 124
+area: 隆尧县
+parent_id: 117
+
+125:
+id: 125
+area: 任县
+parent_id: 117
+
+126:
+id: 126
+area: 南和县
+parent_id: 117
+
+127:
+id: 127
+area: 宁晋县
+parent_id: 117
+
+128:
+id: 128
+area: 巨鹿县
+parent_id: 117
+
+129:
+id: 129
+area: 新河县
+parent_id: 117
+
+130:
+id: 130
+area: 广宗县
+parent_id: 117
+
+131:
+id: 131
+area: 平乡县
+parent_id: 117
+
+132:
+id: 132
+area: 威县
+parent_id: 117
+
+133:
+id: 133
+area: 清河县
+parent_id: 117
+
+134:
+id: 134
+area: 临西县
+parent_id: 117
+
+135:
+id: 135
+area: 南宫市
+parent_id: 117
+
+136:
+id: 136
+area: 沙河市
+parent_id: 117
+
+137:
+id: 137
+area: 其它区
+parent_id: 117
+
+138:
+id: 138
+area: 保定市
+parent_id: 44
+
+139:
+id: 139
+area: 新市区
+parent_id: 138
+
+140:
+id: 140
+area: 北市区
+parent_id: 138
+
+141:
+id: 141
+area: 南市区
+parent_id: 138
+
+142:
+id: 142
+area: 满城县
+parent_id: 138
+
+143:
+id: 143
+area: 清苑县
+parent_id: 138
+
+144:
+id: 144
+area: 涞水县
+parent_id: 138
+
+145:
+id: 145
+area: 阜平县
+parent_id: 138
+
+146:
+id: 146
+area: 徐水县
+parent_id: 138
+
+147:
+id: 147
+area: 定兴县
+parent_id: 138
+
+148:
+id: 148
+area: 唐县
+parent_id: 138
+
+149:
+id: 149
+area: 高阳县
+parent_id: 138
+
+150:
+id: 150
+area: 容城县
+parent_id: 138
+
+151:
+id: 151
+area: 涞源县
+parent_id: 138
+
+152:
+id: 152
+area: 望都县
+parent_id: 138
+
+153:
+id: 153
+area: 安新县
+parent_id: 138
+
+154:
+id: 154
+area: 易县
+parent_id: 138
+
+155:
+id: 155
+area: 曲阳县
+parent_id: 138
+
+156:
+id: 156
+area: 蠡县
+parent_id: 138
+
+157:
+id: 157
+area: 顺平县
+parent_id: 138
+
+158:
+id: 158
+area: 博野县
+parent_id: 138
+
+159:
+id: 159
+area: 雄县
+parent_id: 138
+
+160:
+id: 160
+area: 涿州市
+parent_id: 138
+
+161:
+id: 161
+area: 定州市
+parent_id: 138
+
+162:
+id: 162
+area: 安国市
+parent_id: 138
+
+163:
+id: 163
+area: 高碑店市
+parent_id: 138
+
+164:
+id: 164
+area: 高开区
+parent_id: 138
+
+165:
+id: 165
+area: 其它区
+parent_id: 138
+
+166:
+id: 166
+area: 张家口市
+parent_id: 44
+
+167:
+id: 167
+area: 桥东区
+parent_id: 166
+
+168:
+id: 168
+area: 桥西区
+parent_id: 166
+
+169:
+id: 169
+area: 宣化区
+parent_id: 166
+
+170:
+id: 170
+area: 下花园区
+parent_id: 166
+
+171:
+id: 171
+area: 宣化县
+parent_id: 166
+
+172:
+id: 172
+area: 张北县
+parent_id: 166
+
+173:
+id: 173
+area: 康保县
+parent_id: 166
+
+174:
+id: 174
+area: 沽源县
+parent_id: 166
+
+175:
+id: 175
+area: 尚义县
+parent_id: 166
+
+176:
+id: 176
+area: 蔚县
+parent_id: 166
+
+177:
+id: 177
+area: 阳原县
+parent_id: 166
+
+178:
+id: 178
+area: 怀安县
+parent_id: 166
+
+179:
+id: 179
+area: 万全县
+parent_id: 166
+
+180:
+id: 180
+area: 怀来县
+parent_id: 166
+
+181:
+id: 181
+area: 涿鹿县
+parent_id: 166
+
+182:
+id: 182
+area: 赤城县
+parent_id: 166
+
+183:
+id: 183
+area: 崇礼县
+parent_id: 166
+
+184:
+id: 184
+area: 其它区
+parent_id: 166
+
+185:
+id: 185
+area: 承德市
+parent_id: 44
+
+186:
+id: 186
+area: 双桥区
+parent_id: 185
+
+187:
+id: 187
+area: 双滦区
+parent_id: 185
+
+188:
+id: 188
+area: 鹰手营子矿区
+parent_id: 185
+
+189:
+id: 189
+area: 承德县
+parent_id: 185
+
+190:
+id: 190
+area: 兴隆县
+parent_id: 185
+
+191:
+id: 191
+area: 平泉县
+parent_id: 185
+
+192:
+id: 192
+area: 滦平县
+parent_id: 185
+
+193:
+id: 193
+area: 隆化县
+parent_id: 185
+
+194:
+id: 194
+area: 丰宁满族自治县
+parent_id: 185
+
+195:
+id: 195
+area: 宽城满族自治县
+parent_id: 185
+
+196:
+id: 196
+area: 围场满族蒙古族自治县
+parent_id: 185
+
+197:
+id: 197
+area: 其它区
+parent_id: 185
+
+198:
+id: 198
+area: 沧州市
+parent_id: 44
+
+199:
+id: 199
+area: 新华区
+parent_id: 198
+
+200:
+id: 200
+area: 运河区
+parent_id: 198
+
+201:
+id: 201
+area: 沧县
+parent_id: 198
+
+202:
+id: 202
+area: 青县
+parent_id: 198
+
+203:
+id: 203
+area: 东光县
+parent_id: 198
+
+204:
+id: 204
+area: 海兴县
+parent_id: 198
+
+205:
+id: 205
+area: 盐山县
+parent_id: 198
+
+206:
+id: 206
+area: 肃宁县
+parent_id: 198
+
+207:
+id: 207
+area: 南皮县
+parent_id: 198
+
+208:
+id: 208
+area: 吴桥县
+parent_id: 198
+
+209:
+id: 209
+area: 献县
+parent_id: 198
+
+210:
+id: 210
+area: 孟村回族自治县
+parent_id: 198
+
+211:
+id: 211
+area: 泊头市
+parent_id: 198
+
+212:
+id: 212
+area: 任丘市
+parent_id: 198
+
+213:
+id: 213
+area: 黄骅市
+parent_id: 198
+
+214:
+id: 214
+area: 河间市
+parent_id: 198
+
+215:
+id: 215
+area: 其它区
+parent_id: 198
+
+216:
+id: 216
+area: 廊坊市
+parent_id: 44
+
+217:
+id: 217
+area: 安次区
+parent_id: 216
+
+218:
+id: 218
+area: 广阳区
+parent_id: 216
+
+219:
+id: 219
+area: 固安县
+parent_id: 216
+
+220:
+id: 220
+area: 永清县
+parent_id: 216
+
+221:
+id: 221
+area: 香河县
+parent_id: 216
+
+222:
+id: 222
+area: 大城县
+parent_id: 216
+
+223:
+id: 223
+area: 文安县
+parent_id: 216
+
+224:
+id: 224
+area: 大厂回族自治县
+parent_id: 216
+
+225:
+id: 225
+area: 开发区
+parent_id: 216
+
+226:
+id: 226
+area: 燕郊经济技术开发区
+parent_id: 216
+
+227:
+id: 227
+area: 霸州市
+parent_id: 216
+
+228:
+id: 228
+area: 三河市
+parent_id: 216
+
+229:
+id: 229
+area: 其它区
+parent_id: 216
+
+230:
+id: 230
+area: 衡水市
+parent_id: 44
+
+231:
+id: 231
+area: 桃城区
+parent_id: 230
+
+232:
+id: 232
+area: 枣强县
+parent_id: 230
+
+233:
+id: 233
+area: 武邑县
+parent_id: 230
+
+234:
+id: 234
+area: 武强县
+parent_id: 230
+
+235:
+id: 235
+area: 饶阳县
+parent_id: 230
+
+236:
+id: 236
+area: 安平县
+parent_id: 230
+
+237:
+id: 237
+area: 故城县
+parent_id: 230
+
+238:
+id: 238
+area: 景县
+parent_id: 230
+
+239:
+id: 239
+area: 阜城县
+parent_id: 230
+
+240:
+id: 240
+area: 冀州市
+parent_id: 230
+
+241:
+id: 241
+area: 深州市
+parent_id: 230
+
+242:
+id: 242
+area: 其它区
+parent_id: 230
+
+243:
+id: 243
+area: 山西省
+parent_id: 
+
+244:
+id: 244
+area: 太原市
+parent_id: 243
+
+245:
+id: 245
+area: 小店区
+parent_id: 244
+
+246:
+id: 246
+area: 迎泽区
+parent_id: 244
+
+247:
+id: 247
+area: 杏花岭区
+parent_id: 244
+
+248:
+id: 248
+area: 尖草坪区
+parent_id: 244
+
+249:
+id: 249
+area: 万柏林区
+parent_id: 244
+
+250:
+id: 250
+area: 晋源区
+parent_id: 244
+
+251:
+id: 251
+area: 清徐县
+parent_id: 244
+
+252:
+id: 252
+area: 阳曲县
+parent_id: 244
+
+253:
+id: 253
+area: 娄烦县
+parent_id: 244
+
+254:
+id: 254
+area: 古交市
+parent_id: 244
+
+255:
+id: 255
+area: 其它区
+parent_id: 244
+
+256:
+id: 256
+area: 大同市
+parent_id: 243
+
+257:
+id: 257
+area: 城区
+parent_id: 256
+
+258:
+id: 258
+area: 矿区
+parent_id: 256
+
+259:
+id: 259
+area: 南郊区
+parent_id: 256
+
+260:
+id: 260
+area: 新荣区
+parent_id: 256
+
+261:
+id: 261
+area: 阳高县
+parent_id: 256
+
+262:
+id: 262
+area: 天镇县
+parent_id: 256
+
+263:
+id: 263
+area: 广灵县
+parent_id: 256
+
+264:
+id: 264
+area: 灵丘县
+parent_id: 256
+
+265:
+id: 265
+area: 浑源县
+parent_id: 256
+
+266:
+id: 266
+area: 左云县
+parent_id: 256
+
+267:
+id: 267
+area: 大同县
+parent_id: 256
+
+268:
+id: 268
+area: 其它区
+parent_id: 256
+
+269:
+id: 269
+area: 阳泉市
+parent_id: 243
+
+270:
+id: 270
+area: 城区
+parent_id: 269
+
+271:
+id: 271
+area: 矿区
+parent_id: 269
+
+272:
+id: 272
+area: 郊区
+parent_id: 269
+
+273:
+id: 273
+area: 平定县
+parent_id: 269
+
+274:
+id: 274
+area: 盂县
+parent_id: 269
+
+275:
+id: 275
+area: 其它区
+parent_id: 269
+
+276:
+id: 276
+area: 长治市
+parent_id: 243
+
+277:
+id: 277
+area: 长治县
+parent_id: 276
+
+278:
+id: 278
+area: 襄垣县
+parent_id: 276
+
+279:
+id: 279
+area: 屯留县
+parent_id: 276
+
+280:
+id: 280
+area: 平顺县
+parent_id: 276
+
+281:
+id: 281
+area: 黎城县
+parent_id: 276
+
+282:
+id: 282
+area: 壶关县
+parent_id: 276
+
+283:
+id: 283
+area: 长子县
+parent_id: 276
+
+284:
+id: 284
+area: 武乡县
+parent_id: 276
+
+285:
+id: 285
+area: 沁县
+parent_id: 276
+
+286:
+id: 286
+area: 沁源县
+parent_id: 276
+
+287:
+id: 287
+area: 潞城市
+parent_id: 276
+
+288:
+id: 288
+area: 城区
+parent_id: 276
+
+289:
+id: 289
+area: 郊区
+parent_id: 276
+
+290:
+id: 290
+area: 高新区
+parent_id: 276
+
+291:
+id: 291
+area: 其它区
+parent_id: 276
+
+292:
+id: 292
+area: 晋城市
+parent_id: 243
+
+293:
+id: 293
+area: 城区
+parent_id: 292
+
+294:
+id: 294
+area: 沁水县
+parent_id: 292
+
+295:
+id: 295
+area: 阳城县
+parent_id: 292
+
+296:
+id: 296
+area: 陵川县
+parent_id: 292
+
+297:
+id: 297
+area: 泽州县
+parent_id: 292
+
+298:
+id: 298
+area: 高平市
+parent_id: 292
+
+299:
+id: 299
+area: 其它区
+parent_id: 292
+
+300:
+id: 300
+area: 朔州市
+parent_id: 243
+
+301:
+id: 301
+area: 朔城区
+parent_id: 300
+
+302:
+id: 302
+area: 平鲁区
+parent_id: 300
+
+303:
+id: 303
+area: 山阴县
+parent_id: 300
+
+304:
+id: 304
+area: 应县
+parent_id: 300
+
+305:
+id: 305
+area: 右玉县
+parent_id: 300
+
+306:
+id: 306
+area: 怀仁县
+parent_id: 300
+
+307:
+id: 307
+area: 其它区
+parent_id: 300
+
+308:
+id: 308
+area: 晋中市
+parent_id: 243
+
+309:
+id: 309
+area: 榆次区
+parent_id: 308
+
+310:
+id: 310
+area: 榆社县
+parent_id: 308
+
+311:
+id: 311
+area: 左权县
+parent_id: 308
+
+312:
+id: 312
+area: 和顺县
+parent_id: 308
+
+313:
+id: 313
+area: 昔阳县
+parent_id: 308
+
+314:
+id: 314
+area: 寿阳县
+parent_id: 308
+
+315:
+id: 315
+area: 太谷县
+parent_id: 308
+
+316:
+id: 316
+area: 祁县
+parent_id: 308
+
+317:
+id: 317
+area: 平遥县
+parent_id: 308
+
+318:
+id: 318
+area: 灵石县
+parent_id: 308
+
+319:
+id: 319
+area: 介休市
+parent_id: 308
+
+320:
+id: 320
+area: 其它区
+parent_id: 308
+
+321:
+id: 321
+area: 运城市
+parent_id: 243
+
+322:
+id: 322
+area: 盐湖区
+parent_id: 321
+
+323:
+id: 323
+area: 临猗县
+parent_id: 321
+
+324:
+id: 324
+area: 万荣县
+parent_id: 321
+
+325:
+id: 325
+area: 闻喜县
+parent_id: 321
+
+326:
+id: 326
+area: 稷山县
+parent_id: 321
+
+327:
+id: 327
+area: 新绛县
+parent_id: 321
+
+328:
+id: 328
+area: 绛县
+parent_id: 321
+
+329:
+id: 329
+area: 垣曲县
+parent_id: 321
+
+330:
+id: 330
+area: 夏县
+parent_id: 321
+
+331:
+id: 331
+area: 平陆县
+parent_id: 321
+
+332:
+id: 332
+area: 芮城县
+parent_id: 321
+
+333:
+id: 333
+area: 永济市
+parent_id: 321
+
+334:
+id: 334
+area: 河津市
+parent_id: 321
+
+335:
+id: 335
+area: 其它区
+parent_id: 321
+
+336:
+id: 336
+area: 忻州市
+parent_id: 243
+
+337:
+id: 337
+area: 忻府区
+parent_id: 336
+
+338:
+id: 338
+area: 定襄县
+parent_id: 336
+
+339:
+id: 339
+area: 五台县
+parent_id: 336
+
+340:
+id: 340
+area: 代县
+parent_id: 336
+
+341:
+id: 341
+area: 繁峙县
+parent_id: 336
+
+342:
+id: 342
+area: 宁武县
+parent_id: 336
+
+343:
+id: 343
+area: 静乐县
+parent_id: 336
+
+344:
+id: 344
+area: 神池县
+parent_id: 336
+
+345:
+id: 345
+area: 五寨县
+parent_id: 336
+
+346:
+id: 346
+area: 岢岚县
+parent_id: 336
+
+347:
+id: 347
+area: 河曲县
+parent_id: 336
+
+348:
+id: 348
+area: 保德县
+parent_id: 336
+
+349:
+id: 349
+area: 偏关县
+parent_id: 336
+
+350:
+id: 350
+area: 原平市
+parent_id: 336
+
+351:
+id: 351
+area: 其它区
+parent_id: 336
+
+352:
+id: 352
+area: 临汾市
+parent_id: 243
+
+353:
+id: 353
+area: 尧都区
+parent_id: 352
+
+354:
+id: 354
+area: 曲沃县
+parent_id: 352
+
+355:
+id: 355
+area: 翼城县
+parent_id: 352
+
+356:
+id: 356
+area: 襄汾县
+parent_id: 352
+
+357:
+id: 357
+area: 洪洞县
+parent_id: 352
+
+358:
+id: 358
+area: 古县
+parent_id: 352
+
+359:
+id: 359
+area: 安泽县
+parent_id: 352
+
+360:
+id: 360
+area: 浮山县
+parent_id: 352
+
+361:
+id: 361
+area: 吉县
+parent_id: 352
+
+362:
+id: 362
+area: 乡宁县
+parent_id: 352
+
+363:
+id: 363
+area: 大宁县
+parent_id: 352
+
+364:
+id: 364
+area: 隰县
+parent_id: 352
+
+365:
+id: 365
+area: 永和县
+parent_id: 352
+
+366:
+id: 366
+area: 蒲县
+parent_id: 352
+
+367:
+id: 367
+area: 汾西县
+parent_id: 352
+
+368:
+id: 368
+area: 侯马市
+parent_id: 352
+
+369:
+id: 369
+area: 霍州市
+parent_id: 352
+
+370:
+id: 370
+area: 其它区
+parent_id: 352
+
+371:
+id: 371
+area: 吕梁市
+parent_id: 243
+
+372:
+id: 372
+area: 离石区
+parent_id: 371
+
+373:
+id: 373
+area: 文水县
+parent_id: 371
+
+374:
+id: 374
+area: 交城县
+parent_id: 371
+
+375:
+id: 375
+area: 兴县
+parent_id: 371
+
+376:
+id: 376
+area: 临县
+parent_id: 371
+
+377:
+id: 377
+area: 柳林县
+parent_id: 371
+
+378:
+id: 378
+area: 石楼县
+parent_id: 371
+
+379:
+id: 379
+area: 岚县
+parent_id: 371
+
+380:
+id: 380
+area: 方山县
+parent_id: 371
+
+381:
+id: 381
+area: 中阳县
+parent_id: 371
+
+382:
+id: 382
+area: 交口县
+parent_id: 371
+
+383:
+id: 383
+area: 孝义市
+parent_id: 371
+
+384:
+id: 384
+area: 汾阳市
+parent_id: 371
+
+385:
+id: 385
+area: 其它区
+parent_id: 371
+
+386:
+id: 386
+area: 内蒙古自治区
+parent_id: 
+
+387:
+id: 387
+area: 呼和浩特市
+parent_id: 386
+
+388:
+id: 388
+area: 新城区
+parent_id: 387
+
+389:
+id: 389
+area: 回民区
+parent_id: 387
+
+390:
+id: 390
+area: 玉泉区
+parent_id: 387
+
+391:
+id: 391
+area: 赛罕区
+parent_id: 387
+
+392:
+id: 392
+area: 土默特左旗
+parent_id: 387
+
+393:
+id: 393
+area: 托克托县
+parent_id: 387
+
+394:
+id: 394
+area: 和林格尔县
+parent_id: 387
+
+395:
+id: 395
+area: 清水河县
+parent_id: 387
+
+396:
+id: 396
+area: 武川县
+parent_id: 387
+
+397:
+id: 397
+area: 其它区
+parent_id: 387
+
+398:
+id: 398
+area: 包头市
+parent_id: 386
+
+399:
+id: 399
+area: 东河区
+parent_id: 398
+
+400:
+id: 400
+area: 昆都仑区
+parent_id: 398
+
+401:
+id: 401
+area: 青山区
+parent_id: 398
+
+402:
+id: 402
+area: 石拐区
+parent_id: 398
+
+403:
+id: 403
+area: 白云矿区
+parent_id: 398
+
+404:
+id: 404
+area: 九原区
+parent_id: 398
+
+405:
+id: 405
+area: 土默特右旗
+parent_id: 398
+
+406:
+id: 406
+area: 固阳县
+parent_id: 398
+
+407:
+id: 407
+area: 达尔罕茂明安联合旗
+parent_id: 398
+
+408:
+id: 408
+area: 其它区
+parent_id: 398
+
+409:
+id: 409
+area: 乌海市
+parent_id: 386
+
+410:
+id: 410
+area: 海勃湾区
+parent_id: 409
+
+411:
+id: 411
+area: 海南区
+parent_id: 409
+
+412:
+id: 412
+area: 乌达区
+parent_id: 409
+
+413:
+id: 413
+area: 其它区
+parent_id: 409
+
+414:
+id: 414
+area: 赤峰市
+parent_id: 386
+
+415:
+id: 415
+area: 红山区
+parent_id: 414
+
+416:
+id: 416
+area: 元宝山区
+parent_id: 414
+
+417:
+id: 417
+area: 松山区
+parent_id: 414
+
+418:
+id: 418
+area: 阿鲁科尔沁旗
+parent_id: 414
+
+419:
+id: 419
+area: 巴林左旗
+parent_id: 414
+
+420:
+id: 420
+area: 巴林右旗
+parent_id: 414
+
+421:
+id: 421
+area: 林西县
+parent_id: 414
+
+422:
+id: 422
+area: 克什克腾旗
+parent_id: 414
+
+423:
+id: 423
+area: 翁牛特旗
+parent_id: 414
+
+424:
+id: 424
+area: 喀喇沁旗
+parent_id: 414
+
+425:
+id: 425
+area: 宁城县
+parent_id: 414
+
+426:
+id: 426
+area: 敖汉旗
+parent_id: 414
+
+427:
+id: 427
+area: 其它区
+parent_id: 414
+
+428:
+id: 428
+area: 通辽市
+parent_id: 386
+
+429:
+id: 429
+area: 科尔沁区
+parent_id: 428
+
+430:
+id: 430
+area: 科尔沁左翼中旗
+parent_id: 428
+
+431:
+id: 431
+area: 科尔沁左翼后旗
+parent_id: 428
+
+432:
+id: 432
+area: 开鲁县
+parent_id: 428
+
+433:
+id: 433
+area: 库伦旗
+parent_id: 428
+
+434:
+id: 434
+area: 奈曼旗
+parent_id: 428
+
+435:
+id: 435
+area: 扎鲁特旗
+parent_id: 428
+
+436:
+id: 436
+area: 霍林郭勒市
+parent_id: 428
+
+437:
+id: 437
+area: 其它区
+parent_id: 428
+
+438:
+id: 438
+area: 鄂尔多斯市
+parent_id: 386
+
+439:
+id: 439
+area: 东胜区
+parent_id: 438
+
+440:
+id: 440
+area: 达拉特旗
+parent_id: 438
+
+441:
+id: 441
+area: 准格尔旗
+parent_id: 438
+
+442:
+id: 442
+area: 鄂托克前旗
+parent_id: 438
+
+443:
+id: 443
+area: 鄂托克旗
+parent_id: 438
+
+444:
+id: 444
+area: 杭锦旗
+parent_id: 438
+
+445:
+id: 445
+area: 乌审旗
+parent_id: 438
+
+446:
+id: 446
+area: 伊金霍洛旗
+parent_id: 438
+
+447:
+id: 447
+area: 其它区
+parent_id: 438
+
+448:
+id: 448
+area: 呼伦贝尔市
+parent_id: 386
+
+449:
+id: 449
+area: 海拉尔区
+parent_id: 448
+
+450:
+id: 450
+area: 阿荣旗
+parent_id: 448
+
+451:
+id: 451
+area: 莫力达瓦达斡尔族自治旗
+parent_id: 448
+
+452:
+id: 452
+area: 鄂伦春自治旗
+parent_id: 448
+
+453:
+id: 453
+area: 鄂温克族自治旗
+parent_id: 448
+
+454:
+id: 454
+area: 陈巴尔虎旗
+parent_id: 448
+
+455:
+id: 455
+area: 新巴尔虎左旗
+parent_id: 448
+
+456:
+id: 456
+area: 新巴尔虎右旗
+parent_id: 448
+
+457:
+id: 457
+area: 满洲里市
+parent_id: 448
+
+458:
+id: 458
+area: 牙克石市
+parent_id: 448
+
+459:
+id: 459
+area: 扎兰屯市
+parent_id: 448
+
+460:
+id: 460
+area: 额尔古纳市
+parent_id: 448
+
+461:
+id: 461
+area: 根河市
+parent_id: 448
+
+462:
+id: 462
+area: 其它区
+parent_id: 448
+
+463:
+id: 463
+area: 巴彦淖尔市
+parent_id: 386
+
+464:
+id: 464
+area: 临河区
+parent_id: 463
+
+465:
+id: 465
+area: 五原县
+parent_id: 463
+
+466:
+id: 466
+area: 磴口县
+parent_id: 463
+
+467:
+id: 467
+area: 乌拉特前旗
+parent_id: 463
+
+468:
+id: 468
+area: 乌拉特中旗
+parent_id: 463
+
+469:
+id: 469
+area: 乌拉特后旗
+parent_id: 463
+
+470:
+id: 470
+area: 杭锦后旗
+parent_id: 463
+
+471:
+id: 471
+area: 其它区
+parent_id: 463
+
+472:
+id: 472
+area: 乌兰察布市
+parent_id: 386
+
+473:
+id: 473
+area: 集宁区
+parent_id: 472
+
+474:
+id: 474
+area: 卓资县
+parent_id: 472
+
+475:
+id: 475
+area: 化德县
+parent_id: 472
+
+476:
+id: 476
+area: 商都县
+parent_id: 472
+
+477:
+id: 477
+area: 兴和县
+parent_id: 472
+
+478:
+id: 478
+area: 凉城县
+parent_id: 472
+
+479:
+id: 479
+area: 察哈尔右翼前旗
+parent_id: 472
+
+480:
+id: 480
+area: 察哈尔右翼中旗
+parent_id: 472
+
+481:
+id: 481
+area: 察哈尔右翼后旗
+parent_id: 472
+
+482:
+id: 482
+area: 四子王旗
+parent_id: 472
+
+483:
+id: 483
+area: 丰镇市
+parent_id: 472
+
+484:
+id: 484
+area: 其它区
+parent_id: 472
+
+485:
+id: 485
+area: 兴安盟
+parent_id: 386
+
+486:
+id: 486
+area: 乌兰浩特市
+parent_id: 485
+
+487:
+id: 487
+area: 阿尔山市
+parent_id: 485
+
+488:
+id: 488
+area: 科尔沁右翼前旗
+parent_id: 485
+
+489:
+id: 489
+area: 科尔沁右翼中旗
+parent_id: 485
+
+490:
+id: 490
+area: 扎赉特旗
+parent_id: 485
+
+491:
+id: 491
+area: 突泉县
+parent_id: 485
+
+492:
+id: 492
+area: 其它区
+parent_id: 485
+
+493:
+id: 493
+area: 锡林郭勒盟
+parent_id: 386
+
+494:
+id: 494
+area: 二连浩特市
+parent_id: 493
+
+495:
+id: 495
+area: 锡林浩特市
+parent_id: 493
+
+496:
+id: 496
+area: 阿巴嘎旗
+parent_id: 493
+
+497:
+id: 497
+area: 苏尼特左旗
+parent_id: 493
+
+498:
+id: 498
+area: 苏尼特右旗
+parent_id: 493
+
+499:
+id: 499
+area: 东乌珠穆沁旗
+parent_id: 493
+
+500:
+id: 500
+area: 西乌珠穆沁旗
+parent_id: 493
+
+501:
+id: 501
+area: 太仆寺旗
+parent_id: 493
+
+502:
+id: 502
+area: 镶黄旗
+parent_id: 493
+
+503:
+id: 503
+area: 正镶白旗
+parent_id: 493
+
+504:
+id: 504
+area: 正蓝旗
+parent_id: 493
+
+505:
+id: 505
+area: 多伦县
+parent_id: 493
+
+506:
+id: 506
+area: 其它区
+parent_id: 493
+
+507:
+id: 507
+area: 阿拉善盟
+parent_id: 386
+
+508:
+id: 508
+area: 阿拉善左旗
+parent_id: 507
+
+509:
+id: 509
+area: 阿拉善右旗
+parent_id: 507
+
+510:
+id: 510
+area: 额济纳旗
+parent_id: 507
+
+511:
+id: 511
+area: 其它区
+parent_id: 507
+
+512:
+id: 512
+area: 辽宁省
+parent_id: 
+
+513:
+id: 513
+area: 沈阳市
+parent_id: 512
+
+514:
+id: 514
+area: 和平区
+parent_id: 513
+
+515:
+id: 515
+area: 沈河区
+parent_id: 513
+
+516:
+id: 516
+area: 大东区
+parent_id: 513
+
+517:
+id: 517
+area: 皇姑区
+parent_id: 513
+
+518:
+id: 518
+area: 铁西区
+parent_id: 513
+
+519:
+id: 519
+area: 苏家屯区
+parent_id: 513
+
+520:
+id: 520
+area: 东陵区
+parent_id: 513
+
+521:
+id: 521
+area: 新城子区
+parent_id: 513
+
+522:
+id: 522
+area: 于洪区
+parent_id: 513
+
+523:
+id: 523
+area: 辽中县
+parent_id: 513
+
+524:
+id: 524
+area: 康平县
+parent_id: 513
+
+525:
+id: 525
+area: 法库县
+parent_id: 513
+
+526:
+id: 526
+area: 新民市
+parent_id: 513
+
+527:
+id: 527
+area: 浑南新区
+parent_id: 513
+
+528:
+id: 528
+area: 张士开发区
+parent_id: 513
+
+529:
+id: 529
+area: 沈北新区
+parent_id: 513
+
+530:
+id: 530
+area: 其它区
+parent_id: 513
+
+531:
+id: 531
+area: 大连市
+parent_id: 512
+
+532:
+id: 532
+area: 中山区
+parent_id: 531
+
+533:
+id: 533
+area: 西岗区
+parent_id: 531
+
+534:
+id: 534
+area: 沙河口区
+parent_id: 531
+
+535:
+id: 535
+area: 甘井子区
+parent_id: 531
+
+536:
+id: 536
+area: 旅顺口区
+parent_id: 531
+
+537:
+id: 537
+area: 金州区
+parent_id: 531
+
+538:
+id: 538
+area: 长海县
+parent_id: 531
+
+539:
+id: 539
+area: 开发区
+parent_id: 531
+
+540:
+id: 540
+area: 瓦房店市
+parent_id: 531
+
+541:
+id: 541
+area: 普兰店市
+parent_id: 531
+
+542:
+id: 542
+area: 庄河市
+parent_id: 531
+
+543:
+id: 543
+area: 岭前区
+parent_id: 531
+
+544:
+id: 544
+area: 其它区
+parent_id: 531
+
+545:
+id: 545
+area: 鞍山市
+parent_id: 512
+
+546:
+id: 546
+area: 铁东区
+parent_id: 545
+
+547:
+id: 547
+area: 铁西区
+parent_id: 545
+
+548:
+id: 548
+area: 立山区
+parent_id: 545
+
+549:
+id: 549
+area: 千山区
+parent_id: 545
+
+550:
+id: 550
+area: 台安县
+parent_id: 545
+
+551:
+id: 551
+area: 岫岩满族自治县
+parent_id: 545
+
+552:
+id: 552
+area: 高新区
+parent_id: 545
+
+553:
+id: 553
+area: 海城市
+parent_id: 545
+
+554:
+id: 554
+area: 其它区
+parent_id: 545
+
+555:
+id: 555
+area: 抚顺市
+parent_id: 512
+
+556:
+id: 556
+area: 新抚区
+parent_id: 555
+
+557:
+id: 557
+area: 东洲区
+parent_id: 555
+
+558:
+id: 558
+area: 望花区
+parent_id: 555
+
+559:
+id: 559
+area: 顺城区
+parent_id: 555
+
+560:
+id: 560
+area: 抚顺县
+parent_id: 555
+
+561:
+id: 561
+area: 新宾满族自治县
+parent_id: 555
+
+562:
+id: 562
+area: 清原满族自治县
+parent_id: 555
+
+563:
+id: 563
+area: 其它区
+parent_id: 555
+
+564:
+id: 564
+area: 本溪市
+parent_id: 512
+
+565:
+id: 565
+area: 平山区
+parent_id: 564
+
+566:
+id: 566
+area: 溪湖区
+parent_id: 564
+
+567:
+id: 567
+area: 明山区
+parent_id: 564
+
+568:
+id: 568
+area: 南芬区
+parent_id: 564
+
+569:
+id: 569
+area: 本溪满族自治县
+parent_id: 564
+
+570:
+id: 570
+area: 桓仁满族自治县
+parent_id: 564
+
+571:
+id: 571
+area: 其它区
+parent_id: 564
+
+572:
+id: 572
+area: 丹东市
+parent_id: 512
+
+573:
+id: 573
+area: 元宝区
+parent_id: 572
+
+574:
+id: 574
+area: 振兴区
+parent_id: 572
+
+575:
+id: 575
+area: 振安区
+parent_id: 572
+
+576:
+id: 576
+area: 宽甸满族自治县
+parent_id: 572
+
+577:
+id: 577
+area: 东港市
+parent_id: 572
+
+578:
+id: 578
+area: 凤城市
+parent_id: 572
+
+579:
+id: 579
+area: 其它区
+parent_id: 572
+
+580:
+id: 580
+area: 锦州市
+parent_id: 512
+
+581:
+id: 581
+area: 古塔区
+parent_id: 580
+
+582:
+id: 582
+area: 凌河区
+parent_id: 580
+
+583:
+id: 583
+area: 太和区
+parent_id: 580
+
+584:
+id: 584
+area: 黑山县
+parent_id: 580
+
+585:
+id: 585
+area: 义县
+parent_id: 580
+
+586:
+id: 586
+area: 凌海市
+parent_id: 580
+
+587:
+id: 587
+area: 北镇市
+parent_id: 580
+
+588:
+id: 588
+area: 其它区
+parent_id: 580
+
+589:
+id: 589
+area: 营口市
+parent_id: 512
+
+590:
+id: 590
+area: 站前区
+parent_id: 589
+
+591:
+id: 591
+area: 西市区
+parent_id: 589
+
+592:
+id: 592
+area: 鲅鱼圈区
+parent_id: 589
+
+593:
+id: 593
+area: 老边区
+parent_id: 589
+
+594:
+id: 594
+area: 盖州市
+parent_id: 589
+
+595:
+id: 595
+area: 大石桥市
+parent_id: 589
+
+596:
+id: 596
+area: 其它区
+parent_id: 589
+
+597:
+id: 597
+area: 阜新市
+parent_id: 512
+
+598:
+id: 598
+area: 海州区
+parent_id: 597
+
+599:
+id: 599
+area: 新邱区
+parent_id: 597
+
+600:
+id: 600
+area: 太平区
+parent_id: 597
+
+601:
+id: 601
+area: 清河门区
+parent_id: 597
+
+602:
+id: 602
+area: 细河区
+parent_id: 597
+
+603:
+id: 603
+area: 阜新蒙古族自治县
+parent_id: 597
+
+604:
+id: 604
+area: 彰武县
+parent_id: 597
+
+605:
+id: 605
+area: 其它区
+parent_id: 597
+
+606:
+id: 606
+area: 辽阳市
+parent_id: 512
+
+607:
+id: 607
+area: 白塔区
+parent_id: 606
+
+608:
+id: 608
+area: 文圣区
+parent_id: 606
+
+609:
+id: 609
+area: 宏伟区
+parent_id: 606
+
+610:
+id: 610
+area: 弓长岭区
+parent_id: 606
+
+611:
+id: 611
+area: 太子河区
+parent_id: 606
+
+612:
+id: 612
+area: 辽阳县
+parent_id: 606
+
+613:
+id: 613
+area: 灯塔市
+parent_id: 606
+
+614:
+id: 614
+area: 其它区
+parent_id: 606
+
+615:
+id: 615
+area: 盘锦市
+parent_id: 512
+
+616:
+id: 616
+area: 双台子区
+parent_id: 615
+
+617:
+id: 617
+area: 兴隆台区
+parent_id: 615
+
+618:
+id: 618
+area: 大洼县
+parent_id: 615
+
+619:
+id: 619
+area: 盘山县
+parent_id: 615
+
+620:
+id: 620
+area: 其它区
+parent_id: 615
+
+621:
+id: 621
+area: 铁岭市
+parent_id: 512
+
+622:
+id: 622
+area: 银州区
+parent_id: 621
+
+623:
+id: 623
+area: 清河区
+parent_id: 621
+
+624:
+id: 624
+area: 铁岭县
+parent_id: 621
+
+625:
+id: 625
+area: 西丰县
+parent_id: 621
+
+626:
+id: 626
+area: 昌图县
+parent_id: 621
+
+627:
+id: 627
+area: 调兵山市
+parent_id: 621
+
+628:
+id: 628
+area: 开原市
+parent_id: 621
+
+629:
+id: 629
+area: 其它区
+parent_id: 621
+
+630:
+id: 630
+area: 朝阳市
+parent_id: 512
+
+631:
+id: 631
+area: 双塔区
+parent_id: 630
+
+632:
+id: 632
+area: 龙城区
+parent_id: 630
+
+633:
+id: 633
+area: 朝阳县
+parent_id: 630
+
+634:
+id: 634
+area: 建平县
+parent_id: 630
+
+635:
+id: 635
+area: 喀喇沁左翼蒙古族自治县
+parent_id: 630
+
+636:
+id: 636
+area: 北票市
+parent_id: 630
+
+637:
+id: 637
+area: 凌源市
+parent_id: 630
+
+638:
+id: 638
+area: 其它区
+parent_id: 630
+
+639:
+id: 639
+area: 葫芦岛市
+parent_id: 512
+
+640:
+id: 640
+area: 连山区
+parent_id: 639
+
+641:
+id: 641
+area: 龙港区
+parent_id: 639
+
+642:
+id: 642
+area: 南票区
+parent_id: 639
+
+643:
+id: 643
+area: 绥中县
+parent_id: 639
+
+644:
+id: 644
+area: 建昌县
+parent_id: 639
+
+645:
+id: 645
+area: 兴城市
+parent_id: 639
+
+646:
+id: 646
+area: 其它区
+parent_id: 639
+
+647:
+id: 647
+area: 吉林省
+parent_id: 
+
+648:
+id: 648
+area: 长春市
+parent_id: 647
+
+649:
+id: 649
+area: 南关区
+parent_id: 648
+
+650:
+id: 650
+area: 宽城区
+parent_id: 648
+
+651:
+id: 651
+area: 朝阳区
+parent_id: 648
+
+652:
+id: 652
+area: 二道区
+parent_id: 648
+
+653:
+id: 653
+area: 绿园区
+parent_id: 648
+
+654:
+id: 654
+area: 双阳区
+parent_id: 648
+
+655:
+id: 655
+area: 农安县
+parent_id: 648
+
+656:
+id: 656
+area: 九台市
+parent_id: 648
+
+657:
+id: 657
+area: 榆树市
+parent_id: 648
+
+658:
+id: 658
+area: 德惠市
+parent_id: 648
+
+659:
+id: 659
+area: 高新技术产业开发区
+parent_id: 648
+
+660:
+id: 660
+area: 汽车产业开发区
+parent_id: 648
+
+661:
+id: 661
+area: 经济技术开发区
+parent_id: 648
+
+662:
+id: 662
+area: 净月旅游开发区
+parent_id: 648
+
+663:
+id: 663
+area: 其它区
+parent_id: 648
+
+664:
+id: 664
+area: 吉林市
+parent_id: 647
+
+665:
+id: 665
+area: 昌邑区
+parent_id: 664
+
+666:
+id: 666
+area: 龙潭区
+parent_id: 664
+
+667:
+id: 667
+area: 船营区
+parent_id: 664
+
+668:
+id: 668
+area: 丰满区
+parent_id: 664
+
+669:
+id: 669
+area: 永吉县
+parent_id: 664
+
+670:
+id: 670
+area: 蛟河市
+parent_id: 664
+
+671:
+id: 671
+area: 桦甸市
+parent_id: 664
+
+672:
+id: 672
+area: 舒兰市
+parent_id: 664
+
+673:
+id: 673
+area: 磐石市
+parent_id: 664
+
+674:
+id: 674
+area: 其它区
+parent_id: 664
+
+675:
+id: 675
+area: 四平市
+parent_id: 647
+
+676:
+id: 676
+area: 铁西区
+parent_id: 675
+
+677:
+id: 677
+area: 铁东区
+parent_id: 675
+
+678:
+id: 678
+area: 梨树县
+parent_id: 675
+
+679:
+id: 679
+area: 伊通满族自治县
+parent_id: 675
+
+680:
+id: 680
+area: 公主岭市
+parent_id: 675
+
+681:
+id: 681
+area: 双辽市
+parent_id: 675
+
+682:
+id: 682
+area: 其它区
+parent_id: 675
+
+683:
+id: 683
+area: 辽源市
+parent_id: 647
+
+684:
+id: 684
+area: 龙山区
+parent_id: 683
+
+685:
+id: 685
+area: 西安区
+parent_id: 683
+
+686:
+id: 686
+area: 东丰县
+parent_id: 683
+
+687:
+id: 687
+area: 东辽县
+parent_id: 683
+
+688:
+id: 688
+area: 其它区
+parent_id: 683
+
+689:
+id: 689
+area: 通化市
+parent_id: 647
+
+690:
+id: 690
+area: 东昌区
+parent_id: 689
+
+691:
+id: 691
+area: 二道江区
+parent_id: 689
+
+692:
+id: 692
+area: 通化县
+parent_id: 689
+
+693:
+id: 693
+area: 辉南县
+parent_id: 689
+
+694:
+id: 694
+area: 柳河县
+parent_id: 689
+
+695:
+id: 695
+area: 梅河口市
+parent_id: 689
+
+696:
+id: 696
+area: 集安市
+parent_id: 689
+
+697:
+id: 697
+area: 其它区
+parent_id: 689
+
+698:
+id: 698
+area: 白山市
+parent_id: 647
+
+699:
+id: 699
+area: 八道江区
+parent_id: 698
+
+700:
+id: 700
+area: 抚松县
+parent_id: 698
+
+701:
+id: 701
+area: 靖宇县
+parent_id: 698
+
+702:
+id: 702
+area: 长白朝鲜族自治县
+parent_id: 698
+
+703:
+id: 703
+area: 江源县
+parent_id: 698
+
+704:
+id: 704
+area: 临江市
+parent_id: 698
+
+705:
+id: 705
+area: 其它区
+parent_id: 698
+
+706:
+id: 706
+area: 松原市
+parent_id: 647
+
+707:
+id: 707
+area: 宁江区
+parent_id: 706
+
+708:
+id: 708
+area: 前郭尔罗斯蒙古族自治县
+parent_id: 706
+
+709:
+id: 709
+area: 长岭县
+parent_id: 706
+
+710:
+id: 710
+area: 乾安县
+parent_id: 706
+
+711:
+id: 711
+area: 扶余县
+parent_id: 706
+
+712:
+id: 712
+area: 其它区
+parent_id: 706
+
+713:
+id: 713
+area: 白城市
+parent_id: 647
+
+714:
+id: 714
+area: 洮北区
+parent_id: 713
+
+715:
+id: 715
+area: 镇赉县
+parent_id: 713
+
+716:
+id: 716
+area: 通榆县
+parent_id: 713
+
+717:
+id: 717
+area: 洮南市
+parent_id: 713
+
+718:
+id: 718
+area: 大安市
+parent_id: 713
+
+719:
+id: 719
+area: 其它区
+parent_id: 713
+
+720:
+id: 720
+area: 延边朝鲜族自治州
+parent_id: 647
+
+721:
+id: 721
+area: 延吉市
+parent_id: 720
+
+722:
+id: 722
+area: 图们市
+parent_id: 720
+
+723:
+id: 723
+area: 敦化市
+parent_id: 720
+
+724:
+id: 724
+area: 珲春市
+parent_id: 720
+
+725:
+id: 725
+area: 龙井市
+parent_id: 720
+
+726:
+id: 726
+area: 和龙市
+parent_id: 720
+
+727:
+id: 727
+area: 汪清县
+parent_id: 720
+
+728:
+id: 728
+area: 安图县
+parent_id: 720
+
+729:
+id: 729
+area: 其它区
+parent_id: 720
+
+730:
+id: 730
+area: 黑龙江省
+parent_id: 
+
+731:
+id: 731
+area: 哈尔滨市
+parent_id: 730
+
+732:
+id: 732
+area: 道里区
+parent_id: 731
+
+733:
+id: 733
+area: 南岗区
+parent_id: 731
+
+734:
+id: 734
+area: 道外区
+parent_id: 731
+
+735:
+id: 735
+area: 香坊区
+parent_id: 731
+
+736:
+id: 736
+area: 动力区
+parent_id: 731
+
+737:
+id: 737
+area: 平房区
+parent_id: 731
+
+738:
+id: 738
+area: 松北区
+parent_id: 731
+
+739:
+id: 739
+area: 呼兰区
+parent_id: 731
+
+740:
+id: 740
+area: 依兰县
+parent_id: 731
+
+741:
+id: 741
+area: 方正县
+parent_id: 731
+
+742:
+id: 742
+area: 宾县
+parent_id: 731
+
+743:
+id: 743
+area: 巴彦县
+parent_id: 731
+
+744:
+id: 744
+area: 木兰县
+parent_id: 731
+
+745:
+id: 745
+area: 通河县
+parent_id: 731
+
+746:
+id: 746
+area: 延寿县
+parent_id: 731
+
+747:
+id: 747
+area: 阿城市
+parent_id: 731
+
+748:
+id: 748
+area: 双城市
+parent_id: 731
+
+749:
+id: 749
+area: 尚志市
+parent_id: 731
+
+750:
+id: 750
+area: 五常市
+parent_id: 731
+
+751:
+id: 751
+area: 阿城市
+parent_id: 731
+
+752:
+id: 752
+area: 其它区
+parent_id: 731
+
+753:
+id: 753
+area: 齐齐哈尔市
+parent_id: 730
+
+754:
+id: 754
+area: 龙沙区
+parent_id: 753
+
+755:
+id: 755
+area: 建华区
+parent_id: 753
+
+756:
+id: 756
+area: 铁锋区
+parent_id: 753
+
+757:
+id: 757
+area: 昂昂溪区
+parent_id: 753
+
+758:
+id: 758
+area: 富拉尔基区
+parent_id: 753
+
+759:
+id: 759
+area: 碾子山区
+parent_id: 753
+
+760:
+id: 760
+area: 梅里斯达斡尔族区
+parent_id: 753
+
+761:
+id: 761
+area: 龙江县
+parent_id: 753
+
+762:
+id: 762
+area: 依安县
+parent_id: 753
+
+763:
+id: 763
+area: 泰来县
+parent_id: 753
+
+764:
+id: 764
+area: 甘南县
+parent_id: 753
+
+765:
+id: 765
+area: 富裕县
+parent_id: 753
+
+766:
+id: 766
+area: 克山县
+parent_id: 753
+
+767:
+id: 767
+area: 克东县
+parent_id: 753
+
+768:
+id: 768
+area: 拜泉县
+parent_id: 753
+
+769:
+id: 769
+area: 讷河市
+parent_id: 753
+
+770:
+id: 770
+area: 其它区
+parent_id: 753
+
+771:
+id: 771
+area: 鸡西市
+parent_id: 730
+
+772:
+id: 772
+area: 鸡冠区
+parent_id: 771
+
+773:
+id: 773
+area: 恒山区
+parent_id: 771
+
+774:
+id: 774
+area: 滴道区
+parent_id: 771
+
+775:
+id: 775
+area: 梨树区
+parent_id: 771
+
+776:
+id: 776
+area: 城子河区
+parent_id: 771
+
+777:
+id: 777
+area: 麻山区
+parent_id: 771
+
+778:
+id: 778
+area: 鸡东县
+parent_id: 771
+
+779:
+id: 779
+area: 虎林市
+parent_id: 771
+
+780:
+id: 780
+area: 密山市
+parent_id: 771
+
+781:
+id: 781
+area: 其它区
+parent_id: 771
+
+782:
+id: 782
+area: 鹤岗市
+parent_id: 730
+
+783:
+id: 783
+area: 向阳区
+parent_id: 782
+
+784:
+id: 784
+area: 工农区
+parent_id: 782
+
+785:
+id: 785
+area: 南山区
+parent_id: 782
+
+786:
+id: 786
+area: 兴安区
+parent_id: 782
+
+787:
+id: 787
+area: 东山区
+parent_id: 782
+
+788:
+id: 788
+area: 兴山区
+parent_id: 782
+
+789:
+id: 789
+area: 萝北县
+parent_id: 782
+
+790:
+id: 790
+area: 绥滨县
+parent_id: 782
+
+791:
+id: 791
+area: 其它区
+parent_id: 782
+
+792:
+id: 792
+area: 双鸭山市
+parent_id: 730
+
+793:
+id: 793
+area: 尖山区
+parent_id: 792
+
+794:
+id: 794
+area: 岭东区
+parent_id: 792
+
+795:
+id: 795
+area: 四方台区
+parent_id: 792
+
+796:
+id: 796
+area: 宝山区
+parent_id: 792
+
+797:
+id: 797
+area: 集贤县
+parent_id: 792
+
+798:
+id: 798
+area: 友谊县
+parent_id: 792
+
+799:
+id: 799
+area: 宝清县
+parent_id: 792
+
+800:
+id: 800
+area: 饶河县
+parent_id: 792
+
+801:
+id: 801
+area: 其它区
+parent_id: 792
+
+802:
+id: 802
+area: 大庆市
+parent_id: 730
+
+803:
+id: 803
+area: 萨尔图区
+parent_id: 802
+
+804:
+id: 804
+area: 龙凤区
+parent_id: 802
+
+805:
+id: 805
+area: 让胡路区
+parent_id: 802
+
+806:
+id: 806
+area: 红岗区
+parent_id: 802
+
+807:
+id: 807
+area: 大同区
+parent_id: 802
+
+808:
+id: 808
+area: 肇州县
+parent_id: 802
+
+809:
+id: 809
+area: 肇源县
+parent_id: 802
+
+810:
+id: 810
+area: 林甸县
+parent_id: 802
+
+811:
+id: 811
+area: 杜尔伯特蒙古族自治县
+parent_id: 802
+
+812:
+id: 812
+area: 其它区
+parent_id: 802
+
+813:
+id: 813
+area: 伊春市
+parent_id: 730
+
+814:
+id: 814
+area: 伊春区
+parent_id: 813
+
+815:
+id: 815
+area: 南岔区
+parent_id: 813
+
+816:
+id: 816
+area: 友好区
+parent_id: 813
+
+817:
+id: 817
+area: 西林区
+parent_id: 813
+
+818:
+id: 818
+area: 翠峦区
+parent_id: 813
+
+819:
+id: 819
+area: 新青区
+parent_id: 813
+
+820:
+id: 820
+area: 美溪区
+parent_id: 813
+
+821:
+id: 821
+area: 金山屯区
+parent_id: 813
+
+822:
+id: 822
+area: 五营区
+parent_id: 813
+
+823:
+id: 823
+area: 乌马河区
+parent_id: 813
+
+824:
+id: 824
+area: 汤旺河区
+parent_id: 813
+
+825:
+id: 825
+area: 带岭区
+parent_id: 813
+
+826:
+id: 826
+area: 乌伊岭区
+parent_id: 813
+
+827:
+id: 827
+area: 红星区
+parent_id: 813
+
+828:
+id: 828
+area: 上甘岭区
+parent_id: 813
+
+829:
+id: 829
+area: 嘉荫县
+parent_id: 813
+
+830:
+id: 830
+area: 铁力市
+parent_id: 813
+
+831:
+id: 831
+area: 其它区
+parent_id: 813
+
+832:
+id: 832
+area: 佳木斯市
+parent_id: 730
+
+833:
+id: 833
+area: 永红区
+parent_id: 832
+
+834:
+id: 834
+area: 向阳区
+parent_id: 832
+
+835:
+id: 835
+area: 前进区
+parent_id: 832
+
+836:
+id: 836
+area: 东风区
+parent_id: 832
+
+837:
+id: 837
+area: 郊区
+parent_id: 832
+
+838:
+id: 838
+area: 桦南县
+parent_id: 832
+
+839:
+id: 839
+area: 桦川县
+parent_id: 832
+
+840:
+id: 840
+area: 汤原县
+parent_id: 832
+
+841:
+id: 841
+area: 抚远县
+parent_id: 832
+
+842:
+id: 842
+area: 同江市
+parent_id: 832
+
+843:
+id: 843
+area: 富锦市
+parent_id: 832
+
+844:
+id: 844
+area: 其它区
+parent_id: 832
+
+845:
+id: 845
+area: 七台河市
+parent_id: 730
+
+846:
+id: 846
+area: 新兴区
+parent_id: 845
+
+847:
+id: 847
+area: 桃山区
+parent_id: 845
+
+848:
+id: 848
+area: 茄子河区
+parent_id: 845
+
+849:
+id: 849
+area: 勃利县
+parent_id: 845
+
+850:
+id: 850
+area: 其它区
+parent_id: 845
+
+851:
+id: 851
+area: 牡丹江市
+parent_id: 730
+
+852:
+id: 852
+area: 东安区
+parent_id: 851
+
+853:
+id: 853
+area: 阳明区
+parent_id: 851
+
+854:
+id: 854
+area: 爱民区
+parent_id: 851
+
+855:
+id: 855
+area: 西安区
+parent_id: 851
+
+856:
+id: 856
+area: 东宁县
+parent_id: 851
+
+857:
+id: 857
+area: 林口县
+parent_id: 851
+
+858:
+id: 858
+area: 绥芬河市
+parent_id: 851
+
+859:
+id: 859
+area: 海林市
+parent_id: 851
+
+860:
+id: 860
+area: 宁安市
+parent_id: 851
+
+861:
+id: 861
+area: 穆棱市
+parent_id: 851
+
+862:
+id: 862
+area: 其它区
+parent_id: 851
+
+863:
+id: 863
+area: 黑河市
+parent_id: 730
+
+864:
+id: 864
+area: 爱辉区
+parent_id: 863
+
+865:
+id: 865
+area: 嫩江县
+parent_id: 863
+
+866:
+id: 866
+area: 逊克县
+parent_id: 863
+
+867:
+id: 867
+area: 孙吴县
+parent_id: 863
+
+868:
+id: 868
+area: 北安市
+parent_id: 863
+
+869:
+id: 869
+area: 五大连池市
+parent_id: 863
+
+870:
+id: 870
+area: 其它区
+parent_id: 863
+
+871:
+id: 871
+area: 绥化市
+parent_id: 730
+
+872:
+id: 872
+area: 北林区
+parent_id: 871
+
+873:
+id: 873
+area: 望奎县
+parent_id: 871
+
+874:
+id: 874
+area: 兰西县
+parent_id: 871
+
+875:
+id: 875
+area: 青冈县
+parent_id: 871
+
+876:
+id: 876
+area: 庆安县
+parent_id: 871
+
+877:
+id: 877
+area: 明水县
+parent_id: 871
+
+878:
+id: 878
+area: 绥棱县
+parent_id: 871
+
+879:
+id: 879
+area: 安达市
+parent_id: 871
+
+880:
+id: 880
+area: 肇东市
+parent_id: 871
+
+881:
+id: 881
+area: 海伦市
+parent_id: 871
+
+882:
+id: 882
+area: 其它区
+parent_id: 871
+
+883:
+id: 883
+area: 大兴安岭地区
+parent_id: 730
+
+884:
+id: 884
+area: 呼玛县
+parent_id: 883
+
+885:
+id: 885
+area: 塔河县
+parent_id: 883
+
+886:
+id: 886
+area: 漠河县
+parent_id: 883
+
+887:
+id: 887
+area: 加格达奇区
+parent_id: 883
+
+888:
+id: 888
+area: 其它区
+parent_id: 883
+
+889:
+id: 889
+area: 上海
+parent_id: 
+
+890:
+id: 890
+area: 上海市
+parent_id: 889
+
+891:
+id: 891
+area: 黄浦区
+parent_id: 890
+
+892:
+id: 892
+area: 卢湾区
+parent_id: 890
+
+893:
+id: 893
+area: 徐汇区
+parent_id: 890
+
+894:
+id: 894
+area: 长宁区
+parent_id: 890
+
+895:
+id: 895
+area: 静安区
+parent_id: 890
+
+896:
+id: 896
+area: 普陀区
+parent_id: 890
+
+897:
+id: 897
+area: 闸北区
+parent_id: 890
+
+898:
+id: 898
+area: 虹口区
+parent_id: 890
+
+899:
+id: 899
+area: 杨浦区
+parent_id: 890
+
+900:
+id: 900
+area: 闵行区
+parent_id: 890
+
+901:
+id: 901
+area: 宝山区
+parent_id: 890
+
+902:
+id: 902
+area: 嘉定区
+parent_id: 890
+
+903:
+id: 903
+area: 浦东新区
+parent_id: 890
+
+904:
+id: 904
+area: 金山区
+parent_id: 890
+
+905:
+id: 905
+area: 松江区
+parent_id: 890
+
+906:
+id: 906
+area: 青浦区
+parent_id: 890
+
+907:
+id: 907
+area: 南汇区
+parent_id: 890
+
+908:
+id: 908
+area: 奉贤区
+parent_id: 890
+
+909:
+id: 909
+area: 川沙区
+parent_id: 890
+
+910:
+id: 910
+area: 崇明县
+parent_id: 890
+
+911:
+id: 911
+area: 其它区
+parent_id: 890
+
+912:
+id: 912
+area: 江苏省
+parent_id: 
+
+913:
+id: 913
+area: 南京市
+parent_id: 912
+
+914:
+id: 914
+area: 玄武区
+parent_id: 913
+
+915:
+id: 915
+area: 白下区
+parent_id: 913
+
+916:
+id: 916
+area: 秦淮区
+parent_id: 913
+
+917:
+id: 917
+area: 建邺区
+parent_id: 913
+
+918:
+id: 918
+area: 鼓楼区
+parent_id: 913
+
+919:
+id: 919
+area: 下关区
+parent_id: 913
+
+920:
+id: 920
+area: 浦口区
+parent_id: 913
+
+921:
+id: 921
+area: 栖霞区
+parent_id: 913
+
+922:
+id: 922
+area: 雨花台区
+parent_id: 913
+
+923:
+id: 923
+area: 江宁区
+parent_id: 913
+
+924:
+id: 924
+area: 六合区
+parent_id: 913
+
+925:
+id: 925
+area: 溧水县
+parent_id: 913
+
+926:
+id: 926
+area: 高淳县
+parent_id: 913
+
+927:
+id: 927
+area: 其它区
+parent_id: 913
+
+928:
+id: 928
+area: 无锡市
+parent_id: 912
+
+929:
+id: 929
+area: 崇安区
+parent_id: 928
+
+930:
+id: 930
+area: 南长区
+parent_id: 928
+
+931:
+id: 931
+area: 北塘区
+parent_id: 928
+
+932:
+id: 932
+area: 锡山区
+parent_id: 928
+
+933:
+id: 933
+area: 惠山区
+parent_id: 928
+
+934:
+id: 934
+area: 滨湖区
+parent_id: 928
+
+935:
+id: 935
+area: 江阴市
+parent_id: 928
+
+936:
+id: 936
+area: 宜兴市
+parent_id: 928
+
+937:
+id: 937
+area: 新区
+parent_id: 928
+
+938:
+id: 938
+area: 其它区
+parent_id: 928
+
+939:
+id: 939
+area: 徐州市
+parent_id: 912
+
+940:
+id: 940
+area: 鼓楼区
+parent_id: 939
+
+941:
+id: 941
+area: 云龙区
+parent_id: 939
+
+942:
+id: 942
+area: 九里区
+parent_id: 939
+
+943:
+id: 943
+area: 贾汪区
+parent_id: 939
+
+944:
+id: 944
+area: 泉山区
+parent_id: 939
+
+945:
+id: 945
+area: 丰县
+parent_id: 939
+
+946:
+id: 946
+area: 沛县
+parent_id: 939
+
+947:
+id: 947
+area: 铜山县
+parent_id: 939
+
+948:
+id: 948
+area: 睢宁县
+parent_id: 939
+
+949:
+id: 949
+area: 新沂市
+parent_id: 939
+
+950:
+id: 950
+area: 邳州市
+parent_id: 939
+
+951:
+id: 951
+area: 其它区
+parent_id: 939
+
+952:
+id: 952
+area: 常州市
+parent_id: 912
+
+953:
+id: 953
+area: 天宁区
+parent_id: 952
+
+954:
+id: 954
+area: 钟楼区
+parent_id: 952
+
+955:
+id: 955
+area: 戚墅堰区
+parent_id: 952
+
+956:
+id: 956
+area: 新北区
+parent_id: 952
+
+957:
+id: 957
+area: 武进区
+parent_id: 952
+
+958:
+id: 958
+area: 溧阳市
+parent_id: 952
+
+959:
+id: 959
+area: 金坛市
+parent_id: 952
+
+960:
+id: 960
+area: 其它区
+parent_id: 952
+
+961:
+id: 961
+area: 苏州市
+parent_id: 912
+
+962:
+id: 962
+area: 沧浪区
+parent_id: 961
+
+963:
+id: 963
+area: 平江区
+parent_id: 961
+
+964:
+id: 964
+area: 金阊区
+parent_id: 961
+
+965:
+id: 965
+area: 虎丘区
+parent_id: 961
+
+966:
+id: 966
+area: 吴中区
+parent_id: 961
+
+967:
+id: 967
+area: 相城区
+parent_id: 961
+
+968:
+id: 968
+area: 常熟市
+parent_id: 961
+
+969:
+id: 969
+area: 张家港市
+parent_id: 961
+
+970:
+id: 970
+area: 昆山市
+parent_id: 961
+
+971:
+id: 971
+area: 吴江市
+parent_id: 961
+
+972:
+id: 972
+area: 太仓市
+parent_id: 961
+
+973:
+id: 973
+area: 新区
+parent_id: 961
+
+974:
+id: 974
+area: 园区
+parent_id: 961
+
+975:
+id: 975
+area: 其它区
+parent_id: 961
+
+976:
+id: 976
+area: 南通市
+parent_id: 912
+
+977:
+id: 977
+area: 崇川区
+parent_id: 976
+
+978:
+id: 978
+area: 港闸区
+parent_id: 976
+
+979:
+id: 979
+area: 通州区
+parent_id: 976
+
+980:
+id: 980
+area: 海安县
+parent_id: 976
+
+981:
+id: 981
+area: 如东县
+parent_id: 976
+
+982:
+id: 982
+area: 启东市
+parent_id: 976
+
+983:
+id: 983
+area: 如皋市
+parent_id: 976
+
+984:
+id: 984
+area: 通州市
+parent_id: 976
+
+985:
+id: 985
+area: 海门市
+parent_id: 976
+
+986:
+id: 986
+area: 开发区
+parent_id: 976
+
+987:
+id: 987
+area: 其它区
+parent_id: 976
+
+988:
+id: 988
+area: 连云港市
+parent_id: 912
+
+989:
+id: 989
+area: 连云区
+parent_id: 988
+
+990:
+id: 990
+area: 新浦区
+parent_id: 988
+
+991:
+id: 991
+area: 海州区
+parent_id: 988
+
+992:
+id: 992
+area: 赣榆县
+parent_id: 988
+
+993:
+id: 993
+area: 东海县
+parent_id: 988
+
+994:
+id: 994
+area: 灌云县
+parent_id: 988
+
+995:
+id: 995
+area: 灌南县
+parent_id: 988
+
+996:
+id: 996
+area: 其它区
+parent_id: 988
+
+997:
+id: 997
+area: 淮安市
+parent_id: 912
+
+998:
+id: 998
+area: 清河区
+parent_id: 997
+
+999:
+id: 999
+area: 楚州区
+parent_id: 997
+
+1000:
+id: 1000
+area: 淮阴区
+parent_id: 997
+
+1001:
+id: 1001
+area: 清浦区
+parent_id: 997
+
+1002:
+id: 1002
+area: 涟水县
+parent_id: 997
+
+1003:
+id: 1003
+area: 洪泽县
+parent_id: 997
+
+1004:
+id: 1004
+area: 盱眙县
+parent_id: 997
+
+1005:
+id: 1005
+area: 金湖县
+parent_id: 997
+
+1006:
+id: 1006
+area: 其它区
+parent_id: 997
+
+1007:
+id: 1007
+area: 盐城市
+parent_id: 912
+
+1008:
+id: 1008
+area: 亭湖区
+parent_id: 1007
+
+1009:
+id: 1009
+area: 盐都区
+parent_id: 1007
+
+1010:
+id: 1010
+area: 响水县
+parent_id: 1007
+
+1011:
+id: 1011
+area: 滨海县
+parent_id: 1007
+
+1012:
+id: 1012
+area: 阜宁县
+parent_id: 1007
+
+1013:
+id: 1013
+area: 射阳县
+parent_id: 1007
+
+1014:
+id: 1014
+area: 建湖县
+parent_id: 1007
+
+1015:
+id: 1015
+area: 东台市
+parent_id: 1007
+
+1016:
+id: 1016
+area: 大丰市
+parent_id: 1007
+
+1017:
+id: 1017
+area: 其它区
+parent_id: 1007
+
+1018:
+id: 1018
+area: 扬州市
+parent_id: 912
+
+1019:
+id: 1019
+area: 广陵区
+parent_id: 1018
+
+1020:
+id: 1020
+area: 邗江区
+parent_id: 1018
+
+1021:
+id: 1021
+area: 维扬区
+parent_id: 1018
+
+1022:
+id: 1022
+area: 宝应县
+parent_id: 1018
+
+1023:
+id: 1023
+area: 仪征市
+parent_id: 1018
+
+1024:
+id: 1024
+area: 高邮市
+parent_id: 1018
+
+1025:
+id: 1025
+area: 江都市
+parent_id: 1018
+
+1026:
+id: 1026
+area: 经济开发区
+parent_id: 1018
+
+1027:
+id: 1027
+area: 其它区
+parent_id: 1018
+
+1028:
+id: 1028
+area: 镇江市
+parent_id: 912
+
+1029:
+id: 1029
+area: 京口区
+parent_id: 1028
+
+1030:
+id: 1030
+area: 润州区
+parent_id: 1028
+
+1031:
+id: 1031
+area: 丹徒区
+parent_id: 1028
+
+1032:
+id: 1032
+area: 丹阳市
+parent_id: 1028
+
+1033:
+id: 1033
+area: 扬中市
+parent_id: 1028
+
+1034:
+id: 1034
+area: 句容市
+parent_id: 1028
+
+1035:
+id: 1035
+area: 其它区
+parent_id: 1028
+
+1036:
+id: 1036
+area: 泰州市
+parent_id: 912
+
+1037:
+id: 1037
+area: 海陵区
+parent_id: 1036
+
+1038:
+id: 1038
+area: 高港区
+parent_id: 1036
+
+1039:
+id: 1039
+area: 兴化市
+parent_id: 1036
+
+1040:
+id: 1040
+area: 靖江市
+parent_id: 1036
+
+1041:
+id: 1041
+area: 泰兴市
+parent_id: 1036
+
+1042:
+id: 1042
+area: 姜堰市
+parent_id: 1036
+
+1043:
+id: 1043
+area: 其它区
+parent_id: 1036
+
+1044:
+id: 1044
+area: 宿迁市
+parent_id: 912
+
+1045:
+id: 1045
+area: 宿城区
+parent_id: 1044
+
+1046:
+id: 1046
+area: 宿豫区
+parent_id: 1044
+
+1047:
+id: 1047
+area: 沭阳县
+parent_id: 1044
+
+1048:
+id: 1048
+area: 泗阳县
+parent_id: 1044
+
+1049:
+id: 1049
+area: 泗洪县
+parent_id: 1044
+
+1050:
+id: 1050
+area: 其它区
+parent_id: 1044
+
+1051:
+id: 1051
+area: 浙江省
+parent_id: 
+
+1052:
+id: 1052
+area: 杭州市
+parent_id: 1051
+
+1053:
+id: 1053
+area: 上城区
+parent_id: 1052
+
+1054:
+id: 1054
+area: 下城区
+parent_id: 1052
+
+1055:
+id: 1055
+area: 江干区
+parent_id: 1052
+
+1056:
+id: 1056
+area: 拱墅区
+parent_id: 1052
+
+1057:
+id: 1057
+area: 西湖区
+parent_id: 1052
+
+1058:
+id: 1058
+area: 滨江区
+parent_id: 1052
+
+1059:
+id: 1059
+area: 萧山区
+parent_id: 1052
+
+1060:
+id: 1060
+area: 余杭区
+parent_id: 1052
+
+1061:
+id: 1061
+area: 桐庐县
+parent_id: 1052
+
+1062:
+id: 1062
+area: 淳安县
+parent_id: 1052
+
+1063:
+id: 1063
+area: 建德市
+parent_id: 1052
+
+1064:
+id: 1064
+area: 富阳市
+parent_id: 1052
+
+1065:
+id: 1065
+area: 临安市
+parent_id: 1052
+
+1066:
+id: 1066
+area: 其它区
+parent_id: 1052
+
+1067:
+id: 1067
+area: 宁波市
+parent_id: 1051
+
+1068:
+id: 1068
+area: 海曙区
+parent_id: 1067
+
+1069:
+id: 1069
+area: 江东区
+parent_id: 1067
+
+1070:
+id: 1070
+area: 江北区
+parent_id: 1067
+
+1071:
+id: 1071
+area: 北仑区
+parent_id: 1067
+
+1072:
+id: 1072
+area: 镇海区
+parent_id: 1067
+
+1073:
+id: 1073
+area: 鄞州区
+parent_id: 1067
+
+1074:
+id: 1074
+area: 象山县
+parent_id: 1067
+
+1075:
+id: 1075
+area: 宁海县
+parent_id: 1067
+
+1076:
+id: 1076
+area: 余姚市
+parent_id: 1067
+
+1077:
+id: 1077
+area: 慈溪市
+parent_id: 1067
+
+1078:
+id: 1078
+area: 奉化市
+parent_id: 1067
+
+1079:
+id: 1079
+area: 其它区
+parent_id: 1067
+
+1080:
+id: 1080
+area: 温州市
+parent_id: 1051
+
+1081:
+id: 1081
+area: 鹿城区
+parent_id: 1080
+
+1082:
+id: 1082
+area: 龙湾区
+parent_id: 1080
+
+1083:
+id: 1083
+area: 瓯海区
+parent_id: 1080
+
+1084:
+id: 1084
+area: 洞头县
+parent_id: 1080
+
+1085:
+id: 1085
+area: 永嘉县
+parent_id: 1080
+
+1086:
+id: 1086
+area: 平阳县
+parent_id: 1080
+
+1087:
+id: 1087
+area: 苍南县
+parent_id: 1080
+
+1088:
+id: 1088
+area: 文成县
+parent_id: 1080
+
+1089:
+id: 1089
+area: 泰顺县
+parent_id: 1080
+
+1090:
+id: 1090
+area: 瑞安市
+parent_id: 1080
+
+1091:
+id: 1091
+area: 乐清市
+parent_id: 1080
+
+1092:
+id: 1092
+area: 其它区
+parent_id: 1080
+
+1093:
+id: 1093
+area: 嘉兴市
+parent_id: 1051
+
+1094:
+id: 1094
+area: 南湖区
+parent_id: 1093
+
+1095:
+id: 1095
+area: 秀洲区
+parent_id: 1093
+
+1096:
+id: 1096
+area: 嘉善县
+parent_id: 1093
+
+1097:
+id: 1097
+area: 海盐县
+parent_id: 1093
+
+1098:
+id: 1098
+area: 海宁市
+parent_id: 1093
+
+1099:
+id: 1099
+area: 平湖市
+parent_id: 1093
+
+1100:
+id: 1100
+area: 桐乡市
+parent_id: 1093
+
+1101:
+id: 1101
+area: 其它区
+parent_id: 1093
+
+1102:
+id: 1102
+area: 湖州市
+parent_id: 1051
+
+1103:
+id: 1103
+area: 吴兴区
+parent_id: 1102
+
+1104:
+id: 1104
+area: 南浔区
+parent_id: 1102
+
+1105:
+id: 1105
+area: 德清县
+parent_id: 1102
+
+1106:
+id: 1106
+area: 长兴县
+parent_id: 1102
+
+1107:
+id: 1107
+area: 安吉县
+parent_id: 1102
+
+1108:
+id: 1108
+area: 其它区
+parent_id: 1102
+
+1109:
+id: 1109
+area: 绍兴市
+parent_id: 1051
+
+1110:
+id: 1110
+area: 越城区
+parent_id: 1109
+
+1111:
+id: 1111
+area: 绍兴县
+parent_id: 1109
+
+1112:
+id: 1112
+area: 新昌县
+parent_id: 1109
+
+1113:
+id: 1113
+area: 诸暨市
+parent_id: 1109
+
+1114:
+id: 1114
+area: 上虞市
+parent_id: 1109
+
+1115:
+id: 1115
+area: 嵊州市
+parent_id: 1109
+
+1116:
+id: 1116
+area: 其它区
+parent_id: 1109
+
+1117:
+id: 1117
+area: 金华市
+parent_id: 1051
+
+1118:
+id: 1118
+area: 婺城区
+parent_id: 1117
+
+1119:
+id: 1119
+area: 金东区
+parent_id: 1117
+
+1120:
+id: 1120
+area: 武义县
+parent_id: 1117
+
+1121:
+id: 1121
+area: 浦江县
+parent_id: 1117
+
+1122:
+id: 1122
+area: 磐安县
+parent_id: 1117
+
+1123:
+id: 1123
+area: 兰溪市
+parent_id: 1117
+
+1124:
+id: 1124
+area: 义乌市
+parent_id: 1117
+
+1125:
+id: 1125
+area: 东阳市
+parent_id: 1117
+
+1126:
+id: 1126
+area: 永康市
+parent_id: 1117
+
+1127:
+id: 1127
+area: 其它区
+parent_id: 1117
+
+1128:
+id: 1128
+area: 衢州市
+parent_id: 1051
+
+1129:
+id: 1129
+area: 柯城区
+parent_id: 1128
+
+1130:
+id: 1130
+area: 衢江区
+parent_id: 1128
+
+1131:
+id: 1131
+area: 常山县
+parent_id: 1128
+
+1132:
+id: 1132
+area: 开化县
+parent_id: 1128
+
+1133:
+id: 1133
+area: 龙游县
+parent_id: 1128
+
+1134:
+id: 1134
+area: 江山市
+parent_id: 1128
+
+1135:
+id: 1135
+area: 其它区
+parent_id: 1128
+
+1136:
+id: 1136
+area: 舟山市
+parent_id: 1051
+
+1137:
+id: 1137
+area: 定海区
+parent_id: 1136
+
+1138:
+id: 1138
+area: 普陀区
+parent_id: 1136
+
+1139:
+id: 1139
+area: 岱山县
+parent_id: 1136
+
+1140:
+id: 1140
+area: 嵊泗县
+parent_id: 1136
+
+1141:
+id: 1141
+area: 其它区
+parent_id: 1136
+
+1142:
+id: 1142
+area: 台州市
+parent_id: 1051
+
+1143:
+id: 1143
+area: 椒江区
+parent_id: 1142
+
+1144:
+id: 1144
+area: 黄岩区
+parent_id: 1142
+
+1145:
+id: 1145
+area: 路桥区
+parent_id: 1142
+
+1146:
+id: 1146
+area: 玉环县
+parent_id: 1142
+
+1147:
+id: 1147
+area: 三门县
+parent_id: 1142
+
+1148:
+id: 1148
+area: 天台县
+parent_id: 1142
+
+1149:
+id: 1149
+area: 仙居县
+parent_id: 1142
+
+1150:
+id: 1150
+area: 温岭市
+parent_id: 1142
+
+1151:
+id: 1151
+area: 临海市
+parent_id: 1142
+
+1152:
+id: 1152
+area: 其它区
+parent_id: 1142
+
+1153:
+id: 1153
+area: 丽水市
+parent_id: 1051
+
+1154:
+id: 1154
+area: 莲都区
+parent_id: 1153
+
+1155:
+id: 1155
+area: 青田县
+parent_id: 1153
+
+1156:
+id: 1156
+area: 缙云县
+parent_id: 1153
+
+1157:
+id: 1157
+area: 遂昌县
+parent_id: 1153
+
+1158:
+id: 1158
+area: 松阳县
+parent_id: 1153
+
+1159:
+id: 1159
+area: 云和县
+parent_id: 1153
+
+1160:
+id: 1160
+area: 庆元县
+parent_id: 1153
+
+1161:
+id: 1161
+area: 景宁畲族自治县
+parent_id: 1153
+
+1162:
+id: 1162
+area: 龙泉市
+parent_id: 1153
+
+1163:
+id: 1163
+area: 其它区
+parent_id: 1153
+
+1164:
+id: 1164
+area: 安徽省
+parent_id: 
+
+1165:
+id: 1165
+area: 合肥市
+parent_id: 1164
+
+1166:
+id: 1166
+area: 瑶海区
+parent_id: 1165
+
+1167:
+id: 1167
+area: 庐阳区
+parent_id: 1165
+
+1168:
+id: 1168
+area: 蜀山区
+parent_id: 1165
+
+1169:
+id: 1169
+area: 包河区
+parent_id: 1165
+
+1170:
+id: 1170
+area: 长丰县
+parent_id: 1165
+
+1171:
+id: 1171
+area: 肥东县
+parent_id: 1165
+
+1172:
+id: 1172
+area: 肥西县
+parent_id: 1165
+
+1173:
+id: 1173
+area: 高新区
+parent_id: 1165
+
+1174:
+id: 1174
+area: 中区
+parent_id: 1165
+
+1175:
+id: 1175
+area: 其它区
+parent_id: 1165
+
+1176:
+id: 1176
+area: 芜湖市
+parent_id: 1164
+
+1177:
+id: 1177
+area: 镜湖区
+parent_id: 1176
+
+1178:
+id: 1178
+area: 弋江区
+parent_id: 1176
+
+1179:
+id: 1179
+area: 鸠江区
+parent_id: 1176
+
+1180:
+id: 1180
+area: 三山区
+parent_id: 1176
+
+1181:
+id: 1181
+area: 芜湖县
+parent_id: 1176
+
+1182:
+id: 1182
+area: 繁昌县
+parent_id: 1176
+
+1183:
+id: 1183
+area: 南陵县
+parent_id: 1176
+
+1184:
+id: 1184
+area: 其它区
+parent_id: 1176
+
+1185:
+id: 1185
+area: 蚌埠市
+parent_id: 1164
+
+1186:
+id: 1186
+area: 龙子湖区
+parent_id: 1185
+
+1187:
+id: 1187
+area: 蚌山区
+parent_id: 1185
+
+1188:
+id: 1188
+area: 禹会区
+parent_id: 1185
+
+1189:
+id: 1189
+area: 淮上区
+parent_id: 1185
+
+1190:
+id: 1190
+area: 怀远县
+parent_id: 1185
+
+1191:
+id: 1191
+area: 五河县
+parent_id: 1185
+
+1192:
+id: 1192
+area: 固镇县
+parent_id: 1185
+
+1193:
+id: 1193
+area: 其它区
+parent_id: 1185
+
+1194:
+id: 1194
+area: 淮南市
+parent_id: 1164
+
+1195:
+id: 1195
+area: 大通区
+parent_id: 1194
+
+1196:
+id: 1196
+area: 田家庵区
+parent_id: 1194
+
+1197:
+id: 1197
+area: 谢家集区
+parent_id: 1194
+
+1198:
+id: 1198
+area: 八公山区
+parent_id: 1194
+
+1199:
+id: 1199
+area: 潘集区
+parent_id: 1194
+
+1200:
+id: 1200
+area: 凤台县
+parent_id: 1194
+
+1201:
+id: 1201
+area: 其它区
+parent_id: 1194
+
+1202:
+id: 1202
+area: 马鞍山市
+parent_id: 1164
+
+1203:
+id: 1203
+area: 金家庄区
+parent_id: 1202
+
+1204:
+id: 1204
+area: 花山区
+parent_id: 1202
+
+1205:
+id: 1205
+area: 雨山区
+parent_id: 1202
+
+1206:
+id: 1206
+area: 当涂县
+parent_id: 1202
+
+1207:
+id: 1207
+area: 其它区
+parent_id: 1202
+
+1208:
+id: 1208
+area: 淮北市
+parent_id: 1164
+
+1209:
+id: 1209
+area: 杜集区
+parent_id: 1208
+
+1210:
+id: 1210
+area: 相山区
+parent_id: 1208
+
+1211:
+id: 1211
+area: 烈山区
+parent_id: 1208
+
+1212:
+id: 1212
+area: 濉溪县
+parent_id: 1208
+
+1213:
+id: 1213
+area: 其它区
+parent_id: 1208
+
+1214:
+id: 1214
+area: 铜陵市
+parent_id: 1164
+
+1215:
+id: 1215
+area: 铜官山区
+parent_id: 1214
+
+1216:
+id: 1216
+area: 狮子山区
+parent_id: 1214
+
+1217:
+id: 1217
+area: 郊区
+parent_id: 1214
+
+1218:
+id: 1218
+area: 铜陵县
+parent_id: 1214
+
+1219:
+id: 1219
+area: 其它区
+parent_id: 1214
+
+1220:
+id: 1220
+area: 安庆市
+parent_id: 1164
+
+1221:
+id: 1221
+area: 迎江区
+parent_id: 1220
+
+1222:
+id: 1222
+area: 大观区
+parent_id: 1220
+
+1223:
+id: 1223
+area: 宜秀区
+parent_id: 1220
+
+1224:
+id: 1224
+area: 怀宁县
+parent_id: 1220
+
+1225:
+id: 1225
+area: 枞阳县
+parent_id: 1220
+
+1226:
+id: 1226
+area: 潜山县
+parent_id: 1220
+
+1227:
+id: 1227
+area: 太湖县
+parent_id: 1220
+
+1228:
+id: 1228
+area: 宿松县
+parent_id: 1220
+
+1229:
+id: 1229
+area: 望江县
+parent_id: 1220
+
+1230:
+id: 1230
+area: 岳西县
+parent_id: 1220
+
+1231:
+id: 1231
+area: 桐城市
+parent_id: 1220
+
+1232:
+id: 1232
+area: 其它区
+parent_id: 1220
+
+1233:
+id: 1233
+area: 黄山市
+parent_id: 1164
+
+1234:
+id: 1234
+area: 屯溪区
+parent_id: 1233
+
+1235:
+id: 1235
+area: 黄山区
+parent_id: 1233
+
+1236:
+id: 1236
+area: 徽州区
+parent_id: 1233
+
+1237:
+id: 1237
+area: 歙县
+parent_id: 1233
+
+1238:
+id: 1238
+area: 休宁县
+parent_id: 1233
+
+1239:
+id: 1239
+area: 黟县
+parent_id: 1233
+
+1240:
+id: 1240
+area: 祁门县
+parent_id: 1233
+
+1241:
+id: 1241
+area: 其它区
+parent_id: 1233
+
+1242:
+id: 1242
+area: 滁州市
+parent_id: 1164
+
+1243:
+id: 1243
+area: 琅琊区
+parent_id: 1242
+
+1244:
+id: 1244
+area: 南谯区
+parent_id: 1242
+
+1245:
+id: 1245
+area: 来安县
+parent_id: 1242
+
+1246:
+id: 1246
+area: 全椒县
+parent_id: 1242
+
+1247:
+id: 1247
+area: 定远县
+parent_id: 1242
+
+1248:
+id: 1248
+area: 凤阳县
+parent_id: 1242
+
+1249:
+id: 1249
+area: 天长市
+parent_id: 1242
+
+1250:
+id: 1250
+area: 明光市
+parent_id: 1242
+
+1251:
+id: 1251
+area: 其它区
+parent_id: 1242
+
+1252:
+id: 1252
+area: 阜阳市
+parent_id: 1164
+
+1253:
+id: 1253
+area: 颍州区
+parent_id: 1252
+
+1254:
+id: 1254
+area: 颍东区
+parent_id: 1252
+
+1255:
+id: 1255
+area: 颍泉区
+parent_id: 1252
+
+1256:
+id: 1256
+area: 临泉县
+parent_id: 1252
+
+1257:
+id: 1257
+area: 太和县
+parent_id: 1252
+
+1258:
+id: 1258
+area: 阜南县
+parent_id: 1252
+
+1259:
+id: 1259
+area: 颍上县
+parent_id: 1252
+
+1260:
+id: 1260
+area: 界首市
+parent_id: 1252
+
+1261:
+id: 1261
+area: 其它区
+parent_id: 1252
+
+1262:
+id: 1262
+area: 宿州市
+parent_id: 1164
+
+1263:
+id: 1263
+area: 埇桥区
+parent_id: 1262
+
+1264:
+id: 1264
+area: 砀山县
+parent_id: 1262
+
+1265:
+id: 1265
+area: 萧县
+parent_id: 1262
+
+1266:
+id: 1266
+area: 灵璧县
+parent_id: 1262
+
+1267:
+id: 1267
+area: 泗县
+parent_id: 1262
+
+1268:
+id: 1268
+area: 其它区
+parent_id: 1262
+
+1269:
+id: 1269
+area: 巢湖市
+parent_id: 1165
+
+1270:
+id: 1270
+area: 居巢区
+parent_id: 1165
+
+1271:
+id: 1271
+area: 庐江县
+parent_id: 1165
+
+1272:
+id: 1272
+area: 无为县
+parent_id: 1176
+
+1273:
+id: 1273
+area: 含山县
+parent_id: 1202
+
+1274:
+id: 1274
+area: 和县
+parent_id: 1202
+
+1275:
+id: 1275
+area: 六安市
+parent_id: 1164
+
+1276:
+id: 1276
+area: 金安区
+parent_id: 1275
+
+1277:
+id: 1277
+area: 裕安区
+parent_id: 1275
+
+1278:
+id: 1278
+area: 寿县
+parent_id: 1275
+
+1279:
+id: 1279
+area: 霍邱县
+parent_id: 1275
+
+1280:
+id: 1280
+area: 舒城县
+parent_id: 1275
+
+1281:
+id: 1281
+area: 金寨县
+parent_id: 1275
+
+1282:
+id: 1282
+area: 霍山县
+parent_id: 1275
+
+1283:
+id: 1283
+area: 其它区
+parent_id: 1275
+
+1284:
+id: 1284
+area: 亳州市
+parent_id: 1164
+
+1285:
+id: 1285
+area: 谯城区
+parent_id: 1284
+
+1286:
+id: 1286
+area: 涡阳县
+parent_id: 1284
+
+1287:
+id: 1287
+area: 蒙城县
+parent_id: 1284
+
+1288:
+id: 1288
+area: 利辛县
+parent_id: 1284
+
+1289:
+id: 1289
+area: 其它区
+parent_id: 1284
+
+1290:
+id: 1290
+area: 池州市
+parent_id: 1164
+
+1291:
+id: 1291
+area: 贵池区
+parent_id: 1290
+
+1292:
+id: 1292
+area: 东至县
+parent_id: 1290
+
+1293:
+id: 1293
+area: 石台县
+parent_id: 1290
+
+1294:
+id: 1294
+area: 青阳县
+parent_id: 1290
+
+1295:
+id: 1295
+area: 其它区
+parent_id: 1290
+
+1296:
+id: 1296
+area: 宣城市
+parent_id: 1164
+
+1297:
+id: 1297
+area: 宣州区
+parent_id: 1296
+
+1298:
+id: 1298
+area: 郎溪县
+parent_id: 1296
+
+1299:
+id: 1299
+area: 广德县
+parent_id: 1296
+
+1300:
+id: 1300
+area: 泾县
+parent_id: 1296
+
+1301:
+id: 1301
+area: 绩溪县
+parent_id: 1296
+
+1302:
+id: 1302
+area: 旌德县
+parent_id: 1296
+
+1303:
+id: 1303
+area: 宁国市
+parent_id: 1296
+
+1304:
+id: 1304
+area: 其它区
+parent_id: 1296
+
+1305:
+id: 1305
+area: 福建省
+parent_id: 
+
+1306:
+id: 1306
+area: 福州市
+parent_id: 1305
+
+1307:
+id: 1307
+area: 鼓楼区
+parent_id: 1306
+
+1308:
+id: 1308
+area: 台江区
+parent_id: 1306
+
+1309:
+id: 1309
+area: 仓山区
+parent_id: 1306
+
+1310:
+id: 1310
+area: 马尾区
+parent_id: 1306
+
+1311:
+id: 1311
+area: 晋安区
+parent_id: 1306
+
+1312:
+id: 1312
+area: 闽侯县
+parent_id: 1306
+
+1313:
+id: 1313
+area: 连江县
+parent_id: 1306
+
+1314:
+id: 1314
+area: 罗源县
+parent_id: 1306
+
+1315:
+id: 1315
+area: 闽清县
+parent_id: 1306
+
+1316:
+id: 1316
+area: 永泰县
+parent_id: 1306
+
+1317:
+id: 1317
+area: 平潭县
+parent_id: 1306
+
+1318:
+id: 1318
+area: 福清市
+parent_id: 1306
+
+1319:
+id: 1319
+area: 长乐市
+parent_id: 1306
+
+1320:
+id: 1320
+area: 其它区
+parent_id: 1306
+
+1321:
+id: 1321
+area: 厦门市
+parent_id: 1305
+
+1322:
+id: 1322
+area: 思明区
+parent_id: 1321
+
+1323:
+id: 1323
+area: 海沧区
+parent_id: 1321
+
+1324:
+id: 1324
+area: 湖里区
+parent_id: 1321
+
+1325:
+id: 1325
+area: 集美区
+parent_id: 1321
+
+1326:
+id: 1326
+area: 同安区
+parent_id: 1321
+
+1327:
+id: 1327
+area: 翔安区
+parent_id: 1321
+
+1328:
+id: 1328
+area: 其它区
+parent_id: 1321
+
+1329:
+id: 1329
+area: 莆田市
+parent_id: 1305
+
+1330:
+id: 1330
+area: 城厢区
+parent_id: 1329
+
+1331:
+id: 1331
+area: 涵江区
+parent_id: 1329
+
+1332:
+id: 1332
+area: 荔城区
+parent_id: 1329
+
+1333:
+id: 1333
+area: 秀屿区
+parent_id: 1329
+
+1334:
+id: 1334
+area: 仙游县
+parent_id: 1329
+
+1335:
+id: 1335
+area: 其它区
+parent_id: 1329
+
+1336:
+id: 1336
+area: 三明市
+parent_id: 1305
+
+1337:
+id: 1337
+area: 梅列区
+parent_id: 1336
+
+1338:
+id: 1338
+area: 三元区
+parent_id: 1336
+
+1339:
+id: 1339
+area: 明溪县
+parent_id: 1336
+
+1340:
+id: 1340
+area: 清流县
+parent_id: 1336
+
+1341:
+id: 1341
+area: 宁化县
+parent_id: 1336
+
+1342:
+id: 1342
+area: 大田县
+parent_id: 1336
+
+1343:
+id: 1343
+area: 尤溪县
+parent_id: 1336
+
+1344:
+id: 1344
+area: 沙县
+parent_id: 1336
+
+1345:
+id: 1345
+area: 将乐县
+parent_id: 1336
+
+1346:
+id: 1346
+area: 泰宁县
+parent_id: 1336
+
+1347:
+id: 1347
+area: 建宁县
+parent_id: 1336
+
+1348:
+id: 1348
+area: 永安市
+parent_id: 1336
+
+1349:
+id: 1349
+area: 其它区
+parent_id: 1336
+
+1350:
+id: 1350
+area: 泉州市
+parent_id: 1305
+
+1351:
+id: 1351
+area: 鲤城区
+parent_id: 1350
+
+1352:
+id: 1352
+area: 丰泽区
+parent_id: 1350
+
+1353:
+id: 1353
+area: 洛江区
+parent_id: 1350
+
+1354:
+id: 1354
+area: 泉港区
+parent_id: 1350
+
+1355:
+id: 1355
+area: 惠安县
+parent_id: 1350
+
+1356:
+id: 1356
+area: 安溪县
+parent_id: 1350
+
+1357:
+id: 1357
+area: 永春县
+parent_id: 1350
+
+1358:
+id: 1358
+area: 德化县
+parent_id: 1350
+
+1359:
+id: 1359
+area: 金门县
+parent_id: 1350
+
+1360:
+id: 1360
+area: 石狮市
+parent_id: 1350
+
+1361:
+id: 1361
+area: 晋江市
+parent_id: 1350
+
+1362:
+id: 1362
+area: 南安市
+parent_id: 1350
+
+1363:
+id: 1363
+area: 其它区
+parent_id: 1350
+
+1364:
+id: 1364
+area: 漳州市
+parent_id: 1305
+
+1365:
+id: 1365
+area: 芗城区
+parent_id: 1364
+
+1366:
+id: 1366
+area: 龙文区
+parent_id: 1364
+
+1367:
+id: 1367
+area: 云霄县
+parent_id: 1364
+
+1368:
+id: 1368
+area: 漳浦县
+parent_id: 1364
+
+1369:
+id: 1369
+area: 诏安县
+parent_id: 1364
+
+1370:
+id: 1370
+area: 长泰县
+parent_id: 1364
+
+1371:
+id: 1371
+area: 东山县
+parent_id: 1364
+
+1372:
+id: 1372
+area: 南靖县
+parent_id: 1364
+
+1373:
+id: 1373
+area: 平和县
+parent_id: 1364
+
+1374:
+id: 1374
+area: 华安县
+parent_id: 1364
+
+1375:
+id: 1375
+area: 龙海市
+parent_id: 1364
+
+1376:
+id: 1376
+area: 其它区
+parent_id: 1364
+
+1377:
+id: 1377
+area: 南平市
+parent_id: 1305
+
+1378:
+id: 1378
+area: 延平区
+parent_id: 1377
+
+1379:
+id: 1379
+area: 顺昌县
+parent_id: 1377
+
+1380:
+id: 1380
+area: 浦城县
+parent_id: 1377
+
+1381:
+id: 1381
+area: 光泽县
+parent_id: 1377
+
+1382:
+id: 1382
+area: 松溪县
+parent_id: 1377
+
+1383:
+id: 1383
+area: 政和县
+parent_id: 1377
+
+1384:
+id: 1384
+area: 邵武市
+parent_id: 1377
+
+1385:
+id: 1385
+area: 武夷山市
+parent_id: 1377
+
+1386:
+id: 1386
+area: 建瓯市
+parent_id: 1377
+
+1387:
+id: 1387
+area: 建阳市
+parent_id: 1377
+
+1388:
+id: 1388
+area: 其它区
+parent_id: 1377
+
+1389:
+id: 1389
+area: 龙岩市
+parent_id: 1305
+
+1390:
+id: 1390
+area: 新罗区
+parent_id: 1389
+
+1391:
+id: 1391
+area: 长汀县
+parent_id: 1389
+
+1392:
+id: 1392
+area: 永定县
+parent_id: 1389
+
+1393:
+id: 1393
+area: 上杭县
+parent_id: 1389
+
+1394:
+id: 1394
+area: 武平县
+parent_id: 1389
+
+1395:
+id: 1395
+area: 连城县
+parent_id: 1389
+
+1396:
+id: 1396
+area: 漳平市
+parent_id: 1389
+
+1397:
+id: 1397
+area: 其它区
+parent_id: 1389
+
+1398:
+id: 1398
+area: 宁德市
+parent_id: 1305
+
+1399:
+id: 1399
+area: 蕉城区
+parent_id: 1398
+
+1400:
+id: 1400
+area: 霞浦县
+parent_id: 1398
+
+1401:
+id: 1401
+area: 古田县
+parent_id: 1398
+
+1402:
+id: 1402
+area: 屏南县
+parent_id: 1398
+
+1403:
+id: 1403
+area: 寿宁县
+parent_id: 1398
+
+1404:
+id: 1404
+area: 周宁县
+parent_id: 1398
+
+1405:
+id: 1405
+area: 柘荣县
+parent_id: 1398
+
+1406:
+id: 1406
+area: 福安市
+parent_id: 1398
+
+1407:
+id: 1407
+area: 福鼎市
+parent_id: 1398
+
+1408:
+id: 1408
+area: 其它区
+parent_id: 1398
+
+1409:
+id: 1409
+area: 江西省
+parent_id: 
+
+1410:
+id: 1410
+area: 南昌市
+parent_id: 1409
+
+1411:
+id: 1411
+area: 东湖区
+parent_id: 1410
+
+1412:
+id: 1412
+area: 西湖区
+parent_id: 1410
+
+1413:
+id: 1413
+area: 青云谱区
+parent_id: 1410
+
+1414:
+id: 1414
+area: 湾里区
+parent_id: 1410
+
+1415:
+id: 1415
+area: 青山湖区
+parent_id: 1410
+
+1416:
+id: 1416
+area: 南昌县
+parent_id: 1410
+
+1417:
+id: 1417
+area: 新建县
+parent_id: 1410
+
+1418:
+id: 1418
+area: 安义县
+parent_id: 1410
+
+1419:
+id: 1419
+area: 进贤县
+parent_id: 1410
+
+1420:
+id: 1420
+area: 红谷滩新区
+parent_id: 1410
+
+1421:
+id: 1421
+area: 经济技术开发区
+parent_id: 1410
+
+1422:
+id: 1422
+area: 昌北区
+parent_id: 1410
+
+1423:
+id: 1423
+area: 其它区
+parent_id: 1410
+
+1424:
+id: 1424
+area: 景德镇市
+parent_id: 1409
+
+1425:
+id: 1425
+area: 昌江区
+parent_id: 1424
+
+1426:
+id: 1426
+area: 珠山区
+parent_id: 1424
+
+1427:
+id: 1427
+area: 浮梁县
+parent_id: 1424
+
+1428:
+id: 1428
+area: 乐平市
+parent_id: 1424
+
+1429:
+id: 1429
+area: 其它区
+parent_id: 1424
+
+1430:
+id: 1430
+area: 萍乡市
+parent_id: 1409
+
+1431:
+id: 1431
+area: 安源区
+parent_id: 1430
+
+1432:
+id: 1432
+area: 湘东区
+parent_id: 1430
+
+1433:
+id: 1433
+area: 莲花县
+parent_id: 1430
+
+1434:
+id: 1434
+area: 上栗县
+parent_id: 1430
+
+1435:
+id: 1435
+area: 芦溪县
+parent_id: 1430
+
+1436:
+id: 1436
+area: 其它区
+parent_id: 1430
+
+1437:
+id: 1437
+area: 九江市
+parent_id: 1409
+
+1438:
+id: 1438
+area: 庐山区
+parent_id: 1437
+
+1439:
+id: 1439
+area: 浔阳区
+parent_id: 1437
+
+1440:
+id: 1440
+area: 九江县
+parent_id: 1437
+
+1441:
+id: 1441
+area: 武宁县
+parent_id: 1437
+
+1442:
+id: 1442
+area: 修水县
+parent_id: 1437
+
+1443:
+id: 1443
+area: 永修县
+parent_id: 1437
+
+1444:
+id: 1444
+area: 德安县
+parent_id: 1437
+
+1445:
+id: 1445
+area: 星子县
+parent_id: 1437
+
+1446:
+id: 1446
+area: 都昌县
+parent_id: 1437
+
+1447:
+id: 1447
+area: 湖口县
+parent_id: 1437
+
+1448:
+id: 1448
+area: 彭泽县
+parent_id: 1437
+
+1449:
+id: 1449
+area: 瑞昌市
+parent_id: 1437
+
+1450:
+id: 1450
+area: 其它区
+parent_id: 1437
+
+1451:
+id: 1451
+area: 新余市
+parent_id: 1409
+
+1452:
+id: 1452
+area: 渝水区
+parent_id: 1451
+
+1453:
+id: 1453
+area: 分宜县
+parent_id: 1451
+
+1454:
+id: 1454
+area: 其它区
+parent_id: 1451
+
+1455:
+id: 1455
+area: 鹰潭市
+parent_id: 1409
+
+1456:
+id: 1456
+area: 月湖区
+parent_id: 1455
+
+1457:
+id: 1457
+area: 余江县
+parent_id: 1455
+
+1458:
+id: 1458
+area: 贵溪市
+parent_id: 1455
+
+1459:
+id: 1459
+area: 其它区
+parent_id: 1455
+
+1460:
+id: 1460
+area: 赣州市
+parent_id: 1409
+
+1461:
+id: 1461
+area: 章贡区
+parent_id: 1460
+
+1462:
+id: 1462
+area: 赣县
+parent_id: 1460
+
+1463:
+id: 1463
+area: 信丰县
+parent_id: 1460
+
+1464:
+id: 1464
+area: 大余县
+parent_id: 1460
+
+1465:
+id: 1465
+area: 上犹县
+parent_id: 1460
+
+1466:
+id: 1466
+area: 崇义县
+parent_id: 1460
+
+1467:
+id: 1467
+area: 安远县
+parent_id: 1460
+
+1468:
+id: 1468
+area: 龙南县
+parent_id: 1460
+
+1469:
+id: 1469
+area: 定南县
+parent_id: 1460
+
+1470:
+id: 1470
+area: 全南县
+parent_id: 1460
+
+1471:
+id: 1471
+area: 宁都县
+parent_id: 1460
+
+1472:
+id: 1472
+area: 于都县
+parent_id: 1460
+
+1473:
+id: 1473
+area: 兴国县
+parent_id: 1460
+
+1474:
+id: 1474
+area: 会昌县
+parent_id: 1460
+
+1475:
+id: 1475
+area: 寻乌县
+parent_id: 1460
+
+1476:
+id: 1476
+area: 石城县
+parent_id: 1460
+
+1477:
+id: 1477
+area: 黄金区
+parent_id: 1460
+
+1478:
+id: 1478
+area: 瑞金市
+parent_id: 1460
+
+1479:
+id: 1479
+area: 南康市
+parent_id: 1460
+
+1480:
+id: 1480
+area: 其它区
+parent_id: 1460
+
+1481:
+id: 1481
+area: 吉安市
+parent_id: 1409
+
+1482:
+id: 1482
+area: 吉州区
+parent_id: 1481
+
+1483:
+id: 1483
+area: 青原区
+parent_id: 1481
+
+1484:
+id: 1484
+area: 吉安县
+parent_id: 1481
+
+1485:
+id: 1485
+area: 吉水县
+parent_id: 1481
+
+1486:
+id: 1486
+area: 峡江县
+parent_id: 1481
+
+1487:
+id: 1487
+area: 新干县
+parent_id: 1481
+
+1488:
+id: 1488
+area: 永丰县
+parent_id: 1481
+
+1489:
+id: 1489
+area: 泰和县
+parent_id: 1481
+
+1490:
+id: 1490
+area: 遂川县
+parent_id: 1481
+
+1491:
+id: 1491
+area: 万安县
+parent_id: 1481
+
+1492:
+id: 1492
+area: 安福县
+parent_id: 1481
+
+1493:
+id: 1493
+area: 永新县
+parent_id: 1481
+
+1494:
+id: 1494
+area: 井冈山市
+parent_id: 1481
+
+1495:
+id: 1495
+area: 其它区
+parent_id: 1481
+
+1496:
+id: 1496
+area: 宜春市
+parent_id: 1409
+
+1497:
+id: 1497
+area: 袁州区
+parent_id: 1496
+
+1498:
+id: 1498
+area: 奉新县
+parent_id: 1496
+
+1499:
+id: 1499
+area: 万载县
+parent_id: 1496
+
+1500:
+id: 1500
+area: 上高县
+parent_id: 1496
+
+1501:
+id: 1501
+area: 宜丰县
+parent_id: 1496
+
+1502:
+id: 1502
+area: 靖安县
+parent_id: 1496
+
+1503:
+id: 1503
+area: 铜鼓县
+parent_id: 1496
+
+1504:
+id: 1504
+area: 丰城市
+parent_id: 1496
+
+1505:
+id: 1505
+area: 樟树市
+parent_id: 1496
+
+1506:
+id: 1506
+area: 高安市
+parent_id: 1496
+
+1507:
+id: 1507
+area: 其它区
+parent_id: 1496
+
+1508:
+id: 1508
+area: 抚州市
+parent_id: 1409
+
+1509:
+id: 1509
+area: 临川区
+parent_id: 1508
+
+1510:
+id: 1510
+area: 南城县
+parent_id: 1508
+
+1511:
+id: 1511
+area: 黎川县
+parent_id: 1508
+
+1512:
+id: 1512
+area: 南丰县
+parent_id: 1508
+
+1513:
+id: 1513
+area: 崇仁县
+parent_id: 1508
+
+1514:
+id: 1514
+area: 乐安县
+parent_id: 1508
+
+1515:
+id: 1515
+area: 宜黄县
+parent_id: 1508
+
+1516:
+id: 1516
+area: 金溪县
+parent_id: 1508
+
+1517:
+id: 1517
+area: 资溪县
+parent_id: 1508
+
+1518:
+id: 1518
+area: 东乡县
+parent_id: 1508
+
+1519:
+id: 1519
+area: 广昌县
+parent_id: 1508
+
+1520:
+id: 1520
+area: 其它区
+parent_id: 1508
+
+1521:
+id: 1521
+area: 上饶市
+parent_id: 1409
+
+1522:
+id: 1522
+area: 信州区
+parent_id: 1521
+
+1523:
+id: 1523
+area: 上饶县
+parent_id: 1521
+
+1524:
+id: 1524
+area: 广丰县
+parent_id: 1521
+
+1525:
+id: 1525
+area: 玉山县
+parent_id: 1521
+
+1526:
+id: 1526
+area: 铅山县
+parent_id: 1521
+
+1527:
+id: 1527
+area: 横峰县
+parent_id: 1521
+
+1528:
+id: 1528
+area: 弋阳县
+parent_id: 1521
+
+1529:
+id: 1529
+area: 余干县
+parent_id: 1521
+
+1530:
+id: 1530
+area: 鄱阳县
+parent_id: 1521
+
+1531:
+id: 1531
+area: 万年县
+parent_id: 1521
+
+1532:
+id: 1532
+area: 婺源县
+parent_id: 1521
+
+1533:
+id: 1533
+area: 德兴市
+parent_id: 1521
+
+1534:
+id: 1534
+area: 其它区
+parent_id: 1521
+
+1535:
+id: 1535
+area: 山东省
+parent_id: 
+
+1536:
+id: 1536
+area: 济南市
+parent_id: 1535
+
+1537:
+id: 1537
+area: 历下区
+parent_id: 1536
+
+1538:
+id: 1538
+area: 市中区
+parent_id: 1536
+
+1539:
+id: 1539
+area: 槐荫区
+parent_id: 1536
+
+1540:
+id: 1540
+area: 天桥区
+parent_id: 1536
+
+1541:
+id: 1541
+area: 历城区
+parent_id: 1536
+
+1542:
+id: 1542
+area: 长清区
+parent_id: 1536
+
+1543:
+id: 1543
+area: 平阴县
+parent_id: 1536
+
+1544:
+id: 1544
+area: 济阳县
+parent_id: 1536
+
+1545:
+id: 1545
+area: 商河县
+parent_id: 1536
+
+1546:
+id: 1546
+area: 章丘市
+parent_id: 1536
+
+1547:
+id: 1547
+area: 其它区
+parent_id: 1536
+
+1548:
+id: 1548
+area: 青岛市
+parent_id: 1535
+
+1549:
+id: 1549
+area: 市南区
+parent_id: 1548
+
+1550:
+id: 1550
+area: 市北区
+parent_id: 1548
+
+1551:
+id: 1551
+area: 四方区
+parent_id: 1548
+
+1552:
+id: 1552
+area: 黄岛区
+parent_id: 1548
+
+1553:
+id: 1553
+area: 崂山区
+parent_id: 1548
+
+1554:
+id: 1554
+area: 李沧区
+parent_id: 1548
+
+1555:
+id: 1555
+area: 城阳区
+parent_id: 1548
+
+1556:
+id: 1556
+area: 开发区
+parent_id: 1548
+
+1557:
+id: 1557
+area: 胶州市
+parent_id: 1548
+
+1558:
+id: 1558
+area: 即墨市
+parent_id: 1548
+
+1559:
+id: 1559
+area: 平度市
+parent_id: 1548
+
+1560:
+id: 1560
+area: 胶南市
+parent_id: 1548
+
+1561:
+id: 1561
+area: 莱西市
+parent_id: 1548
+
+1562:
+id: 1562
+area: 其它区
+parent_id: 1548
+
+1563:
+id: 1563
+area: 淄博市
+parent_id: 1535
+
+1564:
+id: 1564
+area: 淄川区
+parent_id: 1563
+
+1565:
+id: 1565
+area: 张店区
+parent_id: 1563
+
+1566:
+id: 1566
+area: 博山区
+parent_id: 1563
+
+1567:
+id: 1567
+area: 临淄区
+parent_id: 1563
+
+1568:
+id: 1568
+area: 周村区
+parent_id: 1563
+
+1569:
+id: 1569
+area: 桓台县
+parent_id: 1563
+
+1570:
+id: 1570
+area: 高青县
+parent_id: 1563
+
+1571:
+id: 1571
+area: 沂源县
+parent_id: 1563
+
+1572:
+id: 1572
+area: 其它区
+parent_id: 1563
+
+1573:
+id: 1573
+area: 枣庄市
+parent_id: 1535
+
+1574:
+id: 1574
+area: 市中区
+parent_id: 1573
+
+1575:
+id: 1575
+area: 薛城区
+parent_id: 1573
+
+1576:
+id: 1576
+area: 峄城区
+parent_id: 1573
+
+1577:
+id: 1577
+area: 台儿庄区
+parent_id: 1573
+
+1578:
+id: 1578
+area: 山亭区
+parent_id: 1573
+
+1579:
+id: 1579
+area: 滕州市
+parent_id: 1573
+
+1580:
+id: 1580
+area: 其它区
+parent_id: 1573
+
+1581:
+id: 1581
+area: 东营市
+parent_id: 1535
+
+1582:
+id: 1582
+area: 东营区
+parent_id: 1581
+
+1583:
+id: 1583
+area: 河口区
+parent_id: 1581
+
+1584:
+id: 1584
+area: 垦利县
+parent_id: 1581
+
+1585:
+id: 1585
+area: 利津县
+parent_id: 1581
+
+1586:
+id: 1586
+area: 广饶县
+parent_id: 1581
+
+1587:
+id: 1587
+area: 西城区
+parent_id: 1581
+
+1588:
+id: 1588
+area: 东城区
+parent_id: 1581
+
+1589:
+id: 1589
+area: 其它区
+parent_id: 1581
+
+1590:
+id: 1590
+area: 烟台市
+parent_id: 1535
+
+1591:
+id: 1591
+area: 芝罘区
+parent_id: 1590
+
+1592:
+id: 1592
+area: 福山区
+parent_id: 1590
+
+1593:
+id: 1593
+area: 牟平区
+parent_id: 1590
+
+1594:
+id: 1594
+area: 莱山区
+parent_id: 1590
+
+1595:
+id: 1595
+area: 长岛县
+parent_id: 1590
+
+1596:
+id: 1596
+area: 龙口市
+parent_id: 1590
+
+1597:
+id: 1597
+area: 莱阳市
+parent_id: 1590
+
+1598:
+id: 1598
+area: 莱州市
+parent_id: 1590
+
+1599:
+id: 1599
+area: 蓬莱市
+parent_id: 1590
+
+1600:
+id: 1600
+area: 招远市
+parent_id: 1590
+
+1601:
+id: 1601
+area: 栖霞市
+parent_id: 1590
+
+1602:
+id: 1602
+area: 海阳市
+parent_id: 1590
+
+1603:
+id: 1603
+area: 其它区
+parent_id: 1590
+
+1604:
+id: 1604
+area: 潍坊市
+parent_id: 1535
+
+1605:
+id: 1605
+area: 潍城区
+parent_id: 1604
+
+1606:
+id: 1606
+area: 寒亭区
+parent_id: 1604
+
+1607:
+id: 1607
+area: 坊子区
+parent_id: 1604
+
+1608:
+id: 1608
+area: 奎文区
+parent_id: 1604
+
+1609:
+id: 1609
+area: 临朐县
+parent_id: 1604
+
+1610:
+id: 1610
+area: 昌乐县
+parent_id: 1604
+
+1611:
+id: 1611
+area: 开发区
+parent_id: 1604
+
+1612:
+id: 1612
+area: 青州市
+parent_id: 1604
+
+1613:
+id: 1613
+area: 诸城市
+parent_id: 1604
+
+1614:
+id: 1614
+area: 寿光市
+parent_id: 1604
+
+1615:
+id: 1615
+area: 安丘市
+parent_id: 1604
+
+1616:
+id: 1616
+area: 高密市
+parent_id: 1604
+
+1617:
+id: 1617
+area: 昌邑市
+parent_id: 1604
+
+1618:
+id: 1618
+area: 其它区
+parent_id: 1604
+
+1619:
+id: 1619
+area: 济宁市
+parent_id: 1535
+
+1620:
+id: 1620
+area: 市中区
+parent_id: 1619
+
+1621:
+id: 1621
+area: 任城区
+parent_id: 1619
+
+1622:
+id: 1622
+area: 微山县
+parent_id: 1619
+
+1623:
+id: 1623
+area: 鱼台县
+parent_id: 1619
+
+1624:
+id: 1624
+area: 金乡县
+parent_id: 1619
+
+1625:
+id: 1625
+area: 嘉祥县
+parent_id: 1619
+
+1626:
+id: 1626
+area: 汶上县
+parent_id: 1619
+
+1627:
+id: 1627
+area: 泗水县
+parent_id: 1619
+
+1628:
+id: 1628
+area: 梁山县
+parent_id: 1619
+
+1629:
+id: 1629
+area: 曲阜市
+parent_id: 1619
+
+1630:
+id: 1630
+area: 兖州市
+parent_id: 1619
+
+1631:
+id: 1631
+area: 邹城市
+parent_id: 1619
+
+1632:
+id: 1632
+area: 其它区
+parent_id: 1619
+
+1633:
+id: 1633
+area: 泰安市
+parent_id: 1535
+
+1634:
+id: 1634
+area: 泰山区
+parent_id: 1633
+
+1635:
+id: 1635
+area: 岱岳区
+parent_id: 1633
+
+1636:
+id: 1636
+area: 宁阳县
+parent_id: 1633
+
+1637:
+id: 1637
+area: 东平县
+parent_id: 1633
+
+1638:
+id: 1638
+area: 新泰市
+parent_id: 1633
+
+1639:
+id: 1639
+area: 肥城市
+parent_id: 1633
+
+1640:
+id: 1640
+area: 其它区
+parent_id: 1633
+
+1641:
+id: 1641
+area: 威海市
+parent_id: 1535
+
+1642:
+id: 1642
+area: 环翠区
+parent_id: 1641
+
+1643:
+id: 1643
+area: 文登市
+parent_id: 1641
+
+1644:
+id: 1644
+area: 荣成市
+parent_id: 1641
+
+1645:
+id: 1645
+area: 乳山市
+parent_id: 1641
+
+1646:
+id: 1646
+area: 其它区
+parent_id: 1641
+
+1647:
+id: 1647
+area: 日照市
+parent_id: 1535
+
+1648:
+id: 1648
+area: 东港区
+parent_id: 1647
+
+1649:
+id: 1649
+area: 岚山区
+parent_id: 1647
+
+1650:
+id: 1650
+area: 五莲县
+parent_id: 1647
+
+1651:
+id: 1651
+area: 莒县
+parent_id: 1647
+
+1652:
+id: 1652
+area: 其它区
+parent_id: 1647
+
+1653:
+id: 1653
+area: 莱芜市
+parent_id: 1535
+
+1654:
+id: 1654
+area: 莱城区
+parent_id: 1653
+
+1655:
+id: 1655
+area: 钢城区
+parent_id: 1653
+
+1656:
+id: 1656
+area: 其它区
+parent_id: 1653
+
+1657:
+id: 1657
+area: 临沂市
+parent_id: 1535
+
+1658:
+id: 1658
+area: 兰山区
+parent_id: 1657
+
+1659:
+id: 1659
+area: 罗庄区
+parent_id: 1657
+
+1660:
+id: 1660
+area: 河东区
+parent_id: 1657
+
+1661:
+id: 1661
+area: 沂南县
+parent_id: 1657
+
+1662:
+id: 1662
+area: 郯城县
+parent_id: 1657
+
+1663:
+id: 1663
+area: 沂水县
+parent_id: 1657
+
+1664:
+id: 1664
+area: 苍山县
+parent_id: 1657
+
+1665:
+id: 1665
+area: 费县
+parent_id: 1657
+
+1666:
+id: 1666
+area: 平邑县
+parent_id: 1657
+
+1667:
+id: 1667
+area: 莒南县
+parent_id: 1657
+
+1668:
+id: 1668
+area: 蒙阴县
+parent_id: 1657
+
+1669:
+id: 1669
+area: 临沭县
+parent_id: 1657
+
+1670:
+id: 1670
+area: 其它区
+parent_id: 1657
+
+1671:
+id: 1671
+area: 德州市
+parent_id: 1535
+
+1672:
+id: 1672
+area: 德城区
+parent_id: 1671
+
+1673:
+id: 1673
+area: 陵县
+parent_id: 1671
+
+1674:
+id: 1674
+area: 宁津县
+parent_id: 1671
+
+1675:
+id: 1675
+area: 庆云县
+parent_id: 1671
+
+1676:
+id: 1676
+area: 临邑县
+parent_id: 1671
+
+1677:
+id: 1677
+area: 齐河县
+parent_id: 1671
+
+1678:
+id: 1678
+area: 平原县
+parent_id: 1671
+
+1679:
+id: 1679
+area: 夏津县
+parent_id: 1671
+
+1680:
+id: 1680
+area: 武城县
+parent_id: 1671
+
+1681:
+id: 1681
+area: 开发区
+parent_id: 1671
+
+1682:
+id: 1682
+area: 乐陵市
+parent_id: 1671
+
+1683:
+id: 1683
+area: 禹城市
+parent_id: 1671
+
+1684:
+id: 1684
+area: 其它区
+parent_id: 1671
+
+1685:
+id: 1685
+area: 聊城市
+parent_id: 1535
+
+1686:
+id: 1686
+area: 东昌府区
+parent_id: 1685
+
+1687:
+id: 1687
+area: 阳谷县
+parent_id: 1685
+
+1688:
+id: 1688
+area: 莘县
+parent_id: 1685
+
+1689:
+id: 1689
+area: 茌平县
+parent_id: 1685
+
+1690:
+id: 1690
+area: 东阿县
+parent_id: 1685
+
+1691:
+id: 1691
+area: 冠县
+parent_id: 1685
+
+1692:
+id: 1692
+area: 高唐县
+parent_id: 1685
+
+1693:
+id: 1693
+area: 临清市
+parent_id: 1685
+
+1694:
+id: 1694
+area: 其它区
+parent_id: 1685
+
+1695:
+id: 1695
+area: 滨州市
+parent_id: 1535
+
+1696:
+id: 1696
+area: 滨城区
+parent_id: 1695
+
+1697:
+id: 1697
+area: 惠民县
+parent_id: 1695
+
+1698:
+id: 1698
+area: 阳信县
+parent_id: 1695
+
+1699:
+id: 1699
+area: 无棣县
+parent_id: 1695
+
+1700:
+id: 1700
+area: 沾化县
+parent_id: 1695
+
+1701:
+id: 1701
+area: 博兴县
+parent_id: 1695
+
+1702:
+id: 1702
+area: 邹平县
+parent_id: 1695
+
+1703:
+id: 1703
+area: 其它区
+parent_id: 1695
+
+1704:
+id: 1704
+area: 菏泽市
+parent_id: 1535
+
+1705:
+id: 1705
+area: 牡丹区
+parent_id: 1704
+
+1706:
+id: 1706
+area: 曹县
+parent_id: 1704
+
+1707:
+id: 1707
+area: 单县
+parent_id: 1704
+
+1708:
+id: 1708
+area: 成武县
+parent_id: 1704
+
+1709:
+id: 1709
+area: 巨野县
+parent_id: 1704
+
+1710:
+id: 1710
+area: 郓城县
+parent_id: 1704
+
+1711:
+id: 1711
+area: 鄄城县
+parent_id: 1704
+
+1712:
+id: 1712
+area: 定陶县
+parent_id: 1704
+
+1713:
+id: 1713
+area: 东明县
+parent_id: 1704
+
+1714:
+id: 1714
+area: 其它区
+parent_id: 1704
+
+1715:
+id: 1715
+area: 河南省
+parent_id: 
+
+1716:
+id: 1716
+area: 郑州市
+parent_id: 1715
+
+1717:
+id: 1717
+area: 中原区
+parent_id: 1716
+
+1718:
+id: 1718
+area: 二七区
+parent_id: 1716
+
+1719:
+id: 1719
+area: 管城回族区
+parent_id: 1716
+
+1720:
+id: 1720
+area: 金水区
+parent_id: 1716
+
+1721:
+id: 1721
+area: 上街区
+parent_id: 1716
+
+1722:
+id: 1722
+area: 惠济区
+parent_id: 1716
+
+1723:
+id: 1723
+area: 中牟县
+parent_id: 1716
+
+1724:
+id: 1724
+area: 巩义市
+parent_id: 1716
+
+1725:
+id: 1725
+area: 荥阳市
+parent_id: 1716
+
+1726:
+id: 1726
+area: 新密市
+parent_id: 1716
+
+1727:
+id: 1727
+area: 新郑市
+parent_id: 1716
+
+1728:
+id: 1728
+area: 登封市
+parent_id: 1716
+
+1729:
+id: 1729
+area: 郑东新区
+parent_id: 1716
+
+1730:
+id: 1730
+area: 高新区
+parent_id: 1716
+
+1731:
+id: 1731
+area: 其它区
+parent_id: 1716
+
+1732:
+id: 1732
+area: 开封市
+parent_id: 1715
+
+1733:
+id: 1733
+area: 龙亭区
+parent_id: 1732
+
+1734:
+id: 1734
+area: 顺河回族区
+parent_id: 1732
+
+1735:
+id: 1735
+area: 鼓楼区
+parent_id: 1732
+
+1736:
+id: 1736
+area: 禹王台区
+parent_id: 1732
+
+1737:
+id: 1737
+area: 金明区
+parent_id: 1732
+
+1738:
+id: 1738
+area: 杞县
+parent_id: 1732
+
+1739:
+id: 1739
+area: 通许县
+parent_id: 1732
+
+1740:
+id: 1740
+area: 尉氏县
+parent_id: 1732
+
+1741:
+id: 1741
+area: 开封县
+parent_id: 1732
+
+1742:
+id: 1742
+area: 兰考县
+parent_id: 1732
+
+1743:
+id: 1743
+area: 其它区
+parent_id: 1732
+
+1744:
+id: 1744
+area: 洛阳市
+parent_id: 1715
+
+1745:
+id: 1745
+area: 老城区
+parent_id: 1744
+
+1746:
+id: 1746
+area: 西工区
+parent_id: 1744
+
+1747:
+id: 1747
+area: 廛河回族区
+parent_id: 1744
+
+1748:
+id: 1748
+area: 涧西区
+parent_id: 1744
+
+1749:
+id: 1749
+area: 吉利区
+parent_id: 1744
+
+1750:
+id: 1750
+area: 洛龙区
+parent_id: 1744
+
+1751:
+id: 1751
+area: 孟津县
+parent_id: 1744
+
+1752:
+id: 1752
+area: 新安县
+parent_id: 1744
+
+1753:
+id: 1753
+area: 栾川县
+parent_id: 1744
+
+1754:
+id: 1754
+area: 嵩县
+parent_id: 1744
+
+1755:
+id: 1755
+area: 汝阳县
+parent_id: 1744
+
+1756:
+id: 1756
+area: 宜阳县
+parent_id: 1744
+
+1757:
+id: 1757
+area: 洛宁县
+parent_id: 1744
+
+1758:
+id: 1758
+area: 伊川县
+parent_id: 1744
+
+1759:
+id: 1759
+area: 偃师市
+parent_id: 1744
+
+1760:
+id: 1760
+area: 平顶山市
+parent_id: 1715
+
+1761:
+id: 1761
+area: 新华区
+parent_id: 1760
+
+1762:
+id: 1762
+area: 卫东区
+parent_id: 1760
+
+1763:
+id: 1763
+area: 石龙区
+parent_id: 1760
+
+1764:
+id: 1764
+area: 湛河区
+parent_id: 1760
+
+1765:
+id: 1765
+area: 宝丰县
+parent_id: 1760
+
+1766:
+id: 1766
+area: 叶县
+parent_id: 1760
+
+1767:
+id: 1767
+area: 鲁山县
+parent_id: 1760
+
+1768:
+id: 1768
+area: 郏县
+parent_id: 1760
+
+1769:
+id: 1769
+area: 舞钢市
+parent_id: 1760
+
+1770:
+id: 1770
+area: 汝州市
+parent_id: 1760
+
+1771:
+id: 1771
+area: 其它区
+parent_id: 1760
+
+1772:
+id: 1772
+area: 安阳市
+parent_id: 1715
+
+1773:
+id: 1773
+area: 文峰区
+parent_id: 1772
+
+1774:
+id: 1774
+area: 北关区
+parent_id: 1772
+
+1775:
+id: 1775
+area: 殷都区
+parent_id: 1772
+
+1776:
+id: 1776
+area: 龙安区
+parent_id: 1772
+
+1777:
+id: 1777
+area: 安阳县
+parent_id: 1772
+
+1778:
+id: 1778
+area: 汤阴县
+parent_id: 1772
+
+1779:
+id: 1779
+area: 滑县
+parent_id: 1772
+
+1780:
+id: 1780
+area: 内黄县
+parent_id: 1772
+
+1781:
+id: 1781
+area: 林州市
+parent_id: 1772
+
+1782:
+id: 1782
+area: 其它区
+parent_id: 1772
+
+1783:
+id: 1783
+area: 鹤壁市
+parent_id: 1715
+
+1784:
+id: 1784
+area: 鹤山区
+parent_id: 1783
+
+1785:
+id: 1785
+area: 山城区
+parent_id: 1783
+
+1786:
+id: 1786
+area: 淇滨区
+parent_id: 1783
+
+1787:
+id: 1787
+area: 浚县
+parent_id: 1783
+
+1788:
+id: 1788
+area: 淇县
+parent_id: 1783
+
+1789:
+id: 1789
+area: 其它区
+parent_id: 1783
+
+1790:
+id: 1790
+area: 新乡市
+parent_id: 1715
+
+1791:
+id: 1791
+area: 红旗区
+parent_id: 1790
+
+1792:
+id: 1792
+area: 卫滨区
+parent_id: 1790
+
+1793:
+id: 1793
+area: 凤泉区
+parent_id: 1790
+
+1794:
+id: 1794
+area: 牧野区
+parent_id: 1790
+
+1795:
+id: 1795
+area: 新乡县
+parent_id: 1790
+
+1796:
+id: 1796
+area: 获嘉县
+parent_id: 1790
+
+1797:
+id: 1797
+area: 原阳县
+parent_id: 1790
+
+1798:
+id: 1798
+area: 延津县
+parent_id: 1790
+
+1799:
+id: 1799
+area: 封丘县
+parent_id: 1790
+
+1800:
+id: 1800
+area: 长垣县
+parent_id: 1790
+
+1801:
+id: 1801
+area: 卫辉市
+parent_id: 1790
+
+1802:
+id: 1802
+area: 辉县市
+parent_id: 1790
+
+1803:
+id: 1803
+area: 其它区
+parent_id: 1790
+
+1804:
+id: 1804
+area: 焦作市
+parent_id: 1715
+
+1805:
+id: 1805
+area: 解放区
+parent_id: 1804
+
+1806:
+id: 1806
+area: 中站区
+parent_id: 1804
+
+1807:
+id: 1807
+area: 马村区
+parent_id: 1804
+
+1808:
+id: 1808
+area: 山阳区
+parent_id: 1804
+
+1809:
+id: 1809
+area: 修武县
+parent_id: 1804
+
+1810:
+id: 1810
+area: 博爱县
+parent_id: 1804
+
+1811:
+id: 1811
+area: 武陟县
+parent_id: 1804
+
+1812:
+id: 1812
+area: 温县
+parent_id: 1804
+
+1813:
+id: 1813
+area: 济源市
+parent_id: 1715
+
+1814:
+id: 1814
+area: 沁阳市
+parent_id: 1804
+
+1815:
+id: 1815
+area: 孟州市
+parent_id: 1804
+
+1816:
+id: 1816
+area: 其它区
+parent_id: 1804
+
+1817:
+id: 1817
+area: 濮阳市
+parent_id: 1715
+
+1818:
+id: 1818
+area: 华龙区
+parent_id: 1817
+
+1819:
+id: 1819
+area: 清丰县
+parent_id: 1817
+
+1820:
+id: 1820
+area: 南乐县
+parent_id: 1817
+
+1821:
+id: 1821
+area: 范县
+parent_id: 1817
+
+1822:
+id: 1822
+area: 台前县
+parent_id: 1817
+
+1823:
+id: 1823
+area: 濮阳县
+parent_id: 1817
+
+1824:
+id: 1824
+area: 其它区
+parent_id: 1817
+
+1825:
+id: 1825
+area: 许昌市
+parent_id: 1715
+
+1826:
+id: 1826
+area: 魏都区
+parent_id: 1825
+
+1827:
+id: 1827
+area: 许昌县
+parent_id: 1825
+
+1828:
+id: 1828
+area: 鄢陵县
+parent_id: 1825
+
+1829:
+id: 1829
+area: 襄城县
+parent_id: 1825
+
+1830:
+id: 1830
+area: 禹州市
+parent_id: 1825
+
+1831:
+id: 1831
+area: 长葛市
+parent_id: 1825
+
+1832:
+id: 1832
+area: 其它区
+parent_id: 1825
+
+1833:
+id: 1833
+area: 漯河市
+parent_id: 1715
+
+1834:
+id: 1834
+area: 源汇区
+parent_id: 1833
+
+1835:
+id: 1835
+area: 郾城区
+parent_id: 1833
+
+1836:
+id: 1836
+area: 召陵区
+parent_id: 1833
+
+1837:
+id: 1837
+area: 舞阳县
+parent_id: 1833
+
+1838:
+id: 1838
+area: 临颍县
+parent_id: 1833
+
+1839:
+id: 1839
+area: 其它区
+parent_id: 1833
+
+1840:
+id: 1840
+area: 三门峡市
+parent_id: 1715
+
+1841:
+id: 1841
+area: 湖滨区
+parent_id: 1840
+
+1842:
+id: 1842
+area: 渑池县
+parent_id: 1840
+
+1843:
+id: 1843
+area: 陕县
+parent_id: 1840
+
+1844:
+id: 1844
+area: 卢氏县
+parent_id: 1840
+
+1845:
+id: 1845
+area: 义马市
+parent_id: 1840
+
+1846:
+id: 1846
+area: 灵宝市
+parent_id: 1840
+
+1847:
+id: 1847
+area: 其它区
+parent_id: 1840
+
+1848:
+id: 1848
+area: 南阳市
+parent_id: 1715
+
+1849:
+id: 1849
+area: 宛城区
+parent_id: 1848
+
+1850:
+id: 1850
+area: 卧龙区
+parent_id: 1848
+
+1851:
+id: 1851
+area: 南召县
+parent_id: 1848
+
+1852:
+id: 1852
+area: 方城县
+parent_id: 1848
+
+1853:
+id: 1853
+area: 西峡县
+parent_id: 1848
+
+1854:
+id: 1854
+area: 镇平县
+parent_id: 1848
+
+1855:
+id: 1855
+area: 内乡县
+parent_id: 1848
+
+1856:
+id: 1856
+area: 淅川县
+parent_id: 1848
+
+1857:
+id: 1857
+area: 社旗县
+parent_id: 1848
+
+1858:
+id: 1858
+area: 唐河县
+parent_id: 1848
+
+1859:
+id: 1859
+area: 新野县
+parent_id: 1848
+
+1860:
+id: 1860
+area: 桐柏县
+parent_id: 1848
+
+1861:
+id: 1861
+area: 邓州市
+parent_id: 1848
+
+1862:
+id: 1862
+area: 其它区
+parent_id: 1848
+
+1863:
+id: 1863
+area: 商丘市
+parent_id: 1715
+
+1864:
+id: 1864
+area: 梁园区
+parent_id: 1863
+
+1865:
+id: 1865
+area: 睢阳区
+parent_id: 1863
+
+1866:
+id: 1866
+area: 民权县
+parent_id: 1863
+
+1867:
+id: 1867
+area: 睢县
+parent_id: 1863
+
+1868:
+id: 1868
+area: 宁陵县
+parent_id: 1863
+
+1869:
+id: 1869
+area: 柘城县
+parent_id: 1863
+
+1870:
+id: 1870
+area: 虞城县
+parent_id: 1863
+
+1871:
+id: 1871
+area: 夏邑县
+parent_id: 1863
+
+1872:
+id: 1872
+area: 永城市
+parent_id: 1863
+
+1873:
+id: 1873
+area: 其它区
+parent_id: 1863
+
+1874:
+id: 1874
+area: 信阳市
+parent_id: 1715
+
+1875:
+id: 1875
+area: 浉河区
+parent_id: 1874
+
+1876:
+id: 1876
+area: 平桥区
+parent_id: 1874
+
+1877:
+id: 1877
+area: 罗山县
+parent_id: 1874
+
+1878:
+id: 1878
+area: 光山县
+parent_id: 1874
+
+1879:
+id: 1879
+area: 新县
+parent_id: 1874
+
+1880:
+id: 1880
+area: 商城县
+parent_id: 1874
+
+1881:
+id: 1881
+area: 固始县
+parent_id: 1874
+
+1882:
+id: 1882
+area: 潢川县
+parent_id: 1874
+
+1883:
+id: 1883
+area: 淮滨县
+parent_id: 1874
+
+1884:
+id: 1884
+area: 息县
+parent_id: 1874
+
+1885:
+id: 1885
+area: 其它区
+parent_id: 1874
+
+1886:
+id: 1886
+area: 周口市
+parent_id: 1715
+
+1887:
+id: 1887
+area: 川汇区
+parent_id: 1886
+
+1888:
+id: 1888
+area: 扶沟县
+parent_id: 1886
+
+1889:
+id: 1889
+area: 西华县
+parent_id: 1886
+
+1890:
+id: 1890
+area: 商水县
+parent_id: 1886
+
+1891:
+id: 1891
+area: 沈丘县
+parent_id: 1886
+
+1892:
+id: 1892
+area: 郸城县
+parent_id: 1886
+
+1893:
+id: 1893
+area: 淮阳县
+parent_id: 1886
+
+1894:
+id: 1894
+area: 太康县
+parent_id: 1886
+
+1895:
+id: 1895
+area: 鹿邑县
+parent_id: 1886
+
+1896:
+id: 1896
+area: 项城市
+parent_id: 1886
+
+1897:
+id: 1897
+area: 其它区
+parent_id: 1886
+
+1898:
+id: 1898
+area: 驻马店市
+parent_id: 1715
+
+1899:
+id: 1899
+area: 驿城区
+parent_id: 1898
+
+1900:
+id: 1900
+area: 西平县
+parent_id: 1898
+
+1901:
+id: 1901
+area: 上蔡县
+parent_id: 1898
+
+1902:
+id: 1902
+area: 平舆县
+parent_id: 1898
+
+1903:
+id: 1903
+area: 正阳县
+parent_id: 1898
+
+1904:
+id: 1904
+area: 确山县
+parent_id: 1898
+
+1905:
+id: 1905
+area: 泌阳县
+parent_id: 1898
+
+1906:
+id: 1906
+area: 汝南县
+parent_id: 1898
+
+1907:
+id: 1907
+area: 遂平县
+parent_id: 1898
+
+1908:
+id: 1908
+area: 新蔡县
+parent_id: 1898
+
+1909:
+id: 1909
+area: 其它区
+parent_id: 1898
+
+1910:
+id: 1910
+area: 湖北省
+parent_id: 
+
+1911:
+id: 1911
+area: 武汉市
+parent_id: 1910
+
+1912:
+id: 1912
+area: 江岸区
+parent_id: 1911
+
+1913:
+id: 1913
+area: 江汉区
+parent_id: 1911
+
+1914:
+id: 1914
+area: 硚口区
+parent_id: 1911
+
+1915:
+id: 1915
+area: 汉阳区
+parent_id: 1911
+
+1916:
+id: 1916
+area: 武昌区
+parent_id: 1911
+
+1917:
+id: 1917
+area: 青山区
+parent_id: 1911
+
+1918:
+id: 1918
+area: 洪山区
+parent_id: 1911
+
+1919:
+id: 1919
+area: 东西湖区
+parent_id: 1911
+
+1920:
+id: 1920
+area: 汉南区
+parent_id: 1911
+
+1921:
+id: 1921
+area: 蔡甸区
+parent_id: 1911
+
+1922:
+id: 1922
+area: 江夏区
+parent_id: 1911
+
+1923:
+id: 1923
+area: 黄陂区
+parent_id: 1911
+
+1924:
+id: 1924
+area: 新洲区
+parent_id: 1911
+
+1925:
+id: 1925
+area: 其它区
+parent_id: 1911
+
+1926:
+id: 1926
+area: 黄石市
+parent_id: 1910
+
+1927:
+id: 1927
+area: 黄石港区
+parent_id: 1926
+
+1928:
+id: 1928
+area: 西塞山区
+parent_id: 1926
+
+1929:
+id: 1929
+area: 下陆区
+parent_id: 1926
+
+1930:
+id: 1930
+area: 铁山区
+parent_id: 1926
+
+1931:
+id: 1931
+area: 阳新县
+parent_id: 1926
+
+1932:
+id: 1932
+area: 大冶市
+parent_id: 1926
+
+1933:
+id: 1933
+area: 其它区
+parent_id: 1926
+
+1934:
+id: 1934
+area: 十堰市
+parent_id: 1910
+
+1935:
+id: 1935
+area: 茅箭区
+parent_id: 1934
+
+1936:
+id: 1936
+area: 张湾区
+parent_id: 1934
+
+1937:
+id: 1937
+area: 郧县
+parent_id: 1934
+
+1938:
+id: 1938
+area: 郧西县
+parent_id: 1934
+
+1939:
+id: 1939
+area: 竹山县
+parent_id: 1934
+
+1940:
+id: 1940
+area: 竹溪县
+parent_id: 1934
+
+1941:
+id: 1941
+area: 房县
+parent_id: 1934
+
+1942:
+id: 1942
+area: 丹江口市
+parent_id: 1934
+
+1943:
+id: 1943
+area: 城区
+parent_id: 1934
+
+1944:
+id: 1944
+area: 其它区
+parent_id: 1934
+
+1945:
+id: 1945
+area: 宜昌市
+parent_id: 1910
+
+1946:
+id: 1946
+area: 西陵区
+parent_id: 1945
+
+1947:
+id: 1947
+area: 伍家岗区
+parent_id: 1945
+
+1948:
+id: 1948
+area: 点军区
+parent_id: 1945
+
+1949:
+id: 1949
+area: 猇亭区
+parent_id: 1945
+
+1950:
+id: 1950
+area: 夷陵区
+parent_id: 1945
+
+1951:
+id: 1951
+area: 远安县
+parent_id: 1945
+
+1952:
+id: 1952
+area: 兴山县
+parent_id: 1945
+
+1953:
+id: 1953
+area: 秭归县
+parent_id: 1945
+
+1954:
+id: 1954
+area: 长阳土家族自治县
+parent_id: 1945
+
+1955:
+id: 1955
+area: 五峰土家族自治县
+parent_id: 1945
+
+1956:
+id: 1956
+area: 葛洲坝区
+parent_id: 1945
+
+1957:
+id: 1957
+area: 开发区
+parent_id: 1945
+
+1958:
+id: 1958
+area: 宜都市
+parent_id: 1945
+
+1959:
+id: 1959
+area: 当阳市
+parent_id: 1945
+
+1960:
+id: 1960
+area: 枝江市
+parent_id: 1945
+
+1961:
+id: 1961
+area: 其它区
+parent_id: 1945
+
+1962:
+id: 1962
+area: 襄阳市
+parent_id: 1910
+
+1963:
+id: 1963
+area: 襄城区
+parent_id: 1962
+
+1964:
+id: 1964
+area: 樊城区
+parent_id: 1962
+
+1965:
+id: 1965
+area: 襄州区
+parent_id: 1962
+
+1966:
+id: 1966
+area: 南漳县
+parent_id: 1962
+
+1967:
+id: 1967
+area: 谷城县
+parent_id: 1962
+
+1968:
+id: 1968
+area: 保康县
+parent_id: 1962
+
+1969:
+id: 1969
+area: 老河口市
+parent_id: 1962
+
+1970:
+id: 1970
+area: 枣阳市
+parent_id: 1962
+
+1971:
+id: 1971
+area: 宜城市
+parent_id: 1962
+
+1972:
+id: 1972
+area: 其它区
+parent_id: 1962
+
+1973:
+id: 1973
+area: 鄂州市
+parent_id: 1910
+
+1974:
+id: 1974
+area: 梁子湖区
+parent_id: 1973
+
+1975:
+id: 1975
+area: 华容区
+parent_id: 1973
+
+1976:
+id: 1976
+area: 鄂城区
+parent_id: 1973
+
+1977:
+id: 1977
+area: 其它区
+parent_id: 1973
+
+1978:
+id: 1978
+area: 荆门市
+parent_id: 1910
+
+1979:
+id: 1979
+area: 东宝区
+parent_id: 1978
+
+1980:
+id: 1980
+area: 掇刀区
+parent_id: 1978
+
+1981:
+id: 1981
+area: 京山县
+parent_id: 1978
+
+1982:
+id: 1982
+area: 沙洋县
+parent_id: 1978
+
+1983:
+id: 1983
+area: 钟祥市
+parent_id: 1978
+
+1984:
+id: 1984
+area: 其它区
+parent_id: 1978
+
+1985:
+id: 1985
+area: 孝感市
+parent_id: 1910
+
+1986:
+id: 1986
+area: 孝南区
+parent_id: 1985
+
+1987:
+id: 1987
+area: 孝昌县
+parent_id: 1985
+
+1988:
+id: 1988
+area: 大悟县
+parent_id: 1985
+
+1989:
+id: 1989
+area: 云梦县
+parent_id: 1985
+
+1990:
+id: 1990
+area: 应城市
+parent_id: 1985
+
+1991:
+id: 1991
+area: 安陆市
+parent_id: 1985
+
+1992:
+id: 1992
+area: 汉川市
+parent_id: 1985
+
+1993:
+id: 1993
+area: 其它区
+parent_id: 1985
+
+1994:
+id: 1994
+area: 荆州市
+parent_id: 1910
+
+1995:
+id: 1995
+area: 沙市区
+parent_id: 1994
+
+1996:
+id: 1996
+area: 荆州区
+parent_id: 1994
+
+1997:
+id: 1997
+area: 公安县
+parent_id: 1994
+
+1998:
+id: 1998
+area: 监利县
+parent_id: 1994
+
+1999:
+id: 1999
+area: 江陵县
+parent_id: 1994
+
+2000:
+id: 2000
+area: 石首市
+parent_id: 1994
+
+2001:
+id: 2001
+area: 洪湖市
+parent_id: 1994
+
+2002:
+id: 2002
+area: 松滋市
+parent_id: 1994
+
+2003:
+id: 2003
+area: 其它区
+parent_id: 1994
+
+2004:
+id: 2004
+area: 黄冈市
+parent_id: 1910
+
+2005:
+id: 2005
+area: 黄州区
+parent_id: 2004
+
+2006:
+id: 2006
+area: 团风县
+parent_id: 2004
+
+2007:
+id: 2007
+area: 红安县
+parent_id: 2004
+
+2008:
+id: 2008
+area: 罗田县
+parent_id: 2004
+
+2009:
+id: 2009
+area: 英山县
+parent_id: 2004
+
+2010:
+id: 2010
+area: 浠水县
+parent_id: 2004
+
+2011:
+id: 2011
+area: 蕲春县
+parent_id: 2004
+
+2012:
+id: 2012
+area: 黄梅县
+parent_id: 2004
+
+2013:
+id: 2013
+area: 麻城市
+parent_id: 2004
+
+2014:
+id: 2014
+area: 武穴市
+parent_id: 2004
+
+2015:
+id: 2015
+area: 其它区
+parent_id: 2004
+
+2016:
+id: 2016
+area: 咸宁市
+parent_id: 1910
+
+2017:
+id: 2017
+area: 咸安区
+parent_id: 2016
+
+2018:
+id: 2018
+area: 嘉鱼县
+parent_id: 2016
+
+2019:
+id: 2019
+area: 通城县
+parent_id: 2016
+
+2020:
+id: 2020
+area: 崇阳县
+parent_id: 2016
+
+2021:
+id: 2021
+area: 通山县
+parent_id: 2016
+
+2022:
+id: 2022
+area: 赤壁市
+parent_id: 2016
+
+2023:
+id: 2023
+area: 温泉城区
+parent_id: 2016
+
+2024:
+id: 2024
+area: 其它区
+parent_id: 2016
+
+2025:
+id: 2025
+area: 随州市
+parent_id: 1910
+
+2026:
+id: 2026
+area: 曾都区
+parent_id: 2025
+
+2027:
+id: 2027
+area: 随县
+parent_id: 2025
+
+2028:
+id: 2028
+area: 广水市
+parent_id: 2025
+
+2029:
+id: 2029
+area: 其它区
+parent_id: 2025
+
+2030:
+id: 2030
+area: 恩施土家族苗族自治州
+parent_id: 1910
+
+2031:
+id: 2031
+area: 恩施市
+parent_id: 2030
+
+2032:
+id: 2032
+area: 利川市
+parent_id: 2030
+
+2033:
+id: 2033
+area: 建始县
+parent_id: 2030
+
+2034:
+id: 2034
+area: 巴东县
+parent_id: 2030
+
+2035:
+id: 2035
+area: 宣恩县
+parent_id: 2030
+
+2036:
+id: 2036
+area: 咸丰县
+parent_id: 2030
+
+2037:
+id: 2037
+area: 来凤县
+parent_id: 2030
+
+2038:
+id: 2038
+area: 鹤峰县
+parent_id: 2030
+
+2039:
+id: 2039
+area: 其它区
+parent_id: 2030
+
+2040:
+id: 2040
+area: 仙桃市
+parent_id: 1910
+
+2041:
+id: 2041
+area: 潜江市
+parent_id: 1910
+
+2042:
+id: 2042
+area: 天门市
+parent_id: 1910
+
+2043:
+id: 2043
+area: 神农架林区
+parent_id: 1910
+
+2044:
+id: 2044
+area: 湖南省
+parent_id: 
+
+2045:
+id: 2045
+area: 长沙市
+parent_id: 2044
+
+2046:
+id: 2046
+area: 芙蓉区
+parent_id: 2045
+
+2047:
+id: 2047
+area: 天心区
+parent_id: 2045
+
+2048:
+id: 2048
+area: 岳麓区
+parent_id: 2045
+
+2049:
+id: 2049
+area: 开福区
+parent_id: 2045
+
+2050:
+id: 2050
+area: 雨花区
+parent_id: 2045
+
+2051:
+id: 2051
+area: 长沙县
+parent_id: 2045
+
+2052:
+id: 2052
+area: 望城县
+parent_id: 2045
+
+2053:
+id: 2053
+area: 宁乡县
+parent_id: 2045
+
+2054:
+id: 2054
+area: 浏阳市
+parent_id: 2045
+
+2055:
+id: 2055
+area: 其它区
+parent_id: 2045
+
+2056:
+id: 2056
+area: 株洲市
+parent_id: 2044
+
+2057:
+id: 2057
+area: 荷塘区
+parent_id: 2056
+
+2058:
+id: 2058
+area: 芦淞区
+parent_id: 2056
+
+2059:
+id: 2059
+area: 石峰区
+parent_id: 2056
+
+2060:
+id: 2060
+area: 天元区
+parent_id: 2056
+
+2061:
+id: 2061
+area: 株洲县
+parent_id: 2056
+
+2062:
+id: 2062
+area: 攸县
+parent_id: 2056
+
+2063:
+id: 2063
+area: 茶陵县
+parent_id: 2056
+
+2064:
+id: 2064
+area: 炎陵县
+parent_id: 2056
+
+2065:
+id: 2065
+area: 醴陵市
+parent_id: 2056
+
+2066:
+id: 2066
+area: 其它区
+parent_id: 2056
+
+2067:
+id: 2067
+area: 湘潭市
+parent_id: 2044
+
+2068:
+id: 2068
+area: 雨湖区
+parent_id: 2067
+
+2069:
+id: 2069
+area: 岳塘区
+parent_id: 2067
+
+2070:
+id: 2070
+area: 湘潭县
+parent_id: 2067
+
+2071:
+id: 2071
+area: 湘乡市
+parent_id: 2067
+
+2072:
+id: 2072
+area: 韶山市
+parent_id: 2067
+
+2073:
+id: 2073
+area: 其它区
+parent_id: 2067
+
+2074:
+id: 2074
+area: 衡阳市
+parent_id: 2044
+
+2075:
+id: 2075
+area: 珠晖区
+parent_id: 2074
+
+2076:
+id: 2076
+area: 雁峰区
+parent_id: 2074
+
+2077:
+id: 2077
+area: 石鼓区
+parent_id: 2074
+
+2078:
+id: 2078
+area: 蒸湘区
+parent_id: 2074
+
+2079:
+id: 2079
+area: 南岳区
+parent_id: 2074
+
+2080:
+id: 2080
+area: 衡阳县
+parent_id: 2074
+
+2081:
+id: 2081
+area: 衡南县
+parent_id: 2074
+
+2082:
+id: 2082
+area: 衡山县
+parent_id: 2074
+
+2083:
+id: 2083
+area: 衡东县
+parent_id: 2074
+
+2084:
+id: 2084
+area: 祁东县
+parent_id: 2074
+
+2085:
+id: 2085
+area: 耒阳市
+parent_id: 2074
+
+2086:
+id: 2086
+area: 常宁市
+parent_id: 2074
+
+2087:
+id: 2087
+area: 其它区
+parent_id: 2074
+
+2088:
+id: 2088
+area: 邵阳市
+parent_id: 2044
+
+2089:
+id: 2089
+area: 双清区
+parent_id: 2088
+
+2090:
+id: 2090
+area: 大祥区
+parent_id: 2088
+
+2091:
+id: 2091
+area: 北塔区
+parent_id: 2088
+
+2092:
+id: 2092
+area: 邵东县
+parent_id: 2088
+
+2093:
+id: 2093
+area: 新邵县
+parent_id: 2088
+
+2094:
+id: 2094
+area: 邵阳县
+parent_id: 2088
+
+2095:
+id: 2095
+area: 隆回县
+parent_id: 2088
+
+2096:
+id: 2096
+area: 洞口县
+parent_id: 2088
+
+2097:
+id: 2097
+area: 绥宁县
+parent_id: 2088
+
+2098:
+id: 2098
+area: 新宁县
+parent_id: 2088
+
+2099:
+id: 2099
+area: 城步苗族自治县
+parent_id: 2088
+
+2100:
+id: 2100
+area: 武冈市
+parent_id: 2088
+
+2101:
+id: 2101
+area: 其它区
+parent_id: 2088
+
+2102:
+id: 2102
+area: 岳阳市
+parent_id: 2044
+
+2103:
+id: 2103
+area: 岳阳楼区
+parent_id: 2102
+
+2104:
+id: 2104
+area: 云溪区
+parent_id: 2102
+
+2105:
+id: 2105
+area: 君山区
+parent_id: 2102
+
+2106:
+id: 2106
+area: 岳阳县
+parent_id: 2102
+
+2107:
+id: 2107
+area: 华容县
+parent_id: 2102
+
+2108:
+id: 2108
+area: 湘阴县
+parent_id: 2102
+
+2109:
+id: 2109
+area: 平江县
+parent_id: 2102
+
+2110:
+id: 2110
+area: 汨罗市
+parent_id: 2102
+
+2111:
+id: 2111
+area: 临湘市
+parent_id: 2102
+
+2112:
+id: 2112
+area: 其它区
+parent_id: 2102
+
+2113:
+id: 2113
+area: 常德市
+parent_id: 2044
+
+2114:
+id: 2114
+area: 武陵区
+parent_id: 2113
+
+2115:
+id: 2115
+area: 鼎城区
+parent_id: 2113
+
+2116:
+id: 2116
+area: 安乡县
+parent_id: 2113
+
+2117:
+id: 2117
+area: 汉寿县
+parent_id: 2113
+
+2118:
+id: 2118
+area: 澧县
+parent_id: 2113
+
+2119:
+id: 2119
+area: 临澧县
+parent_id: 2113
+
+2120:
+id: 2120
+area: 桃源县
+parent_id: 2113
+
+2121:
+id: 2121
+area: 石门县
+parent_id: 2113
+
+2122:
+id: 2122
+area: 津市市
+parent_id: 2113
+
+2123:
+id: 2123
+area: 其它区
+parent_id: 2113
+
+2124:
+id: 2124
+area: 张家界市
+parent_id: 2044
+
+2125:
+id: 2125
+area: 永定区
+parent_id: 2124
+
+2126:
+id: 2126
+area: 武陵源区
+parent_id: 2124
+
+2127:
+id: 2127
+area: 慈利县
+parent_id: 2124
+
+2128:
+id: 2128
+area: 桑植县
+parent_id: 2124
+
+2129:
+id: 2129
+area: 其它区
+parent_id: 2124
+
+2130:
+id: 2130
+area: 益阳市
+parent_id: 2044
+
+2131:
+id: 2131
+area: 资阳区
+parent_id: 2130
+
+2132:
+id: 2132
+area: 赫山区
+parent_id: 2130
+
+2133:
+id: 2133
+area: 南县
+parent_id: 2130
+
+2134:
+id: 2134
+area: 桃江县
+parent_id: 2130
+
+2135:
+id: 2135
+area: 安化县
+parent_id: 2130
+
+2136:
+id: 2136
+area: 沅江市
+parent_id: 2130
+
+2137:
+id: 2137
+area: 其它区
+parent_id: 2130
+
+2138:
+id: 2138
+area: 郴州市
+parent_id: 2044
+
+2139:
+id: 2139
+area: 北湖区
+parent_id: 2138
+
+2140:
+id: 2140
+area: 苏仙区
+parent_id: 2138
+
+2141:
+id: 2141
+area: 桂阳县
+parent_id: 2138
+
+2142:
+id: 2142
+area: 宜章县
+parent_id: 2138
+
+2143:
+id: 2143
+area: 永兴县
+parent_id: 2138
+
+2144:
+id: 2144
+area: 嘉禾县
+parent_id: 2138
+
+2145:
+id: 2145
+area: 临武县
+parent_id: 2138
+
+2146:
+id: 2146
+area: 汝城县
+parent_id: 2138
+
+2147:
+id: 2147
+area: 桂东县
+parent_id: 2138
+
+2148:
+id: 2148
+area: 安仁县
+parent_id: 2138
+
+2149:
+id: 2149
+area: 资兴市
+parent_id: 2138
+
+2150:
+id: 2150
+area: 其它区
+parent_id: 2138
+
+2151:
+id: 2151
+area: 永州市
+parent_id: 2044
+
+2152:
+id: 2152
+area: 零陵区
+parent_id: 2151
+
+2153:
+id: 2153
+area: 冷水滩区
+parent_id: 2151
+
+2154:
+id: 2154
+area: 祁阳县
+parent_id: 2151
+
+2155:
+id: 2155
+area: 东安县
+parent_id: 2151
+
+2156:
+id: 2156
+area: 双牌县
+parent_id: 2151
+
+2157:
+id: 2157
+area: 道县
+parent_id: 2151
+
+2158:
+id: 2158
+area: 江永县
+parent_id: 2151
+
+2159:
+id: 2159
+area: 宁远县
+parent_id: 2151
+
+2160:
+id: 2160
+area: 蓝山县
+parent_id: 2151
+
+2161:
+id: 2161
+area: 新田县
+parent_id: 2151
+
+2162:
+id: 2162
+area: 江华瑶族自治县
+parent_id: 2151
+
+2163:
+id: 2163
+area: 其它区
+parent_id: 2151
+
+2164:
+id: 2164
+area: 怀化市
+parent_id: 2044
+
+2165:
+id: 2165
+area: 鹤城区
+parent_id: 2164
+
+2166:
+id: 2166
+area: 中方县
+parent_id: 2164
+
+2167:
+id: 2167
+area: 沅陵县
+parent_id: 2164
+
+2168:
+id: 2168
+area: 辰溪县
+parent_id: 2164
+
+2169:
+id: 2169
+area: 溆浦县
+parent_id: 2164
+
+2170:
+id: 2170
+area: 会同县
+parent_id: 2164
+
+2171:
+id: 2171
+area: 麻阳苗族自治县
+parent_id: 2164
+
+2172:
+id: 2172
+area: 新晃侗族自治县
+parent_id: 2164
+
+2173:
+id: 2173
+area: 芷江侗族自治县
+parent_id: 2164
+
+2174:
+id: 2174
+area: 靖州苗族侗族自治县
+parent_id: 2164
+
+2175:
+id: 2175
+area: 通道侗族自治县
+parent_id: 2164
+
+2176:
+id: 2176
+area: 洪江市
+parent_id: 2164
+
+2177:
+id: 2177
+area: 其它区
+parent_id: 2164
+
+2178:
+id: 2178
+area: 娄底市
+parent_id: 2044
+
+2179:
+id: 2179
+area: 娄星区
+parent_id: 2178
+
+2180:
+id: 2180
+area: 双峰县
+parent_id: 2178
+
+2181:
+id: 2181
+area: 新化县
+parent_id: 2178
+
+2182:
+id: 2182
+area: 冷水江市
+parent_id: 2178
+
+2183:
+id: 2183
+area: 涟源市
+parent_id: 2178
+
+2184:
+id: 2184
+area: 其它区
+parent_id: 2178
+
+2185:
+id: 2185
+area: 湘西土家族苗族自治州
+parent_id: 2044
+
+2186:
+id: 2186
+area: 吉首市
+parent_id: 2185
+
+2187:
+id: 2187
+area: 泸溪县
+parent_id: 2185
+
+2188:
+id: 2188
+area: 凤凰县
+parent_id: 2185
+
+2189:
+id: 2189
+area: 花垣县
+parent_id: 2185
+
+2190:
+id: 2190
+area: 保靖县
+parent_id: 2185
+
+2191:
+id: 2191
+area: 古丈县
+parent_id: 2185
+
+2192:
+id: 2192
+area: 永顺县
+parent_id: 2185
+
+2193:
+id: 2193
+area: 龙山县
+parent_id: 2185
+
+2194:
+id: 2194
+area: 其它区
+parent_id: 2185
+
+2195:
+id: 2195
+area: 广东省
+parent_id: 
+
+2196:
+id: 2196
+area: 广州市
+parent_id: 2195
+
+2197:
+id: 2197
+area: 荔湾区
+parent_id: 2196
+
+2198:
+id: 2198
+area: 越秀区
+parent_id: 2196
+
+2199:
+id: 2199
+area: 海珠区
+parent_id: 2196
+
+2200:
+id: 2200
+area: 天河区
+parent_id: 2196
+
+2201:
+id: 2201
+area: 白云区
+parent_id: 2196
+
+2202:
+id: 2202
+area: 黄埔区
+parent_id: 2196
+
+2203:
+id: 2203
+area: 番禺区
+parent_id: 2196
+
+2204:
+id: 2204
+area: 花都区
+parent_id: 2196
+
+2205:
+id: 2205
+area: 南沙区
+parent_id: 2196
+
+2206:
+id: 2206
+area: 萝岗区
+parent_id: 2196
+
+2207:
+id: 2207
+area: 增城市
+parent_id: 2196
+
+2208:
+id: 2208
+area: 从化市
+parent_id: 2196
+
+2209:
+id: 2209
+area: 东山区
+parent_id: 2196
+
+2210:
+id: 2210
+area: 其它区
+parent_id: 2196
+
+2211:
+id: 2211
+area: 韶关市
+parent_id: 2195
+
+2212:
+id: 2212
+area: 武江区
+parent_id: 2211
+
+2213:
+id: 2213
+area: 浈江区
+parent_id: 2211
+
+2214:
+id: 2214
+area: 曲江区
+parent_id: 2211
+
+2215:
+id: 2215
+area: 始兴县
+parent_id: 2211
+
+2216:
+id: 2216
+area: 仁化县
+parent_id: 2211
+
+2217:
+id: 2217
+area: 翁源县
+parent_id: 2211
+
+2218:
+id: 2218
+area: 乳源瑶族自治县
+parent_id: 2211
+
+2219:
+id: 2219
+area: 新丰县
+parent_id: 2211
+
+2220:
+id: 2220
+area: 乐昌市
+parent_id: 2211
+
+2221:
+id: 2221
+area: 南雄市
+parent_id: 2211
+
+2222:
+id: 2222
+area: 其它区
+parent_id: 2211
+
+2223:
+id: 2223
+area: 深圳市
+parent_id: 2195
+
+2224:
+id: 2224
+area: 罗湖区
+parent_id: 2223
+
+2225:
+id: 2225
+area: 福田区
+parent_id: 2223
+
+2226:
+id: 2226
+area: 南山区
+parent_id: 2223
+
+2227:
+id: 2227
+area: 宝安区
+parent_id: 2223
+
+2228:
+id: 2228
+area: 龙岗区
+parent_id: 2223
+
+2229:
+id: 2229
+area: 盐田区
+parent_id: 2223
+
+2230:
+id: 2230
+area: 其它区
+parent_id: 2223
+
+2231:
+id: 2231
+area: 珠海市
+parent_id: 2195
+
+2232:
+id: 2232
+area: 香洲区
+parent_id: 2231
+
+2233:
+id: 2233
+area: 斗门区
+parent_id: 2231
+
+2234:
+id: 2234
+area: 金湾区
+parent_id: 2231
+
+2235:
+id: 2235
+area: 金唐区
+parent_id: 2231
+
+2236:
+id: 2236
+area: 南湾区
+parent_id: 2231
+
+2237:
+id: 2237
+area: 其它区
+parent_id: 2231
+
+2238:
+id: 2238
+area: 汕头市
+parent_id: 2195
+
+2239:
+id: 2239
+area: 龙湖区
+parent_id: 2238
+
+2240:
+id: 2240
+area: 金平区
+parent_id: 2238
+
+2241:
+id: 2241
+area: 濠江区
+parent_id: 2238
+
+2242:
+id: 2242
+area: 潮阳区
+parent_id: 2238
+
+2243:
+id: 2243
+area: 潮南区
+parent_id: 2238
+
+2244:
+id: 2244
+area: 澄海区
+parent_id: 2238
+
+2245:
+id: 2245
+area: 南澳县
+parent_id: 2238
+
+2246:
+id: 2246
+area: 其它区
+parent_id: 2238
+
+2247:
+id: 2247
+area: 佛山市
+parent_id: 2195
+
+2248:
+id: 2248
+area: 禅城区
+parent_id: 2247
+
+2249:
+id: 2249
+area: 南海区
+parent_id: 2247
+
+2250:
+id: 2250
+area: 顺德区
+parent_id: 2247
+
+2251:
+id: 2251
+area: 三水区
+parent_id: 2247
+
+2252:
+id: 2252
+area: 高明区
+parent_id: 2247
+
+2253:
+id: 2253
+area: 其它区
+parent_id: 2247
+
+2254:
+id: 2254
+area: 江门市
+parent_id: 2195
+
+2255:
+id: 2255
+area: 蓬江区
+parent_id: 2254
+
+2256:
+id: 2256
+area: 江海区
+parent_id: 2254
+
+2257:
+id: 2257
+area: 新会区
+parent_id: 2254
+
+2258:
+id: 2258
+area: 台山市
+parent_id: 2254
+
+2259:
+id: 2259
+area: 开平市
+parent_id: 2254
+
+2260:
+id: 2260
+area: 鹤山市
+parent_id: 2254
+
+2261:
+id: 2261
+area: 恩平市
+parent_id: 2254
+
+2262:
+id: 2262
+area: 其它区
+parent_id: 2254
+
+2263:
+id: 2263
+area: 湛江市
+parent_id: 2195
+
+2264:
+id: 2264
+area: 赤坎区
+parent_id: 2263
+
+2265:
+id: 2265
+area: 霞山区
+parent_id: 2263
+
+2266:
+id: 2266
+area: 坡头区
+parent_id: 2263
+
+2267:
+id: 2267
+area: 麻章区
+parent_id: 2263
+
+2268:
+id: 2268
+area: 遂溪县
+parent_id: 2263
+
+2269:
+id: 2269
+area: 徐闻县
+parent_id: 2263
+
+2270:
+id: 2270
+area: 廉江市
+parent_id: 2263
+
+2271:
+id: 2271
+area: 雷州市
+parent_id: 2263
+
+2272:
+id: 2272
+area: 吴川市
+parent_id: 2263
+
+2273:
+id: 2273
+area: 其它区
+parent_id: 2263
+
+2274:
+id: 2274
+area: 茂名市
+parent_id: 2195
+
+2275:
+id: 2275
+area: 茂南区
+parent_id: 2274
+
+2276:
+id: 2276
+area: 茂港区
+parent_id: 2274
+
+2277:
+id: 2277
+area: 电白县
+parent_id: 2274
+
+2278:
+id: 2278
+area: 高州市
+parent_id: 2274
+
+2279:
+id: 2279
+area: 化州市
+parent_id: 2274
+
+2280:
+id: 2280
+area: 信宜市
+parent_id: 2274
+
+2281:
+id: 2281
+area: 其它区
+parent_id: 2274
+
+2282:
+id: 2282
+area: 肇庆市
+parent_id: 2195
+
+2283:
+id: 2283
+area: 端州区
+parent_id: 2282
+
+2284:
+id: 2284
+area: 鼎湖区
+parent_id: 2282
+
+2285:
+id: 2285
+area: 广宁县
+parent_id: 2282
+
+2286:
+id: 2286
+area: 怀集县
+parent_id: 2282
+
+2287:
+id: 2287
+area: 封开县
+parent_id: 2282
+
+2288:
+id: 2288
+area: 德庆县
+parent_id: 2282
+
+2289:
+id: 2289
+area: 高要市
+parent_id: 2282
+
+2290:
+id: 2290
+area: 四会市
+parent_id: 2282
+
+2291:
+id: 2291
+area: 其它区
+parent_id: 2282
+
+2292:
+id: 2292
+area: 惠州市
+parent_id: 2195
+
+2293:
+id: 2293
+area: 惠城区
+parent_id: 2292
+
+2294:
+id: 2294
+area: 惠阳区
+parent_id: 2292
+
+2295:
+id: 2295
+area: 博罗县
+parent_id: 2292
+
+2296:
+id: 2296
+area: 惠东县
+parent_id: 2292
+
+2297:
+id: 2297
+area: 龙门县
+parent_id: 2292
+
+2298:
+id: 2298
+area: 其它区
+parent_id: 2292
+
+2299:
+id: 2299
+area: 梅州市
+parent_id: 2195
+
+2300:
+id: 2300
+area: 梅江区
+parent_id: 2299
+
+2301:
+id: 2301
+area: 梅县
+parent_id: 2299
+
+2302:
+id: 2302
+area: 大埔县
+parent_id: 2299
+
+2303:
+id: 2303
+area: 丰顺县
+parent_id: 2299
+
+2304:
+id: 2304
+area: 五华县
+parent_id: 2299
+
+2305:
+id: 2305
+area: 平远县
+parent_id: 2299
+
+2306:
+id: 2306
+area: 蕉岭县
+parent_id: 2299
+
+2307:
+id: 2307
+area: 兴宁市
+parent_id: 2299
+
+2308:
+id: 2308
+area: 其它区
+parent_id: 2299
+
+2309:
+id: 2309
+area: 汕尾市
+parent_id: 2195
+
+2310:
+id: 2310
+area: 城区
+parent_id: 2309
+
+2311:
+id: 2311
+area: 海丰县
+parent_id: 2309
+
+2312:
+id: 2312
+area: 陆河县
+parent_id: 2309
+
+2313:
+id: 2313
+area: 陆丰市
+parent_id: 2309
+
+2314:
+id: 2314
+area: 其它区
+parent_id: 2309
+
+2315:
+id: 2315
+area: 河源市
+parent_id: 2195
+
+2316:
+id: 2316
+area: 源城区
+parent_id: 2315
+
+2317:
+id: 2317
+area: 紫金县
+parent_id: 2315
+
+2318:
+id: 2318
+area: 龙川县
+parent_id: 2315
+
+2319:
+id: 2319
+area: 连平县
+parent_id: 2315
+
+2320:
+id: 2320
+area: 和平县
+parent_id: 2315
+
+2321:
+id: 2321
+area: 东源县
+parent_id: 2315
+
+2322:
+id: 2322
+area: 其它区
+parent_id: 2315
+
+2323:
+id: 2323
+area: 阳江市
+parent_id: 2195
+
+2324:
+id: 2324
+area: 江城区
+parent_id: 2323
+
+2325:
+id: 2325
+area: 阳西县
+parent_id: 2323
+
+2326:
+id: 2326
+area: 阳东县
+parent_id: 2323
+
+2327:
+id: 2327
+area: 阳春市
+parent_id: 2323
+
+2328:
+id: 2328
+area: 其它区
+parent_id: 2323
+
+2329:
+id: 2329
+area: 清远市
+parent_id: 2195
+
+2330:
+id: 2330
+area: 清城区
+parent_id: 2329
+
+2331:
+id: 2331
+area: 佛冈县
+parent_id: 2329
+
+2332:
+id: 2332
+area: 阳山县
+parent_id: 2329
+
+2333:
+id: 2333
+area: 连山壮族瑶族自治县
+parent_id: 2329
+
+2334:
+id: 2334
+area: 连南瑶族自治县
+parent_id: 2329
+
+2335:
+id: 2335
+area: 清新县
+parent_id: 2329
+
+2336:
+id: 2336
+area: 英德市
+parent_id: 2329
+
+2337:
+id: 2337
+area: 连州市
+parent_id: 2329
+
+2338:
+id: 2338
+area: 其它区
+parent_id: 2329
+
+2339:
+id: 2339
+area: 东莞市
+parent_id: 2195
+
+2340:
+id: 2340
+area: 中山市
+parent_id: 2195
+
+2341:
+id: 2341
+area: 潮州市
+parent_id: 2195
+
+2342:
+id: 2342
+area: 湘桥区
+parent_id: 2341
+
+2343:
+id: 2343
+area: 潮安县
+parent_id: 2341
+
+2344:
+id: 2344
+area: 饶平县
+parent_id: 2341
+
+2345:
+id: 2345
+area: 枫溪区
+parent_id: 2341
+
+2346:
+id: 2346
+area: 其它区
+parent_id: 2341
+
+2347:
+id: 2347
+area: 揭阳市
+parent_id: 2195
+
+2348:
+id: 2348
+area: 榕城区
+parent_id: 2347
+
+2349:
+id: 2349
+area: 揭东县
+parent_id: 2347
+
+2350:
+id: 2350
+area: 揭西县
+parent_id: 2347
+
+2351:
+id: 2351
+area: 惠来县
+parent_id: 2347
+
+2352:
+id: 2352
+area: 普宁市
+parent_id: 2347
+
+2353:
+id: 2353
+area: 东山区
+parent_id: 2347
+
+2354:
+id: 2354
+area: 其它区
+parent_id: 2347
+
+2355:
+id: 2355
+area: 云浮市
+parent_id: 2195
+
+2356:
+id: 2356
+area: 云城区
+parent_id: 2355
+
+2357:
+id: 2357
+area: 新兴县
+parent_id: 2355
+
+2358:
+id: 2358
+area: 郁南县
+parent_id: 2355
+
+2359:
+id: 2359
+area: 云安县
+parent_id: 2355
+
+2360:
+id: 2360
+area: 罗定市
+parent_id: 2355
+
+2361:
+id: 2361
+area: 其它区
+parent_id: 2355
+
+2362:
+id: 2362
+area: 广西壮族自治区
+parent_id: 
+
+2363:
+id: 2363
+area: 南宁市
+parent_id: 2362
+
+2364:
+id: 2364
+area: 兴宁区
+parent_id: 2363
+
+2365:
+id: 2365
+area: 青秀区
+parent_id: 2363
+
+2366:
+id: 2366
+area: 江南区
+parent_id: 2363
+
+2367:
+id: 2367
+area: 西乡塘区
+parent_id: 2363
+
+2368:
+id: 2368
+area: 良庆区
+parent_id: 2363
+
+2369:
+id: 2369
+area: 邕宁区
+parent_id: 2363
+
+2370:
+id: 2370
+area: 武鸣县
+parent_id: 2363
+
+2371:
+id: 2371
+area: 隆安县
+parent_id: 2363
+
+2372:
+id: 2372
+area: 马山县
+parent_id: 2363
+
+2373:
+id: 2373
+area: 上林县
+parent_id: 2363
+
+2374:
+id: 2374
+area: 宾阳县
+parent_id: 2363
+
+2375:
+id: 2375
+area: 横县
+parent_id: 2363
+
+2376:
+id: 2376
+area: 其它区
+parent_id: 2363
+
+2377:
+id: 2377
+area: 柳州市
+parent_id: 2362
+
+2378:
+id: 2378
+area: 城中区
+parent_id: 2377
+
+2379:
+id: 2379
+area: 鱼峰区
+parent_id: 2377
+
+2380:
+id: 2380
+area: 柳南区
+parent_id: 2377
+
+2381:
+id: 2381
+area: 柳北区
+parent_id: 2377
+
+2382:
+id: 2382
+area: 柳江县
+parent_id: 2377
+
+2383:
+id: 2383
+area: 柳城县
+parent_id: 2377
+
+2384:
+id: 2384
+area: 鹿寨县
+parent_id: 2377
+
+2385:
+id: 2385
+area: 融安县
+parent_id: 2377
+
+2386:
+id: 2386
+area: 融水苗族自治县
+parent_id: 2377
+
+2387:
+id: 2387
+area: 三江侗族自治县
+parent_id: 2377
+
+2388:
+id: 2388
+area: 其它区
+parent_id: 2377
+
+2389:
+id: 2389
+area: 桂林市
+parent_id: 2362
+
+2390:
+id: 2390
+area: 秀峰区
+parent_id: 2389
+
+2391:
+id: 2391
+area: 叠彩区
+parent_id: 2389
+
+2392:
+id: 2392
+area: 象山区
+parent_id: 2389
+
+2393:
+id: 2393
+area: 七星区
+parent_id: 2389
+
+2394:
+id: 2394
+area: 雁山区
+parent_id: 2389
+
+2395:
+id: 2395
+area: 阳朔县
+parent_id: 2389
+
+2396:
+id: 2396
+area: 临桂县
+parent_id: 2389
+
+2397:
+id: 2397
+area: 灵川县
+parent_id: 2389
+
+2398:
+id: 2398
+area: 全州县
+parent_id: 2389
+
+2399:
+id: 2399
+area: 兴安县
+parent_id: 2389
+
+2400:
+id: 2400
+area: 永福县
+parent_id: 2389
+
+2401:
+id: 2401
+area: 灌阳县
+parent_id: 2389
+
+2402:
+id: 2402
+area: 龙胜各族自治县
+parent_id: 2389
+
+2403:
+id: 2403
+area: 资源县
+parent_id: 2389
+
+2404:
+id: 2404
+area: 平乐县
+parent_id: 2389
+
+2405:
+id: 2405
+area: 荔浦县
+parent_id: 2389
+
+2406:
+id: 2406
+area: 恭城瑶族自治县
+parent_id: 2389
+
+2407:
+id: 2407
+area: 其它区
+parent_id: 2389
+
+2408:
+id: 2408
+area: 梧州市
+parent_id: 2362
+
+2409:
+id: 2409
+area: 万秀区
+parent_id: 2408
+
+2410:
+id: 2410
+area: 蝶山区
+parent_id: 2408
+
+2411:
+id: 2411
+area: 长洲区
+parent_id: 2408
+
+2412:
+id: 2412
+area: 苍梧县
+parent_id: 2408
+
+2413:
+id: 2413
+area: 藤县
+parent_id: 2408
+
+2414:
+id: 2414
+area: 蒙山县
+parent_id: 2408
+
+2415:
+id: 2415
+area: 岑溪市
+parent_id: 2408
+
+2416:
+id: 2416
+area: 其它区
+parent_id: 2408
+
+2417:
+id: 2417
+area: 北海市
+parent_id: 2362
+
+2418:
+id: 2418
+area: 海城区
+parent_id: 2417
+
+2419:
+id: 2419
+area: 银海区
+parent_id: 2417
+
+2420:
+id: 2420
+area: 铁山港区
+parent_id: 2417
+
+2421:
+id: 2421
+area: 合浦县
+parent_id: 2417
+
+2422:
+id: 2422
+area: 其它区
+parent_id: 2417
+
+2423:
+id: 2423
+area: 防城港市
+parent_id: 2362
+
+2424:
+id: 2424
+area: 港口区
+parent_id: 2423
+
+2425:
+id: 2425
+area: 防城区
+parent_id: 2423
+
+2426:
+id: 2426
+area: 上思县
+parent_id: 2423
+
+2427:
+id: 2427
+area: 东兴市
+parent_id: 2423
+
+2428:
+id: 2428
+area: 其它区
+parent_id: 2423
+
+2429:
+id: 2429
+area: 钦州市
+parent_id: 2362
+
+2430:
+id: 2430
+area: 钦南区
+parent_id: 2429
+
+2431:
+id: 2431
+area: 钦北区
+parent_id: 2429
+
+2432:
+id: 2432
+area: 灵山县
+parent_id: 2429
+
+2433:
+id: 2433
+area: 浦北县
+parent_id: 2429
+
+2434:
+id: 2434
+area: 其它区
+parent_id: 2429
+
+2435:
+id: 2435
+area: 贵港市
+parent_id: 2362
+
+2436:
+id: 2436
+area: 港北区
+parent_id: 2435
+
+2437:
+id: 2437
+area: 港南区
+parent_id: 2435
+
+2438:
+id: 2438
+area: 覃塘区
+parent_id: 2435
+
+2439:
+id: 2439
+area: 平南县
+parent_id: 2435
+
+2440:
+id: 2440
+area: 桂平市
+parent_id: 2435
+
+2441:
+id: 2441
+area: 其它区
+parent_id: 2435
+
+2442:
+id: 2442
+area: 玉林市
+parent_id: 2362
+
+2443:
+id: 2443
+area: 玉州区
+parent_id: 2442
+
+2444:
+id: 2444
+area: 容县
+parent_id: 2442
+
+2445:
+id: 2445
+area: 陆川县
+parent_id: 2442
+
+2446:
+id: 2446
+area: 博白县
+parent_id: 2442
+
+2447:
+id: 2447
+area: 兴业县
+parent_id: 2442
+
+2448:
+id: 2448
+area: 北流市
+parent_id: 2442
+
+2449:
+id: 2449
+area: 其它区
+parent_id: 2442
+
+2450:
+id: 2450
+area: 百色市
+parent_id: 2362
+
+2451:
+id: 2451
+area: 右江区
+parent_id: 2450
+
+2452:
+id: 2452
+area: 田阳县
+parent_id: 2450
+
+2453:
+id: 2453
+area: 田东县
+parent_id: 2450
+
+2454:
+id: 2454
+area: 平果县
+parent_id: 2450
+
+2455:
+id: 2455
+area: 德保县
+parent_id: 2450
+
+2456:
+id: 2456
+area: 靖西县
+parent_id: 2450
+
+2457:
+id: 2457
+area: 那坡县
+parent_id: 2450
+
+2458:
+id: 2458
+area: 凌云县
+parent_id: 2450
+
+2459:
+id: 2459
+area: 乐业县
+parent_id: 2450
+
+2460:
+id: 2460
+area: 田林县
+parent_id: 2450
+
+2461:
+id: 2461
+area: 西林县
+parent_id: 2450
+
+2462:
+id: 2462
+area: 隆林各族自治县
+parent_id: 2450
+
+2463:
+id: 2463
+area: 其它区
+parent_id: 2450
+
+2464:
+id: 2464
+area: 贺州市
+parent_id: 2362
+
+2465:
+id: 2465
+area: 八步区
+parent_id: 2464
+
+2466:
+id: 2466
+area: 昭平县
+parent_id: 2464
+
+2467:
+id: 2467
+area: 钟山县
+parent_id: 2464
+
+2468:
+id: 2468
+area: 富川瑶族自治县
+parent_id: 2464
+
+2469:
+id: 2469
+area: 其它区
+parent_id: 2464
+
+2470:
+id: 2470
+area: 河池市
+parent_id: 2362
+
+2471:
+id: 2471
+area: 金城江区
+parent_id: 2470
+
+2472:
+id: 2472
+area: 南丹县
+parent_id: 2470
+
+2473:
+id: 2473
+area: 天峨县
+parent_id: 2470
+
+2474:
+id: 2474
+area: 凤山县
+parent_id: 2470
+
+2475:
+id: 2475
+area: 东兰县
+parent_id: 2470
+
+2476:
+id: 2476
+area: 罗城仫佬族自治县
+parent_id: 2470
+
+2477:
+id: 2477
+area: 环江毛南族自治县
+parent_id: 2470
+
+2478:
+id: 2478
+area: 巴马瑶族自治县
+parent_id: 2470
+
+2479:
+id: 2479
+area: 都安瑶族自治县
+parent_id: 2470
+
+2480:
+id: 2480
+area: 大化瑶族自治县
+parent_id: 2470
+
+2481:
+id: 2481
+area: 宜州市
+parent_id: 2470
+
+2482:
+id: 2482
+area: 其它区
+parent_id: 2470
+
+2483:
+id: 2483
+area: 来宾市
+parent_id: 2362
+
+2484:
+id: 2484
+area: 兴宾区
+parent_id: 2483
+
+2485:
+id: 2485
+area: 忻城县
+parent_id: 2483
+
+2486:
+id: 2486
+area: 象州县
+parent_id: 2483
+
+2487:
+id: 2487
+area: 武宣县
+parent_id: 2483
+
+2488:
+id: 2488
+area: 金秀瑶族自治县
+parent_id: 2483
+
+2489:
+id: 2489
+area: 合山市
+parent_id: 2483
+
+2490:
+id: 2490
+area: 其它区
+parent_id: 2483
+
+2491:
+id: 2491
+area: 崇左市
+parent_id: 2362
+
+2492:
+id: 2492
+area: 江州区
+parent_id: 2491
+
+2493:
+id: 2493
+area: 扶绥县
+parent_id: 2491
+
+2494:
+id: 2494
+area: 宁明县
+parent_id: 2491
+
+2495:
+id: 2495
+area: 龙州县
+parent_id: 2491
+
+2496:
+id: 2496
+area: 大新县
+parent_id: 2491
+
+2497:
+id: 2497
+area: 天等县
+parent_id: 2491
+
+2498:
+id: 2498
+area: 凭祥市
+parent_id: 2491
+
+2499:
+id: 2499
+area: 其它区
+parent_id: 2491
+
+2500:
+id: 2500
+area: 海南省
+parent_id: 
+
+2501:
+id: 2501
+area: 海口市
+parent_id: 2500
+
+2502:
+id: 2502
+area: 秀英区
+parent_id: 2501
+
+2503:
+id: 2503
+area: 龙华区
+parent_id: 2501
+
+2504:
+id: 2504
+area: 琼山区
+parent_id: 2501
+
+2505:
+id: 2505
+area: 美兰区
+parent_id: 2501
+
+2506:
+id: 2506
+area: 其它区
+parent_id: 2501
+
+2507:
+id: 2507
+area: 三亚市
+parent_id: 2500
+
+2508:
+id: 2508
+area: 五指山市
+parent_id: 2500
+
+2509:
+id: 2509
+area: 琼海市
+parent_id: 2500
+
+2510:
+id: 2510
+area: 儋州市
+parent_id: 2500
+
+2511:
+id: 2511
+area: 文昌市
+parent_id: 2500
+
+2512:
+id: 2512
+area: 万宁市
+parent_id: 2500
+
+2513:
+id: 2513
+area: 东方市
+parent_id: 2500
+
+2514:
+id: 2514
+area: 定安县
+parent_id: 2500
+
+2515:
+id: 2515
+area: 屯昌县
+parent_id: 2500
+
+2516:
+id: 2516
+area: 澄迈县
+parent_id: 2500
+
+2517:
+id: 2517
+area: 临高县
+parent_id: 2500
+
+2518:
+id: 2518
+area: 白沙黎族自治县
+parent_id: 2500
+
+2519:
+id: 2519
+area: 昌江黎族自治县
+parent_id: 2500
+
+2520:
+id: 2520
+area: 乐东黎族自治县
+parent_id: 2500
+
+2521:
+id: 2521
+area: 陵水黎族自治县
+parent_id: 2500
+
+2522:
+id: 2522
+area: 保亭黎族苗族自治县
+parent_id: 2500
+
+2523:
+id: 2523
+area: 琼中黎族苗族自治县
+parent_id: 2500
+
+2524:
+id: 2524
+area: 西沙群岛
+parent_id: 2500
+
+2525:
+id: 2525
+area: 南沙群岛
+parent_id: 2500
+
+2526:
+id: 2526
+area: 中沙群岛的岛礁及其海域
+parent_id: 2500
+
+2527:
+id: 2527
+area: 高新区
+parent_id: 1744
+
+2528:
+id: 2528
+area: 其它区
+parent_id: 1744
+
+2529:
+id: 2529
+area: 重庆
+parent_id: 
+
+2530:
+id: 2530
+area: 重庆市
+parent_id: 2529
+
+2531:
+id: 2531
+area: 万州区
+parent_id: 2530
+
+2532:
+id: 2532
+area: 涪陵区
+parent_id: 2530
+
+2533:
+id: 2533
+area: 渝中区
+parent_id: 2530
+
+2534:
+id: 2534
+area: 大渡口区
+parent_id: 2530
+
+2535:
+id: 2535
+area: 江北区
+parent_id: 2530
+
+2536:
+id: 2536
+area: 沙坪坝区
+parent_id: 2530
+
+2537:
+id: 2537
+area: 九龙坡区
+parent_id: 2530
+
+2538:
+id: 2538
+area: 南岸区
+parent_id: 2530
+
+2539:
+id: 2539
+area: 北碚区
+parent_id: 2530
+
+2540:
+id: 2540
+area: 万盛区
+parent_id: 2530
+
+2541:
+id: 2541
+area: 双桥区
+parent_id: 2530
+
+2542:
+id: 2542
+area: 渝北区
+parent_id: 2530
+
+2543:
+id: 2543
+area: 巴南区
+parent_id: 2530
+
+2544:
+id: 2544
+area: 黔江区
+parent_id: 2530
+
+2545:
+id: 2545
+area: 长寿区
+parent_id: 2530
+
+2546:
+id: 2546
+area: 綦江县
+parent_id: 2530
+
+2547:
+id: 2547
+area: 潼南县
+parent_id: 2530
+
+2548:
+id: 2548
+area: 铜梁县
+parent_id: 2530
+
+2549:
+id: 2549
+area: 大足县
+parent_id: 2530
+
+2550:
+id: 2550
+area: 荣昌县
+parent_id: 2530
+
+2551:
+id: 2551
+area: 璧山县
+parent_id: 2530
+
+2552:
+id: 2552
+area: 梁平县
+parent_id: 2530
+
+2553:
+id: 2553
+area: 城口县
+parent_id: 2530
+
+2554:
+id: 2554
+area: 丰都县
+parent_id: 2530
+
+2555:
+id: 2555
+area: 垫江县
+parent_id: 2530
+
+2556:
+id: 2556
+area: 武隆县
+parent_id: 2530
+
+2557:
+id: 2557
+area: 忠县
+parent_id: 2530
+
+2558:
+id: 2558
+area: 开县
+parent_id: 2530
+
+2559:
+id: 2559
+area: 云阳县
+parent_id: 2530
+
+2560:
+id: 2560
+area: 奉节县
+parent_id: 2530
+
+2561:
+id: 2561
+area: 巫山县
+parent_id: 2530
+
+2562:
+id: 2562
+area: 巫溪县
+parent_id: 2530
+
+2563:
+id: 2563
+area: 石柱土家族自治县
+parent_id: 2530
+
+2564:
+id: 2564
+area: 秀山土家族苗族自治县
+parent_id: 2530
+
+2565:
+id: 2565
+area: 酉阳土家族苗族自治县
+parent_id: 2530
+
+2566:
+id: 2566
+area: 彭水苗族土家族自治县
+parent_id: 2530
+
+2567:
+id: 2567
+area: 江津区
+parent_id: 2530
+
+2568:
+id: 2568
+area: 合川区
+parent_id: 2530
+
+2569:
+id: 2569
+area: 永川区
+parent_id: 2530
+
+2570:
+id: 2570
+area: 南川区
+parent_id: 2530
+
+2571:
+id: 2571
+area: 其它区
+parent_id: 2530
+
+2572:
+id: 2572
+area: 四川省
+parent_id: 
+
+2573:
+id: 2573
+area: 成都市
+parent_id: 2572
+
+2574:
+id: 2574
+area: 锦江区
+parent_id: 2573
+
+2575:
+id: 2575
+area: 青羊区
+parent_id: 2573
+
+2576:
+id: 2576
+area: 金牛区
+parent_id: 2573
+
+2577:
+id: 2577
+area: 武侯区
+parent_id: 2573
+
+2578:
+id: 2578
+area: 成华区
+parent_id: 2573
+
+2579:
+id: 2579
+area: 龙泉驿区
+parent_id: 2573
+
+2580:
+id: 2580
+area: 青白江区
+parent_id: 2573
+
+2581:
+id: 2581
+area: 新都区
+parent_id: 2573
+
+2582:
+id: 2582
+area: 温江区
+parent_id: 2573
+
+2583:
+id: 2583
+area: 金堂县
+parent_id: 2573
+
+2584:
+id: 2584
+area: 双流县
+parent_id: 2573
+
+2585:
+id: 2585
+area: 郫县
+parent_id: 2573
+
+2586:
+id: 2586
+area: 大邑县
+parent_id: 2573
+
+2587:
+id: 2587
+area: 蒲江县
+parent_id: 2573
+
+2588:
+id: 2588
+area: 新津县
+parent_id: 2573
+
+2589:
+id: 2589
+area: 都江堰市
+parent_id: 2573
+
+2590:
+id: 2590
+area: 彭州市
+parent_id: 2573
+
+2591:
+id: 2591
+area: 邛崃市
+parent_id: 2573
+
+2592:
+id: 2592
+area: 崇州市
+parent_id: 2573
+
+2593:
+id: 2593
+area: 其它区
+parent_id: 2573
+
+2594:
+id: 2594
+area: 自贡市
+parent_id: 2572
+
+2595:
+id: 2595
+area: 自流井区
+parent_id: 2594
+
+2596:
+id: 2596
+area: 贡井区
+parent_id: 2594
+
+2597:
+id: 2597
+area: 大安区
+parent_id: 2594
+
+2598:
+id: 2598
+area: 沿滩区
+parent_id: 2594
+
+2599:
+id: 2599
+area: 荣县
+parent_id: 2594
+
+2600:
+id: 2600
+area: 富顺县
+parent_id: 2594
+
+2601:
+id: 2601
+area: 其它区
+parent_id: 2594
+
+2602:
+id: 2602
+area: 攀枝花市
+parent_id: 2572
+
+2603:
+id: 2603
+area: 东区
+parent_id: 2602
+
+2604:
+id: 2604
+area: 西区
+parent_id: 2602
+
+2605:
+id: 2605
+area: 仁和区
+parent_id: 2602
+
+2606:
+id: 2606
+area: 米易县
+parent_id: 2602
+
+2607:
+id: 2607
+area: 盐边县
+parent_id: 2602
+
+2608:
+id: 2608
+area: 其它区
+parent_id: 2602
+
+2609:
+id: 2609
+area: 泸州市
+parent_id: 2572
+
+2610:
+id: 2610
+area: 江阳区
+parent_id: 2609
+
+2611:
+id: 2611
+area: 纳溪区
+parent_id: 2609
+
+2612:
+id: 2612
+area: 龙马潭区
+parent_id: 2609
+
+2613:
+id: 2613
+area: 泸县
+parent_id: 2609
+
+2614:
+id: 2614
+area: 合江县
+parent_id: 2609
+
+2615:
+id: 2615
+area: 叙永县
+parent_id: 2609
+
+2616:
+id: 2616
+area: 古蔺县
+parent_id: 2609
+
+2617:
+id: 2617
+area: 其它区
+parent_id: 2609
+
+2618:
+id: 2618
+area: 德阳市
+parent_id: 2572
+
+2619:
+id: 2619
+area: 旌阳区
+parent_id: 2618
+
+2620:
+id: 2620
+area: 中江县
+parent_id: 2618
+
+2621:
+id: 2621
+area: 罗江县
+parent_id: 2618
+
+2622:
+id: 2622
+area: 广汉市
+parent_id: 2618
+
+2623:
+id: 2623
+area: 什邡市
+parent_id: 2618
+
+2624:
+id: 2624
+area: 绵竹市
+parent_id: 2618
+
+2625:
+id: 2625
+area: 其它区
+parent_id: 2618
+
+2626:
+id: 2626
+area: 绵阳市
+parent_id: 2572
+
+2627:
+id: 2627
+area: 涪城区
+parent_id: 2626
+
+2628:
+id: 2628
+area: 游仙区
+parent_id: 2626
+
+2629:
+id: 2629
+area: 三台县
+parent_id: 2626
+
+2630:
+id: 2630
+area: 盐亭县
+parent_id: 2626
+
+2631:
+id: 2631
+area: 安县
+parent_id: 2626
+
+2632:
+id: 2632
+area: 梓潼县
+parent_id: 2626
+
+2633:
+id: 2633
+area: 北川羌族自治县
+parent_id: 2626
+
+2634:
+id: 2634
+area: 平武县
+parent_id: 2626
+
+2635:
+id: 2635
+area: 高新区
+parent_id: 2626
+
+2636:
+id: 2636
+area: 江油市
+parent_id: 2626
+
+2637:
+id: 2637
+area: 其它区
+parent_id: 2626
+
+2638:
+id: 2638
+area: 广元市
+parent_id: 2572
+
+2639:
+id: 2639
+area: 利州区
+parent_id: 2638
+
+2640:
+id: 2640
+area: 元坝区
+parent_id: 2638
+
+2641:
+id: 2641
+area: 朝天区
+parent_id: 2638
+
+2642:
+id: 2642
+area: 旺苍县
+parent_id: 2638
+
+2643:
+id: 2643
+area: 青川县
+parent_id: 2638
+
+2644:
+id: 2644
+area: 剑阁县
+parent_id: 2638
+
+2645:
+id: 2645
+area: 苍溪县
+parent_id: 2638
+
+2646:
+id: 2646
+area: 其它区
+parent_id: 2638
+
+2647:
+id: 2647
+area: 遂宁市
+parent_id: 2572
+
+2648:
+id: 2648
+area: 船山区
+parent_id: 2647
+
+2649:
+id: 2649
+area: 安居区
+parent_id: 2647
+
+2650:
+id: 2650
+area: 蓬溪县
+parent_id: 2647
+
+2651:
+id: 2651
+area: 射洪县
+parent_id: 2647
+
+2652:
+id: 2652
+area: 大英县
+parent_id: 2647
+
+2653:
+id: 2653
+area: 其它区
+parent_id: 2647
+
+2654:
+id: 2654
+area: 内江市
+parent_id: 2572
+
+2655:
+id: 2655
+area: 市中区
+parent_id: 2654
+
+2656:
+id: 2656
+area: 东兴区
+parent_id: 2654
+
+2657:
+id: 2657
+area: 威远县
+parent_id: 2654
+
+2658:
+id: 2658
+area: 资中县
+parent_id: 2654
+
+2659:
+id: 2659
+area: 隆昌县
+parent_id: 2654
+
+2660:
+id: 2660
+area: 其它区
+parent_id: 2654
+
+2661:
+id: 2661
+area: 乐山市
+parent_id: 2572
+
+2662:
+id: 2662
+area: 市中区
+parent_id: 2661
+
+2663:
+id: 2663
+area: 沙湾区
+parent_id: 2661
+
+2664:
+id: 2664
+area: 五通桥区
+parent_id: 2661
+
+2665:
+id: 2665
+area: 金口河区
+parent_id: 2661
+
+2666:
+id: 2666
+area: 犍为县
+parent_id: 2661
+
+2667:
+id: 2667
+area: 井研县
+parent_id: 2661
+
+2668:
+id: 2668
+area: 夹江县
+parent_id: 2661
+
+2669:
+id: 2669
+area: 沐川县
+parent_id: 2661
+
+2670:
+id: 2670
+area: 峨边彝族自治县
+parent_id: 2661
+
+2671:
+id: 2671
+area: 马边彝族自治县
+parent_id: 2661
+
+2672:
+id: 2672
+area: 峨眉山市
+parent_id: 2661
+
+2673:
+id: 2673
+area: 其它区
+parent_id: 2661
+
+2674:
+id: 2674
+area: 南充市
+parent_id: 2572
+
+2675:
+id: 2675
+area: 顺庆区
+parent_id: 2674
+
+2676:
+id: 2676
+area: 高坪区
+parent_id: 2674
+
+2677:
+id: 2677
+area: 嘉陵区
+parent_id: 2674
+
+2678:
+id: 2678
+area: 南部县
+parent_id: 2674
+
+2679:
+id: 2679
+area: 营山县
+parent_id: 2674
+
+2680:
+id: 2680
+area: 蓬安县
+parent_id: 2674
+
+2681:
+id: 2681
+area: 仪陇县
+parent_id: 2674
+
+2682:
+id: 2682
+area: 西充县
+parent_id: 2674
+
+2683:
+id: 2683
+area: 阆中市
+parent_id: 2674
+
+2684:
+id: 2684
+area: 其它区
+parent_id: 2674
+
+2685:
+id: 2685
+area: 眉山市
+parent_id: 2572
+
+2686:
+id: 2686
+area: 东坡区
+parent_id: 2685
+
+2687:
+id: 2687
+area: 仁寿县
+parent_id: 2685
+
+2688:
+id: 2688
+area: 彭山县
+parent_id: 2685
+
+2689:
+id: 2689
+area: 洪雅县
+parent_id: 2685
+
+2690:
+id: 2690
+area: 丹棱县
+parent_id: 2685
+
+2691:
+id: 2691
+area: 青神县
+parent_id: 2685
+
+2692:
+id: 2692
+area: 其它区
+parent_id: 2685
+
+2693:
+id: 2693
+area: 宜宾市
+parent_id: 2572
+
+2694:
+id: 2694
+area: 翠屏区
+parent_id: 2693
+
+2695:
+id: 2695
+area: 宜宾县
+parent_id: 2693
+
+2696:
+id: 2696
+area: 南溪县
+parent_id: 2693
+
+2697:
+id: 2697
+area: 江安县
+parent_id: 2693
+
+2698:
+id: 2698
+area: 长宁县
+parent_id: 2693
+
+2699:
+id: 2699
+area: 高县
+parent_id: 2693
+
+2700:
+id: 2700
+area: 珙县
+parent_id: 2693
+
+2701:
+id: 2701
+area: 筠连县
+parent_id: 2693
+
+2702:
+id: 2702
+area: 兴文县
+parent_id: 2693
+
+2703:
+id: 2703
+area: 屏山县
+parent_id: 2693
+
+2704:
+id: 2704
+area: 其它区
+parent_id: 2693
+
+2705:
+id: 2705
+area: 广安市
+parent_id: 2572
+
+2706:
+id: 2706
+area: 广安区
+parent_id: 2705
+
+2707:
+id: 2707
+area: 岳池县
+parent_id: 2705
+
+2708:
+id: 2708
+area: 武胜县
+parent_id: 2705
+
+2709:
+id: 2709
+area: 邻水县
+parent_id: 2705
+
+2710:
+id: 2710
+area: 华蓥市
+parent_id: 2705
+
+2711:
+id: 2711
+area: 市辖区
+parent_id: 2705
+
+2712:
+id: 2712
+area: 其它区
+parent_id: 2705
+
+2713:
+id: 2713
+area: 达州市
+parent_id: 2572
+
+2714:
+id: 2714
+area: 通川区
+parent_id: 2713
+
+2715:
+id: 2715
+area: 达县
+parent_id: 2713
+
+2716:
+id: 2716
+area: 宣汉县
+parent_id: 2713
+
+2717:
+id: 2717
+area: 开江县
+parent_id: 2713
+
+2718:
+id: 2718
+area: 大竹县
+parent_id: 2713
+
+2719:
+id: 2719
+area: 渠县
+parent_id: 2713
+
+2720:
+id: 2720
+area: 万源市
+parent_id: 2713
+
+2721:
+id: 2721
+area: 其它区
+parent_id: 2713
+
+2722:
+id: 2722
+area: 雅安市
+parent_id: 2572
+
+2723:
+id: 2723
+area: 雨城区
+parent_id: 2722
+
+2724:
+id: 2724
+area: 名山县
+parent_id: 2722
+
+2725:
+id: 2725
+area: 荥经县
+parent_id: 2722
+
+2726:
+id: 2726
+area: 汉源县
+parent_id: 2722
+
+2727:
+id: 2727
+area: 石棉县
+parent_id: 2722
+
+2728:
+id: 2728
+area: 天全县
+parent_id: 2722
+
+2729:
+id: 2729
+area: 芦山县
+parent_id: 2722
+
+2730:
+id: 2730
+area: 宝兴县
+parent_id: 2722
+
+2731:
+id: 2731
+area: 其它区
+parent_id: 2722
+
+2732:
+id: 2732
+area: 巴中市
+parent_id: 2572
+
+2733:
+id: 2733
+area: 巴州区
+parent_id: 2732
+
+2734:
+id: 2734
+area: 通江县
+parent_id: 2732
+
+2735:
+id: 2735
+area: 南江县
+parent_id: 2732
+
+2736:
+id: 2736
+area: 平昌县
+parent_id: 2732
+
+2737:
+id: 2737
+area: 其它区
+parent_id: 2732
+
+2738:
+id: 2738
+area: 资阳市
+parent_id: 2572
+
+2739:
+id: 2739
+area: 雁江区
+parent_id: 2738
+
+2740:
+id: 2740
+area: 安岳县
+parent_id: 2738
+
+2741:
+id: 2741
+area: 乐至县
+parent_id: 2738
+
+2742:
+id: 2742
+area: 简阳市
+parent_id: 2738
+
+2743:
+id: 2743
+area: 其它区
+parent_id: 2738
+
+2744:
+id: 2744
+area: 阿坝藏族羌族自治州
+parent_id: 2572
+
+2745:
+id: 2745
+area: 汶川县
+parent_id: 2744
+
+2746:
+id: 2746
+area: 理县
+parent_id: 2744
+
+2747:
+id: 2747
+area: 茂县
+parent_id: 2744
+
+2748:
+id: 2748
+area: 松潘县
+parent_id: 2744
+
+2749:
+id: 2749
+area: 九寨沟县
+parent_id: 2744
+
+2750:
+id: 2750
+area: 金川县
+parent_id: 2744
+
+2751:
+id: 2751
+area: 小金县
+parent_id: 2744
+
+2752:
+id: 2752
+area: 黑水县
+parent_id: 2744
+
+2753:
+id: 2753
+area: 马尔康县
+parent_id: 2744
+
+2754:
+id: 2754
+area: 壤塘县
+parent_id: 2744
+
+2755:
+id: 2755
+area: 阿坝县
+parent_id: 2744
+
+2756:
+id: 2756
+area: 若尔盖县
+parent_id: 2744
+
+2757:
+id: 2757
+area: 红原县
+parent_id: 2744
+
+2758:
+id: 2758
+area: 其它区
+parent_id: 2744
+
+2759:
+id: 2759
+area: 甘孜藏族自治州
+parent_id: 2572
+
+2760:
+id: 2760
+area: 康定县
+parent_id: 2759
+
+2761:
+id: 2761
+area: 泸定县
+parent_id: 2759
+
+2762:
+id: 2762
+area: 丹巴县
+parent_id: 2759
+
+2763:
+id: 2763
+area: 九龙县
+parent_id: 2759
+
+2764:
+id: 2764
+area: 雅江县
+parent_id: 2759
+
+2765:
+id: 2765
+area: 道孚县
+parent_id: 2759
+
+2766:
+id: 2766
+area: 炉霍县
+parent_id: 2759
+
+2767:
+id: 2767
+area: 甘孜县
+parent_id: 2759
+
+2768:
+id: 2768
+area: 新龙县
+parent_id: 2759
+
+2769:
+id: 2769
+area: 德格县
+parent_id: 2759
+
+2770:
+id: 2770
+area: 白玉县
+parent_id: 2759
+
+2771:
+id: 2771
+area: 石渠县
+parent_id: 2759
+
+2772:
+id: 2772
+area: 色达县
+parent_id: 2759
+
+2773:
+id: 2773
+area: 理塘县
+parent_id: 2759
+
+2774:
+id: 2774
+area: 巴塘县
+parent_id: 2759
+
+2775:
+id: 2775
+area: 乡城县
+parent_id: 2759
+
+2776:
+id: 2776
+area: 稻城县
+parent_id: 2759
+
+2777:
+id: 2777
+area: 得荣县
+parent_id: 2759
+
+2778:
+id: 2778
+area: 其它区
+parent_id: 2759
+
+2779:
+id: 2779
+area: 凉山彝族自治州
+parent_id: 2572
+
+2780:
+id: 2780
+area: 西昌市
+parent_id: 2779
+
+2781:
+id: 2781
+area: 木里藏族自治县
+parent_id: 2779
+
+2782:
+id: 2782
+area: 盐源县
+parent_id: 2779
+
+2783:
+id: 2783
+area: 德昌县
+parent_id: 2779
+
+2784:
+id: 2784
+area: 会理县
+parent_id: 2779
+
+2785:
+id: 2785
+area: 会东县
+parent_id: 2779
+
+2786:
+id: 2786
+area: 宁南县
+parent_id: 2779
+
+2787:
+id: 2787
+area: 普格县
+parent_id: 2779
+
+2788:
+id: 2788
+area: 布拖县
+parent_id: 2779
+
+2789:
+id: 2789
+area: 金阳县
+parent_id: 2779
+
+2790:
+id: 2790
+area: 昭觉县
+parent_id: 2779
+
+2791:
+id: 2791
+area: 喜德县
+parent_id: 2779
+
+2792:
+id: 2792
+area: 冕宁县
+parent_id: 2779
+
+2793:
+id: 2793
+area: 越西县
+parent_id: 2779
+
+2794:
+id: 2794
+area: 甘洛县
+parent_id: 2779
+
+2795:
+id: 2795
+area: 美姑县
+parent_id: 2779
+
+2796:
+id: 2796
+area: 雷波县
+parent_id: 2779
+
+2797:
+id: 2797
+area: 其它区
+parent_id: 2779
+
+2798:
+id: 2798
+area: 贵州省
+parent_id: 
+
+2799:
+id: 2799
+area: 贵阳市
+parent_id: 2798
+
+2800:
+id: 2800
+area: 南明区
+parent_id: 2799
+
+2801:
+id: 2801
+area: 云岩区
+parent_id: 2799
+
+2802:
+id: 2802
+area: 花溪区
+parent_id: 2799
+
+2803:
+id: 2803
+area: 乌当区
+parent_id: 2799
+
+2804:
+id: 2804
+area: 白云区
+parent_id: 2799
+
+2805:
+id: 2805
+area: 小河区
+parent_id: 2799
+
+2806:
+id: 2806
+area: 开阳县
+parent_id: 2799
+
+2807:
+id: 2807
+area: 息烽县
+parent_id: 2799
+
+2808:
+id: 2808
+area: 修文县
+parent_id: 2799
+
+2809:
+id: 2809
+area: 金阳开发区
+parent_id: 2799
+
+2810:
+id: 2810
+area: 清镇市
+parent_id: 2799
+
+2811:
+id: 2811
+area: 其它区
+parent_id: 2799
+
+2812:
+id: 2812
+area: 六盘水市
+parent_id: 2798
+
+2813:
+id: 2813
+area: 钟山区
+parent_id: 2812
+
+2814:
+id: 2814
+area: 六枝特区
+parent_id: 2812
+
+2815:
+id: 2815
+area: 水城县
+parent_id: 2812
+
+2816:
+id: 2816
+area: 盘县
+parent_id: 2812
+
+2817:
+id: 2817
+area: 其它区
+parent_id: 2812
+
+2818:
+id: 2818
+area: 遵义市
+parent_id: 2798
+
+2819:
+id: 2819
+area: 红花岗区
+parent_id: 2818
+
+2820:
+id: 2820
+area: 汇川区
+parent_id: 2818
+
+2821:
+id: 2821
+area: 遵义县
+parent_id: 2818
+
+2822:
+id: 2822
+area: 桐梓县
+parent_id: 2818
+
+2823:
+id: 2823
+area: 绥阳县
+parent_id: 2818
+
+2824:
+id: 2824
+area: 正安县
+parent_id: 2818
+
+2825:
+id: 2825
+area: 道真仡佬族苗族自治县
+parent_id: 2818
+
+2826:
+id: 2826
+area: 务川仡佬族苗族自治县
+parent_id: 2818
+
+2827:
+id: 2827
+area: 凤冈县
+parent_id: 2818
+
+2828:
+id: 2828
+area: 湄潭县
+parent_id: 2818
+
+2829:
+id: 2829
+area: 余庆县
+parent_id: 2818
+
+2830:
+id: 2830
+area: 习水县
+parent_id: 2818
+
+2831:
+id: 2831
+area: 赤水市
+parent_id: 2818
+
+2832:
+id: 2832
+area: 仁怀市
+parent_id: 2818
+
+2833:
+id: 2833
+area: 其它区
+parent_id: 2818
+
+2834:
+id: 2834
+area: 安顺市
+parent_id: 2798
+
+2835:
+id: 2835
+area: 西秀区
+parent_id: 2834
+
+2836:
+id: 2836
+area: 平坝县
+parent_id: 2834
+
+2837:
+id: 2837
+area: 普定县
+parent_id: 2834
+
+2838:
+id: 2838
+area: 镇宁布依族苗族自治县
+parent_id: 2834
+
+2839:
+id: 2839
+area: 关岭布依族苗族自治县
+parent_id: 2834
+
+2840:
+id: 2840
+area: 紫云苗族布依族自治县
+parent_id: 2834
+
+2841:
+id: 2841
+area: 其它区
+parent_id: 2834
+
+2842:
+id: 2842
+area: 铜仁地区
+parent_id: 2798
+
+2843:
+id: 2843
+area: 铜仁市
+parent_id: 2842
+
+2844:
+id: 2844
+area: 江口县
+parent_id: 2842
+
+2845:
+id: 2845
+area: 玉屏侗族自治县
+parent_id: 2842
+
+2846:
+id: 2846
+area: 石阡县
+parent_id: 2842
+
+2847:
+id: 2847
+area: 思南县
+parent_id: 2842
+
+2848:
+id: 2848
+area: 印江土家族苗族自治县
+parent_id: 2842
+
+2849:
+id: 2849
+area: 德江县
+parent_id: 2842
+
+2850:
+id: 2850
+area: 沿河土家族自治县
+parent_id: 2842
+
+2851:
+id: 2851
+area: 松桃苗族自治县
+parent_id: 2842
+
+2852:
+id: 2852
+area: 万山特区
+parent_id: 2842
+
+2853:
+id: 2853
+area: 其它区
+parent_id: 2842
+
+2854:
+id: 2854
+area: 黔西南布依族苗族自治州
+parent_id: 2798
+
+2855:
+id: 2855
+area: 兴义市
+parent_id: 2854
+
+2856:
+id: 2856
+area: 兴仁县
+parent_id: 2854
+
+2857:
+id: 2857
+area: 普安县
+parent_id: 2854
+
+2858:
+id: 2858
+area: 晴隆县
+parent_id: 2854
+
+2859:
+id: 2859
+area: 贞丰县
+parent_id: 2854
+
+2860:
+id: 2860
+area: 望谟县
+parent_id: 2854
+
+2861:
+id: 2861
+area: 册亨县
+parent_id: 2854
+
+2862:
+id: 2862
+area: 安龙县
+parent_id: 2854
+
+2863:
+id: 2863
+area: 其它区
+parent_id: 2854
+
+2864:
+id: 2864
+area: 毕节地区
+parent_id: 2798
+
+2865:
+id: 2865
+area: 毕节市
+parent_id: 2864
+
+2866:
+id: 2866
+area: 大方县
+parent_id: 2864
+
+2867:
+id: 2867
+area: 黔西县
+parent_id: 2864
+
+2868:
+id: 2868
+area: 金沙县
+parent_id: 2864
+
+2869:
+id: 2869
+area: 织金县
+parent_id: 2864
+
+2870:
+id: 2870
+area: 纳雍县
+parent_id: 2864
+
+2871:
+id: 2871
+area: 威宁彝族回族苗族自治县
+parent_id: 2864
+
+2872:
+id: 2872
+area: 赫章县
+parent_id: 2864
+
+2873:
+id: 2873
+area: 其它区
+parent_id: 2864
+
+2874:
+id: 2874
+area: 黔东南苗族侗族自治州
+parent_id: 2798
+
+2875:
+id: 2875
+area: 凯里市
+parent_id: 2874
+
+2876:
+id: 2876
+area: 黄平县
+parent_id: 2874
+
+2877:
+id: 2877
+area: 施秉县
+parent_id: 2874
+
+2878:
+id: 2878
+area: 三穗县
+parent_id: 2874
+
+2879:
+id: 2879
+area: 镇远县
+parent_id: 2874
+
+2880:
+id: 2880
+area: 岑巩县
+parent_id: 2874
+
+2881:
+id: 2881
+area: 天柱县
+parent_id: 2874
+
+2882:
+id: 2882
+area: 锦屏县
+parent_id: 2874
+
+2883:
+id: 2883
+area: 剑河县
+parent_id: 2874
+
+2884:
+id: 2884
+area: 台江县
+parent_id: 2874
+
+2885:
+id: 2885
+area: 黎平县
+parent_id: 2874
+
+2886:
+id: 2886
+area: 榕江县
+parent_id: 2874
+
+2887:
+id: 2887
+area: 从江县
+parent_id: 2874
+
+2888:
+id: 2888
+area: 雷山县
+parent_id: 2874
+
+2889:
+id: 2889
+area: 麻江县
+parent_id: 2874
+
+2890:
+id: 2890
+area: 丹寨县
+parent_id: 2874
+
+2891:
+id: 2891
+area: 其它区
+parent_id: 2874
+
+2892:
+id: 2892
+area: 黔南布依族苗族自治州
+parent_id: 2798
+
+2893:
+id: 2893
+area: 都匀市
+parent_id: 2892
+
+2894:
+id: 2894
+area: 福泉市
+parent_id: 2892
+
+2895:
+id: 2895
+area: 荔波县
+parent_id: 2892
+
+2896:
+id: 2896
+area: 贵定县
+parent_id: 2892
+
+2897:
+id: 2897
+area: 瓮安县
+parent_id: 2892
+
+2898:
+id: 2898
+area: 独山县
+parent_id: 2892
+
+2899:
+id: 2899
+area: 平塘县
+parent_id: 2892
+
+2900:
+id: 2900
+area: 罗甸县
+parent_id: 2892
+
+2901:
+id: 2901
+area: 长顺县
+parent_id: 2892
+
+2902:
+id: 2902
+area: 龙里县
+parent_id: 2892
+
+2903:
+id: 2903
+area: 惠水县
+parent_id: 2892
+
+2904:
+id: 2904
+area: 三都水族自治县
+parent_id: 2892
+
+2905:
+id: 2905
+area: 其它区
+parent_id: 2892
+
+2906:
+id: 2906
+area: 云南省
+parent_id: 
+
+2907:
+id: 2907
+area: 昆明市
+parent_id: 2906
+
+2908:
+id: 2908
+area: 五华区
+parent_id: 2907
+
+2909:
+id: 2909
+area: 盘龙区
+parent_id: 2907
+
+2910:
+id: 2910
+area: 官渡区
+parent_id: 2907
+
+2911:
+id: 2911
+area: 西山区
+parent_id: 2907
+
+2912:
+id: 2912
+area: 东川区
+parent_id: 2907
+
+2913:
+id: 2913
+area: 呈贡县
+parent_id: 2907
+
+2914:
+id: 2914
+area: 晋宁县
+parent_id: 2907
+
+2915:
+id: 2915
+area: 富民县
+parent_id: 2907
+
+2916:
+id: 2916
+area: 宜良县
+parent_id: 2907
+
+2917:
+id: 2917
+area: 石林彝族自治县
+parent_id: 2907
+
+2918:
+id: 2918
+area: 嵩明县
+parent_id: 2907
+
+2919:
+id: 2919
+area: 禄劝彝族苗族自治县
+parent_id: 2907
+
+2920:
+id: 2920
+area: 寻甸回族彝族自治县
+parent_id: 2907
+
+2921:
+id: 2921
+area: 安宁市
+parent_id: 2907
+
+2922:
+id: 2922
+area: 其它区
+parent_id: 2907
+
+2923:
+id: 2923
+area: 曲靖市
+parent_id: 2906
+
+2924:
+id: 2924
+area: 麒麟区
+parent_id: 2923
+
+2925:
+id: 2925
+area: 马龙县
+parent_id: 2923
+
+2926:
+id: 2926
+area: 陆良县
+parent_id: 2923
+
+2927:
+id: 2927
+area: 师宗县
+parent_id: 2923
+
+2928:
+id: 2928
+area: 罗平县
+parent_id: 2923
+
+2929:
+id: 2929
+area: 富源县
+parent_id: 2923
+
+2930:
+id: 2930
+area: 会泽县
+parent_id: 2923
+
+2931:
+id: 2931
+area: 沾益县
+parent_id: 2923
+
+2932:
+id: 2932
+area: 宣威市
+parent_id: 2923
+
+2933:
+id: 2933
+area: 其它区
+parent_id: 2923
+
+2934:
+id: 2934
+area: 玉溪市
+parent_id: 2906
+
+2935:
+id: 2935
+area: 红塔区
+parent_id: 2934
+
+2936:
+id: 2936
+area: 江川县
+parent_id: 2934
+
+2937:
+id: 2937
+area: 澄江县
+parent_id: 2934
+
+2938:
+id: 2938
+area: 通海县
+parent_id: 2934
+
+2939:
+id: 2939
+area: 华宁县
+parent_id: 2934
+
+2940:
+id: 2940
+area: 易门县
+parent_id: 2934
+
+2941:
+id: 2941
+area: 峨山彝族自治县
+parent_id: 2934
+
+2942:
+id: 2942
+area: 新平彝族傣族自治县
+parent_id: 2934
+
+2943:
+id: 2943
+area: 元江哈尼族彝族傣族自治县
+parent_id: 2934
+
+2944:
+id: 2944
+area: 其它区
+parent_id: 2934
+
+2945:
+id: 2945
+area: 保山市
+parent_id: 2906
+
+2946:
+id: 2946
+area: 隆阳区
+parent_id: 2945
+
+2947:
+id: 2947
+area: 施甸县
+parent_id: 2945
+
+2948:
+id: 2948
+area: 腾冲县
+parent_id: 2945
+
+2949:
+id: 2949
+area: 龙陵县
+parent_id: 2945
+
+2950:
+id: 2950
+area: 昌宁县
+parent_id: 2945
+
+2951:
+id: 2951
+area: 其它区
+parent_id: 2945
+
+2952:
+id: 2952
+area: 昭通市
+parent_id: 2906
+
+2953:
+id: 2953
+area: 昭阳区
+parent_id: 2952
+
+2954:
+id: 2954
+area: 鲁甸县
+parent_id: 2952
+
+2955:
+id: 2955
+area: 巧家县
+parent_id: 2952
+
+2956:
+id: 2956
+area: 盐津县
+parent_id: 2952
+
+2957:
+id: 2957
+area: 大关县
+parent_id: 2952
+
+2958:
+id: 2958
+area: 永善县
+parent_id: 2952
+
+2959:
+id: 2959
+area: 绥江县
+parent_id: 2952
+
+2960:
+id: 2960
+area: 镇雄县
+parent_id: 2952
+
+2961:
+id: 2961
+area: 彝良县
+parent_id: 2952
+
+2962:
+id: 2962
+area: 威信县
+parent_id: 2952
+
+2963:
+id: 2963
+area: 水富县
+parent_id: 2952
+
+2964:
+id: 2964
+area: 其它区
+parent_id: 2952
+
+2965:
+id: 2965
+area: 丽江市
+parent_id: 2906
+
+2966:
+id: 2966
+area: 古城区
+parent_id: 2965
+
+2967:
+id: 2967
+area: 玉龙纳西族自治县
+parent_id: 2965
+
+2968:
+id: 2968
+area: 永胜县
+parent_id: 2965
+
+2969:
+id: 2969
+area: 华坪县
+parent_id: 2965
+
+2970:
+id: 2970
+area: 宁蒗彝族自治县
+parent_id: 2965
+
+2971:
+id: 2971
+area: 其它区
+parent_id: 2965
+
+2972:
+id: 2972
+area: 普洱市
+parent_id: 2906
+
+2973:
+id: 2973
+area: 思茅区
+parent_id: 2972
+
+2974:
+id: 2974
+area: 宁洱哈尼族彝族自治县
+parent_id: 2972
+
+2975:
+id: 2975
+area: 墨江哈尼族自治县
+parent_id: 2972
+
+2976:
+id: 2976
+area: 景东彝族自治县
+parent_id: 2972
+
+2977:
+id: 2977
+area: 景谷傣族彝族自治县
+parent_id: 2972
+
+2978:
+id: 2978
+area: 镇沅彝族哈尼族拉祜族自治县
+parent_id: 2972
+
+2979:
+id: 2979
+area: 江城哈尼族彝族自治县
+parent_id: 2972
+
+2980:
+id: 2980
+area: 孟连傣族拉祜族佤族自治县
+parent_id: 2972
+
+2981:
+id: 2981
+area: 澜沧拉祜族自治县
+parent_id: 2972
+
+2982:
+id: 2982
+area: 西盟佤族自治县
+parent_id: 2972
+
+2983:
+id: 2983
+area: 其它区
+parent_id: 2972
+
+2984:
+id: 2984
+area: 临沧市
+parent_id: 2906
+
+2985:
+id: 2985
+area: 临翔区
+parent_id: 2984
+
+2986:
+id: 2986
+area: 凤庆县
+parent_id: 2984
+
+2987:
+id: 2987
+area: 云县
+parent_id: 2984
+
+2988:
+id: 2988
+area: 永德县
+parent_id: 2984
+
+2989:
+id: 2989
+area: 镇康县
+parent_id: 2984
+
+2990:
+id: 2990
+area: 双江拉祜族佤族布朗族傣族自治县
+parent_id: 2984
+
+2991:
+id: 2991
+area: 耿马傣族佤族自治县
+parent_id: 2984
+
+2992:
+id: 2992
+area: 沧源佤族自治县
+parent_id: 2984
+
+2993:
+id: 2993
+area: 其它区
+parent_id: 2984
+
+2994:
+id: 2994
+area: 楚雄彝族自治州
+parent_id: 2906
+
+2995:
+id: 2995
+area: 楚雄市
+parent_id: 2994
+
+2996:
+id: 2996
+area: 双柏县
+parent_id: 2994
+
+2997:
+id: 2997
+area: 牟定县
+parent_id: 2994
+
+2998:
+id: 2998
+area: 南华县
+parent_id: 2994
+
+2999:
+id: 2999
+area: 姚安县
+parent_id: 2994
+
+3000:
+id: 3000
+area: 大姚县
+parent_id: 2994
+
+3001:
+id: 3001
+area: 永仁县
+parent_id: 2994
+
+3002:
+id: 3002
+area: 元谋县
+parent_id: 2994
+
+3003:
+id: 3003
+area: 武定县
+parent_id: 2994
+
+3004:
+id: 3004
+area: 禄丰县
+parent_id: 2994
+
+3005:
+id: 3005
+area: 其它区
+parent_id: 2994
+
+3006:
+id: 3006
+area: 红河哈尼族彝族自治州
+parent_id: 2906
+
+3007:
+id: 3007
+area: 个旧市
+parent_id: 3006
+
+3008:
+id: 3008
+area: 开远市
+parent_id: 3006
+
+3009:
+id: 3009
+area: 蒙自县
+parent_id: 3006
+
+3010:
+id: 3010
+area: 屏边苗族自治县
+parent_id: 3006
+
+3011:
+id: 3011
+area: 建水县
+parent_id: 3006
+
+3012:
+id: 3012
+area: 石屏县
+parent_id: 3006
+
+3013:
+id: 3013
+area: 弥勒县
+parent_id: 3006
+
+3014:
+id: 3014
+area: 泸西县
+parent_id: 3006
+
+3015:
+id: 3015
+area: 元阳县
+parent_id: 3006
+
+3016:
+id: 3016
+area: 红河县
+parent_id: 3006
+
+3017:
+id: 3017
+area: 金平苗族瑶族傣族自治县
+parent_id: 3006
+
+3018:
+id: 3018
+area: 绿春县
+parent_id: 3006
+
+3019:
+id: 3019
+area: 河口瑶族自治县
+parent_id: 3006
+
+3020:
+id: 3020
+area: 其它区
+parent_id: 3006
+
+3021:
+id: 3021
+area: 文山壮族苗族自治州
+parent_id: 2906
+
+3022:
+id: 3022
+area: 文山县
+parent_id: 3021
+
+3023:
+id: 3023
+area: 砚山县
+parent_id: 3021
+
+3024:
+id: 3024
+area: 西畴县
+parent_id: 3021
+
+3025:
+id: 3025
+area: 麻栗坡县
+parent_id: 3021
+
+3026:
+id: 3026
+area: 马关县
+parent_id: 3021
+
+3027:
+id: 3027
+area: 丘北县
+parent_id: 3021
+
+3028:
+id: 3028
+area: 广南县
+parent_id: 3021
+
+3029:
+id: 3029
+area: 富宁县
+parent_id: 3021
+
+3030:
+id: 3030
+area: 其它区
+parent_id: 3021
+
+3031:
+id: 3031
+area: 西双版纳傣族自治州
+parent_id: 2906
+
+3032:
+id: 3032
+area: 景洪市
+parent_id: 3031
+
+3033:
+id: 3033
+area: 勐海县
+parent_id: 3031
+
+3034:
+id: 3034
+area: 勐腊县
+parent_id: 3031
+
+3035:
+id: 3035
+area: 其它区
+parent_id: 3031
+
+3036:
+id: 3036
+area: 大理白族自治州
+parent_id: 2906
+
+3037:
+id: 3037
+area: 大理市
+parent_id: 3036
+
+3038:
+id: 3038
+area: 漾濞彝族自治县
+parent_id: 3036
+
+3039:
+id: 3039
+area: 祥云县
+parent_id: 3036
+
+3040:
+id: 3040
+area: 宾川县
+parent_id: 3036
+
+3041:
+id: 3041
+area: 弥渡县
+parent_id: 3036
+
+3042:
+id: 3042
+area: 南涧彝族自治县
+parent_id: 3036
+
+3043:
+id: 3043
+area: 巍山彝族回族自治县
+parent_id: 3036
+
+3044:
+id: 3044
+area: 永平县
+parent_id: 3036
+
+3045:
+id: 3045
+area: 云龙县
+parent_id: 3036
+
+3046:
+id: 3046
+area: 洱源县
+parent_id: 3036
+
+3047:
+id: 3047
+area: 剑川县
+parent_id: 3036
+
+3048:
+id: 3048
+area: 鹤庆县
+parent_id: 3036
+
+3049:
+id: 3049
+area: 其它区
+parent_id: 3036
+
+3050:
+id: 3050
+area: 德宏傣族景颇族自治州
+parent_id: 2906
+
+3051:
+id: 3051
+area: 瑞丽市
+parent_id: 3050
+
+3052:
+id: 3052
+area: 潞西市
+parent_id: 3050
+
+3053:
+id: 3053
+area: 梁河县
+parent_id: 3050
+
+3054:
+id: 3054
+area: 盈江县
+parent_id: 3050
+
+3055:
+id: 3055
+area: 陇川县
+parent_id: 3050
+
+3056:
+id: 3056
+area: 其它区
+parent_id: 3050
+
+3057:
+id: 3057
+area: 怒江傈僳族自治州
+parent_id: 2906
+
+3058:
+id: 3058
+area: 泸水县
+parent_id: 3057
+
+3059:
+id: 3059
+area: 福贡县
+parent_id: 3057
+
+3060:
+id: 3060
+area: 贡山独龙族怒族自治县
+parent_id: 3057
+
+3061:
+id: 3061
+area: 兰坪白族普米族自治县
+parent_id: 3057
+
+3062:
+id: 3062
+area: 其它区
+parent_id: 3057
+
+3063:
+id: 3063
+area: 迪庆藏族自治州
+parent_id: 2906
+
+3064:
+id: 3064
+area: 香格里拉县
+parent_id: 3063
+
+3065:
+id: 3065
+area: 德钦县
+parent_id: 3063
+
+3066:
+id: 3066
+area: 维西傈僳族自治县
+parent_id: 3063
+
+3067:
+id: 3067
+area: 其它区
+parent_id: 3063
+
+3068:
+id: 3068
+area: 西藏自治区
+parent_id: 
+
+3069:
+id: 3069
+area: 拉萨市
+parent_id: 3068
+
+3070:
+id: 3070
+area: 城关区
+parent_id: 3069
+
+3071:
+id: 3071
+area: 林周县
+parent_id: 3069
+
+3072:
+id: 3072
+area: 当雄县
+parent_id: 3069
+
+3073:
+id: 3073
+area: 尼木县
+parent_id: 3069
+
+3074:
+id: 3074
+area: 曲水县
+parent_id: 3069
+
+3075:
+id: 3075
+area: 堆龙德庆县
+parent_id: 3069
+
+3076:
+id: 3076
+area: 达孜县
+parent_id: 3069
+
+3077:
+id: 3077
+area: 墨竹工卡县
+parent_id: 3069
+
+3078:
+id: 3078
+area: 其它区
+parent_id: 3069
+
+3079:
+id: 3079
+area: 昌都地区
+parent_id: 3068
+
+3080:
+id: 3080
+area: 昌都县
+parent_id: 3079
+
+3081:
+id: 3081
+area: 江达县
+parent_id: 3079
+
+3082:
+id: 3082
+area: 贡觉县
+parent_id: 3079
+
+3083:
+id: 3083
+area: 类乌齐县
+parent_id: 3079
+
+3084:
+id: 3084
+area: 丁青县
+parent_id: 3079
+
+3085:
+id: 3085
+area: 察雅县
+parent_id: 3079
+
+3086:
+id: 3086
+area: 八宿县
+parent_id: 3079
+
+3087:
+id: 3087
+area: 左贡县
+parent_id: 3079
+
+3088:
+id: 3088
+area: 芒康县
+parent_id: 3079
+
+3089:
+id: 3089
+area: 洛隆县
+parent_id: 3079
+
+3090:
+id: 3090
+area: 边坝县
+parent_id: 3079
+
+3091:
+id: 3091
+area: 其它区
+parent_id: 3079
+
+3092:
+id: 3092
+area: 山南地区
+parent_id: 3068
+
+3093:
+id: 3093
+area: 乃东县
+parent_id: 3092
+
+3094:
+id: 3094
+area: 扎囊县
+parent_id: 3092
+
+3095:
+id: 3095
+area: 贡嘎县
+parent_id: 3092
+
+3096:
+id: 3096
+area: 桑日县
+parent_id: 3092
+
+3097:
+id: 3097
+area: 琼结县
+parent_id: 3092
+
+3098:
+id: 3098
+area: 曲松县
+parent_id: 3092
+
+3099:
+id: 3099
+area: 措美县
+parent_id: 3092
+
+3100:
+id: 3100
+area: 洛扎县
+parent_id: 3092
+
+3101:
+id: 3101
+area: 加查县
+parent_id: 3092
+
+3102:
+id: 3102
+area: 隆子县
+parent_id: 3092
+
+3103:
+id: 3103
+area: 错那县
+parent_id: 3092
+
+3104:
+id: 3104
+area: 浪卡子县
+parent_id: 3092
+
+3105:
+id: 3105
+area: 其它区
+parent_id: 3092
+
+3106:
+id: 3106
+area: 日喀则地区
+parent_id: 3068
+
+3107:
+id: 3107
+area: 日喀则市
+parent_id: 3106
+
+3108:
+id: 3108
+area: 南木林县
+parent_id: 3106
+
+3109:
+id: 3109
+area: 江孜县
+parent_id: 3106
+
+3110:
+id: 3110
+area: 定日县
+parent_id: 3106
+
+3111:
+id: 3111
+area: 萨迦县
+parent_id: 3106
+
+3112:
+id: 3112
+area: 拉孜县
+parent_id: 3106
+
+3113:
+id: 3113
+area: 昂仁县
+parent_id: 3106
+
+3114:
+id: 3114
+area: 谢通门县
+parent_id: 3106
+
+3115:
+id: 3115
+area: 白朗县
+parent_id: 3106
+
+3116:
+id: 3116
+area: 仁布县
+parent_id: 3106
+
+3117:
+id: 3117
+area: 康马县
+parent_id: 3106
+
+3118:
+id: 3118
+area: 定结县
+parent_id: 3106
+
+3119:
+id: 3119
+area: 仲巴县
+parent_id: 3106
+
+3120:
+id: 3120
+area: 亚东县
+parent_id: 3106
+
+3121:
+id: 3121
+area: 吉隆县
+parent_id: 3106
+
+3122:
+id: 3122
+area: 聂拉木县
+parent_id: 3106
+
+3123:
+id: 3123
+area: 萨嘎县
+parent_id: 3106
+
+3124:
+id: 3124
+area: 岗巴县
+parent_id: 3106
+
+3125:
+id: 3125
+area: 其它区
+parent_id: 3106
+
+3126:
+id: 3126
+area: 那曲地区
+parent_id: 3068
+
+3127:
+id: 3127
+area: 那曲县
+parent_id: 3126
+
+3128:
+id: 3128
+area: 嘉黎县
+parent_id: 3126
+
+3129:
+id: 3129
+area: 比如县
+parent_id: 3126
+
+3130:
+id: 3130
+area: 聂荣县
+parent_id: 3126
+
+3131:
+id: 3131
+area: 安多县
+parent_id: 3126
+
+3132:
+id: 3132
+area: 申扎县
+parent_id: 3126
+
+3133:
+id: 3133
+area: 索县
+parent_id: 3126
+
+3134:
+id: 3134
+area: 班戈县
+parent_id: 3126
+
+3135:
+id: 3135
+area: 巴青县
+parent_id: 3126
+
+3136:
+id: 3136
+area: 尼玛县
+parent_id: 3126
+
+3137:
+id: 3137
+area: 其它区
+parent_id: 3126
+
+3138:
+id: 3138
+area: 阿里地区
+parent_id: 3068
+
+3139:
+id: 3139
+area: 普兰县
+parent_id: 3138
+
+3140:
+id: 3140
+area: 札达县
+parent_id: 3138
+
+3141:
+id: 3141
+area: 噶尔县
+parent_id: 3138
+
+3142:
+id: 3142
+area: 日土县
+parent_id: 3138
+
+3143:
+id: 3143
+area: 革吉县
+parent_id: 3138
+
+3144:
+id: 3144
+area: 改则县
+parent_id: 3138
+
+3145:
+id: 3145
+area: 措勤县
+parent_id: 3138
+
+3146:
+id: 3146
+area: 其它区
+parent_id: 3138
+
+3147:
+id: 3147
+area: 林芝地区
+parent_id: 3068
+
+3148:
+id: 3148
+area: 林芝县
+parent_id: 3147
+
+3149:
+id: 3149
+area: 工布江达县
+parent_id: 3147
+
+3150:
+id: 3150
+area: 米林县
+parent_id: 3147
+
+3151:
+id: 3151
+area: 墨脱县
+parent_id: 3147
+
+3152:
+id: 3152
+area: 波密县
+parent_id: 3147
+
+3153:
+id: 3153
+area: 察隅县
+parent_id: 3147
+
+3154:
+id: 3154
+area: 朗县
+parent_id: 3147
+
+3155:
+id: 3155
+area: 其它区
+parent_id: 3147
+
+3156:
+id: 3156
+area: 陕西省
+parent_id: 
+
+3157:
+id: 3157
+area: 西安市
+parent_id: 3156
+
+3158:
+id: 3158
+area: 新城区
+parent_id: 3157
+
+3159:
+id: 3159
+area: 碑林区
+parent_id: 3157
+
+3160:
+id: 3160
+area: 莲湖区
+parent_id: 3157
+
+3161:
+id: 3161
+area: 灞桥区
+parent_id: 3157
+
+3162:
+id: 3162
+area: 未央区
+parent_id: 3157
+
+3163:
+id: 3163
+area: 雁塔区
+parent_id: 3157
+
+3164:
+id: 3164
+area: 阎良区
+parent_id: 3157
+
+3165:
+id: 3165
+area: 临潼区
+parent_id: 3157
+
+3166:
+id: 3166
+area: 长安区
+parent_id: 3157
+
+3167:
+id: 3167
+area: 蓝田县
+parent_id: 3157
+
+3168:
+id: 3168
+area: 周至县
+parent_id: 3157
+
+3169:
+id: 3169
+area: 户县
+parent_id: 3157
+
+3170:
+id: 3170
+area: 高陵县
+parent_id: 3157
+
+3171:
+id: 3171
+area: 其它区
+parent_id: 3157
+
+3172:
+id: 3172
+area: 铜川市
+parent_id: 3156
+
+3173:
+id: 3173
+area: 王益区
+parent_id: 3172
+
+3174:
+id: 3174
+area: 印台区
+parent_id: 3172
+
+3175:
+id: 3175
+area: 耀州区
+parent_id: 3172
+
+3176:
+id: 3176
+area: 宜君县
+parent_id: 3172
+
+3177:
+id: 3177
+area: 其它区
+parent_id: 3172
+
+3178:
+id: 3178
+area: 宝鸡市
+parent_id: 3156
+
+3179:
+id: 3179
+area: 渭滨区
+parent_id: 3178
+
+3180:
+id: 3180
+area: 金台区
+parent_id: 3178
+
+3181:
+id: 3181
+area: 陈仓区
+parent_id: 3178
+
+3182:
+id: 3182
+area: 凤翔县
+parent_id: 3178
+
+3183:
+id: 3183
+area: 岐山县
+parent_id: 3178
+
+3184:
+id: 3184
+area: 扶风县
+parent_id: 3178
+
+3185:
+id: 3185
+area: 眉县
+parent_id: 3178
+
+3186:
+id: 3186
+area: 陇县
+parent_id: 3178
+
+3187:
+id: 3187
+area: 千阳县
+parent_id: 3178
+
+3188:
+id: 3188
+area: 麟游县
+parent_id: 3178
+
+3189:
+id: 3189
+area: 凤县
+parent_id: 3178
+
+3190:
+id: 3190
+area: 太白县
+parent_id: 3178
+
+3191:
+id: 3191
+area: 其它区
+parent_id: 3178
+
+3192:
+id: 3192
+area: 咸阳市
+parent_id: 3156
+
+3193:
+id: 3193
+area: 秦都区
+parent_id: 3192
+
+3194:
+id: 3194
+area: 杨凌区
+parent_id: 3192
+
+3195:
+id: 3195
+area: 渭城区
+parent_id: 3192
+
+3196:
+id: 3196
+area: 三原县
+parent_id: 3192
+
+3197:
+id: 3197
+area: 泾阳县
+parent_id: 3192
+
+3198:
+id: 3198
+area: 乾县
+parent_id: 3192
+
+3199:
+id: 3199
+area: 礼泉县
+parent_id: 3192
+
+3200:
+id: 3200
+area: 永寿县
+parent_id: 3192
+
+3201:
+id: 3201
+area: 彬县
+parent_id: 3192
+
+3202:
+id: 3202
+area: 长武县
+parent_id: 3192
+
+3203:
+id: 3203
+area: 旬邑县
+parent_id: 3192
+
+3204:
+id: 3204
+area: 淳化县
+parent_id: 3192
+
+3205:
+id: 3205
+area: 武功县
+parent_id: 3192
+
+3206:
+id: 3206
+area: 兴平市
+parent_id: 3192
+
+3207:
+id: 3207
+area: 其它区
+parent_id: 3192
+
+3208:
+id: 3208
+area: 渭南市
+parent_id: 3156
+
+3209:
+id: 3209
+area: 临渭区
+parent_id: 3208
+
+3210:
+id: 3210
+area: 华县
+parent_id: 3208
+
+3211:
+id: 3211
+area: 潼关县
+parent_id: 3208
+
+3212:
+id: 3212
+area: 大荔县
+parent_id: 3208
+
+3213:
+id: 3213
+area: 合阳县
+parent_id: 3208
+
+3214:
+id: 3214
+area: 澄城县
+parent_id: 3208
+
+3215:
+id: 3215
+area: 蒲城县
+parent_id: 3208
+
+3216:
+id: 3216
+area: 白水县
+parent_id: 3208
+
+3217:
+id: 3217
+area: 富平县
+parent_id: 3208
+
+3218:
+id: 3218
+area: 韩城市
+parent_id: 3208
+
+3219:
+id: 3219
+area: 华阴市
+parent_id: 3208
+
+3220:
+id: 3220
+area: 其它区
+parent_id: 3208
+
+3221:
+id: 3221
+area: 延安市
+parent_id: 3156
+
+3222:
+id: 3222
+area: 宝塔区
+parent_id: 3221
+
+3223:
+id: 3223
+area: 延长县
+parent_id: 3221
+
+3224:
+id: 3224
+area: 延川县
+parent_id: 3221
+
+3225:
+id: 3225
+area: 子长县
+parent_id: 3221
+
+3226:
+id: 3226
+area: 安塞县
+parent_id: 3221
+
+3227:
+id: 3227
+area: 志丹县
+parent_id: 3221
+
+3228:
+id: 3228
+area: 吴起县
+parent_id: 3221
+
+3229:
+id: 3229
+area: 甘泉县
+parent_id: 3221
+
+3230:
+id: 3230
+area: 富县
+parent_id: 3221
+
+3231:
+id: 3231
+area: 洛川县
+parent_id: 3221
+
+3232:
+id: 3232
+area: 宜川县
+parent_id: 3221
+
+3233:
+id: 3233
+area: 黄龙县
+parent_id: 3221
+
+3234:
+id: 3234
+area: 黄陵县
+parent_id: 3221
+
+3235:
+id: 3235
+area: 其它区
+parent_id: 3221
+
+3236:
+id: 3236
+area: 汉中市
+parent_id: 3156
+
+3237:
+id: 3237
+area: 汉台区
+parent_id: 3236
+
+3238:
+id: 3238
+area: 南郑县
+parent_id: 3236
+
+3239:
+id: 3239
+area: 城固县
+parent_id: 3236
+
+3240:
+id: 3240
+area: 洋县
+parent_id: 3236
+
+3241:
+id: 3241
+area: 西乡县
+parent_id: 3236
+
+3242:
+id: 3242
+area: 勉县
+parent_id: 3236
+
+3243:
+id: 3243
+area: 宁强县
+parent_id: 3236
+
+3244:
+id: 3244
+area: 略阳县
+parent_id: 3236
+
+3245:
+id: 3245
+area: 镇巴县
+parent_id: 3236
+
+3246:
+id: 3246
+area: 留坝县
+parent_id: 3236
+
+3247:
+id: 3247
+area: 佛坪县
+parent_id: 3236
+
+3248:
+id: 3248
+area: 其它区
+parent_id: 3236
+
+3249:
+id: 3249
+area: 榆林市
+parent_id: 3156
+
+3250:
+id: 3250
+area: 榆阳区
+parent_id: 3249
+
+3251:
+id: 3251
+area: 神木县
+parent_id: 3249
+
+3252:
+id: 3252
+area: 府谷县
+parent_id: 3249
+
+3253:
+id: 3253
+area: 横山县
+parent_id: 3249
+
+3254:
+id: 3254
+area: 靖边县
+parent_id: 3249
+
+3255:
+id: 3255
+area: 定边县
+parent_id: 3249
+
+3256:
+id: 3256
+area: 绥德县
+parent_id: 3249
+
+3257:
+id: 3257
+area: 米脂县
+parent_id: 3249
+
+3258:
+id: 3258
+area: 佳县
+parent_id: 3249
+
+3259:
+id: 3259
+area: 吴堡县
+parent_id: 3249
+
+3260:
+id: 3260
+area: 清涧县
+parent_id: 3249
+
+3261:
+id: 3261
+area: 子洲县
+parent_id: 3249
+
+3262:
+id: 3262
+area: 其它区
+parent_id: 3249
+
+3263:
+id: 3263
+area: 安康市
+parent_id: 3156
+
+3264:
+id: 3264
+area: 汉滨区
+parent_id: 3263
+
+3265:
+id: 3265
+area: 汉阴县
+parent_id: 3263
+
+3266:
+id: 3266
+area: 石泉县
+parent_id: 3263
+
+3267:
+id: 3267
+area: 宁陕县
+parent_id: 3263
+
+3268:
+id: 3268
+area: 紫阳县
+parent_id: 3263
+
+3269:
+id: 3269
+area: 岚皋县
+parent_id: 3263
+
+3270:
+id: 3270
+area: 平利县
+parent_id: 3263
+
+3271:
+id: 3271
+area: 镇坪县
+parent_id: 3263
+
+3272:
+id: 3272
+area: 旬阳县
+parent_id: 3263
+
+3273:
+id: 3273
+area: 白河县
+parent_id: 3263
+
+3274:
+id: 3274
+area: 其它区
+parent_id: 3263
+
+3275:
+id: 3275
+area: 商洛市
+parent_id: 3156
+
+3276:
+id: 3276
+area: 商州区
+parent_id: 3275
+
+3277:
+id: 3277
+area: 洛南县
+parent_id: 3275
+
+3278:
+id: 3278
+area: 丹凤县
+parent_id: 3275
+
+3279:
+id: 3279
+area: 商南县
+parent_id: 3275
+
+3280:
+id: 3280
+area: 山阳县
+parent_id: 3275
+
+3281:
+id: 3281
+area: 镇安县
+parent_id: 3275
+
+3282:
+id: 3282
+area: 柞水县
+parent_id: 3275
+
+3283:
+id: 3283
+area: 其它区
+parent_id: 3275
+
+3284:
+id: 3284
+area: 甘肃省
+parent_id: 
+
+3285:
+id: 3285
+area: 兰州市
+parent_id: 3284
+
+3286:
+id: 3286
+area: 城关区
+parent_id: 3285
+
+3287:
+id: 3287
+area: 七里河区
+parent_id: 3285
+
+3288:
+id: 3288
+area: 西固区
+parent_id: 3285
+
+3289:
+id: 3289
+area: 安宁区
+parent_id: 3285
+
+3290:
+id: 3290
+area: 红古区
+parent_id: 3285
+
+3291:
+id: 3291
+area: 永登县
+parent_id: 3285
+
+3292:
+id: 3292
+area: 皋兰县
+parent_id: 3285
+
+3293:
+id: 3293
+area: 榆中县
+parent_id: 3285
+
+3294:
+id: 3294
+area: 其它区
+parent_id: 3285
+
+3295:
+id: 3295
+area: 嘉峪关市
+parent_id: 3284
+
+3296:
+id: 3296
+area: 金昌市
+parent_id: 3284
+
+3297:
+id: 3297
+area: 金川区
+parent_id: 3296
+
+3298:
+id: 3298
+area: 永昌县
+parent_id: 3296
+
+3299:
+id: 3299
+area: 其它区
+parent_id: 3296
+
+3300:
+id: 3300
+area: 白银市
+parent_id: 3284
+
+3301:
+id: 3301
+area: 白银区
+parent_id: 3300
+
+3302:
+id: 3302
+area: 平川区
+parent_id: 3300
+
+3303:
+id: 3303
+area: 靖远县
+parent_id: 3300
+
+3304:
+id: 3304
+area: 会宁县
+parent_id: 3300
+
+3305:
+id: 3305
+area: 景泰县
+parent_id: 3300
+
+3306:
+id: 3306
+area: 其它区
+parent_id: 3300
+
+3307:
+id: 3307
+area: 天水市
+parent_id: 3284
+
+3308:
+id: 3308
+area: 秦州区
+parent_id: 3307
+
+3309:
+id: 3309
+area: 麦积区
+parent_id: 3307
+
+3310:
+id: 3310
+area: 清水县
+parent_id: 3307
+
+3311:
+id: 3311
+area: 秦安县
+parent_id: 3307
+
+3312:
+id: 3312
+area: 甘谷县
+parent_id: 3307
+
+3313:
+id: 3313
+area: 武山县
+parent_id: 3307
+
+3314:
+id: 3314
+area: 张家川回族自治县
+parent_id: 3307
+
+3315:
+id: 3315
+area: 其它区
+parent_id: 3307
+
+3316:
+id: 3316
+area: 武威市
+parent_id: 3284
+
+3317:
+id: 3317
+area: 凉州区
+parent_id: 3316
+
+3318:
+id: 3318
+area: 民勤县
+parent_id: 3316
+
+3319:
+id: 3319
+area: 古浪县
+parent_id: 3316
+
+3320:
+id: 3320
+area: 天祝藏族自治县
+parent_id: 3316
+
+3321:
+id: 3321
+area: 其它区
+parent_id: 3316
+
+3322:
+id: 3322
+area: 张掖市
+parent_id: 3284
+
+3323:
+id: 3323
+area: 甘州区
+parent_id: 3322
+
+3324:
+id: 3324
+area: 肃南裕固族自治县
+parent_id: 3322
+
+3325:
+id: 3325
+area: 民乐县
+parent_id: 3322
+
+3326:
+id: 3326
+area: 临泽县
+parent_id: 3322
+
+3327:
+id: 3327
+area: 高台县
+parent_id: 3322
+
+3328:
+id: 3328
+area: 山丹县
+parent_id: 3322
+
+3329:
+id: 3329
+area: 其它区
+parent_id: 3322
+
+3330:
+id: 3330
+area: 平凉市
+parent_id: 3284
+
+3331:
+id: 3331
+area: 崆峒区
+parent_id: 3330
+
+3332:
+id: 3332
+area: 泾川县
+parent_id: 3330
+
+3333:
+id: 3333
+area: 灵台县
+parent_id: 3330
+
+3334:
+id: 3334
+area: 崇信县
+parent_id: 3330
+
+3335:
+id: 3335
+area: 华亭县
+parent_id: 3330
+
+3336:
+id: 3336
+area: 庄浪县
+parent_id: 3330
+
+3337:
+id: 3337
+area: 静宁县
+parent_id: 3330
+
+3338:
+id: 3338
+area: 其它区
+parent_id: 3330
+
+3339:
+id: 3339
+area: 酒泉市
+parent_id: 3284
+
+3340:
+id: 3340
+area: 肃州区
+parent_id: 3339
+
+3341:
+id: 3341
+area: 金塔县
+parent_id: 3339
+
+3342:
+id: 3342
+area: 安西县
+parent_id: 3339
+
+3343:
+id: 3343
+area: 肃北蒙古族自治县
+parent_id: 3339
+
+3344:
+id: 3344
+area: 阿克塞哈萨克族自治县
+parent_id: 3339
+
+3345:
+id: 3345
+area: 玉门市
+parent_id: 3339
+
+3346:
+id: 3346
+area: 敦煌市
+parent_id: 3339
+
+3347:
+id: 3347
+area: 其它区
+parent_id: 3339
+
+3348:
+id: 3348
+area: 庆阳市
+parent_id: 3284
+
+3349:
+id: 3349
+area: 西峰区
+parent_id: 3348
+
+3350:
+id: 3350
+area: 庆城县
+parent_id: 3348
+
+3351:
+id: 3351
+area: 环县
+parent_id: 3348
+
+3352:
+id: 3352
+area: 华池县
+parent_id: 3348
+
+3353:
+id: 3353
+area: 合水县
+parent_id: 3348
+
+3354:
+id: 3354
+area: 正宁县
+parent_id: 3348
+
+3355:
+id: 3355
+area: 宁县
+parent_id: 3348
+
+3356:
+id: 3356
+area: 镇原县
+parent_id: 3348
+
+3357:
+id: 3357
+area: 其它区
+parent_id: 3348
+
+3358:
+id: 3358
+area: 定西市
+parent_id: 3284
+
+3359:
+id: 3359
+area: 安定区
+parent_id: 3358
+
+3360:
+id: 3360
+area: 通渭县
+parent_id: 3358
+
+3361:
+id: 3361
+area: 陇西县
+parent_id: 3358
+
+3362:
+id: 3362
+area: 渭源县
+parent_id: 3358
+
+3363:
+id: 3363
+area: 临洮县
+parent_id: 3358
+
+3364:
+id: 3364
+area: 漳县
+parent_id: 3358
+
+3365:
+id: 3365
+area: 岷县
+parent_id: 3358
+
+3366:
+id: 3366
+area: 其它区
+parent_id: 3358
+
+3367:
+id: 3367
+area: 陇南市
+parent_id: 3284
+
+3368:
+id: 3368
+area: 武都区
+parent_id: 3367
+
+3369:
+id: 3369
+area: 成县
+parent_id: 3367
+
+3370:
+id: 3370
+area: 文县
+parent_id: 3367
+
+3371:
+id: 3371
+area: 宕昌县
+parent_id: 3367
+
+3372:
+id: 3372
+area: 康县
+parent_id: 3367
+
+3373:
+id: 3373
+area: 西和县
+parent_id: 3367
+
+3374:
+id: 3374
+area: 礼县
+parent_id: 3367
+
+3375:
+id: 3375
+area: 徽县
+parent_id: 3367
+
+3376:
+id: 3376
+area: 两当县
+parent_id: 3367
+
+3377:
+id: 3377
+area: 其它区
+parent_id: 3367
+
+3378:
+id: 3378
+area: 临夏回族自治州
+parent_id: 3284
+
+3379:
+id: 3379
+area: 临夏市
+parent_id: 3378
+
+3380:
+id: 3380
+area: 临夏县
+parent_id: 3378
+
+3381:
+id: 3381
+area: 康乐县
+parent_id: 3378
+
+3382:
+id: 3382
+area: 永靖县
+parent_id: 3378
+
+3383:
+id: 3383
+area: 广河县
+parent_id: 3378
+
+3384:
+id: 3384
+area: 和政县
+parent_id: 3378
+
+3385:
+id: 3385
+area: 东乡族自治县
+parent_id: 3378
+
+3386:
+id: 3386
+area: 积石山保安族东乡族撒拉族自治县
+parent_id: 3378
+
+3387:
+id: 3387
+area: 其它区
+parent_id: 3378
+
+3388:
+id: 3388
+area: 甘南藏族自治州
+parent_id: 3284
+
+3389:
+id: 3389
+area: 合作市
+parent_id: 3388
+
+3390:
+id: 3390
+area: 临潭县
+parent_id: 3388
+
+3391:
+id: 3391
+area: 卓尼县
+parent_id: 3388
+
+3392:
+id: 3392
+area: 舟曲县
+parent_id: 3388
+
+3393:
+id: 3393
+area: 迭部县
+parent_id: 3388
+
+3394:
+id: 3394
+area: 玛曲县
+parent_id: 3388
+
+3395:
+id: 3395
+area: 碌曲县
+parent_id: 3388
+
+3396:
+id: 3396
+area: 夏河县
+parent_id: 3388
+
+3397:
+id: 3397
+area: 其它区
+parent_id: 3388
+
+3398:
+id: 3398
+area: 青海省
+parent_id: 
+
+3399:
+id: 3399
+area: 西宁市
+parent_id: 3398
+
+3400:
+id: 3400
+area: 城东区
+parent_id: 3399
+
+3401:
+id: 3401
+area: 城中区
+parent_id: 3399
+
+3402:
+id: 3402
+area: 城西区
+parent_id: 3399
+
+3403:
+id: 3403
+area: 城北区
+parent_id: 3399
+
+3404:
+id: 3404
+area: 大通回族土族自治县
+parent_id: 3399
+
+3405:
+id: 3405
+area: 湟中县
+parent_id: 3399
+
+3406:
+id: 3406
+area: 湟源县
+parent_id: 3399
+
+3407:
+id: 3407
+area: 其它区
+parent_id: 3399
+
+3408:
+id: 3408
+area: 海东地区
+parent_id: 3398
+
+3409:
+id: 3409
+area: 平安县
+parent_id: 3408
+
+3410:
+id: 3410
+area: 民和回族土族自治县
+parent_id: 3408
+
+3411:
+id: 3411
+area: 乐都县
+parent_id: 3408
+
+3412:
+id: 3412
+area: 互助土族自治县
+parent_id: 3408
+
+3413:
+id: 3413
+area: 化隆回族自治县
+parent_id: 3408
+
+3414:
+id: 3414
+area: 循化撒拉族自治县
+parent_id: 3408
+
+3415:
+id: 3415
+area: 其它区
+parent_id: 3408
+
+3416:
+id: 3416
+area: 海北藏族自治州
+parent_id: 3398
+
+3417:
+id: 3417
+area: 门源回族自治县
+parent_id: 3416
+
+3418:
+id: 3418
+area: 祁连县
+parent_id: 3416
+
+3419:
+id: 3419
+area: 海晏县
+parent_id: 3416
+
+3420:
+id: 3420
+area: 刚察县
+parent_id: 3416
+
+3421:
+id: 3421
+area: 其它区
+parent_id: 3416
+
+3422:
+id: 3422
+area: 黄南藏族自治州
+parent_id: 3398
+
+3423:
+id: 3423
+area: 同仁县
+parent_id: 3422
+
+3424:
+id: 3424
+area: 尖扎县
+parent_id: 3422
+
+3425:
+id: 3425
+area: 泽库县
+parent_id: 3422
+
+3426:
+id: 3426
+area: 河南蒙古族自治县
+parent_id: 3422
+
+3427:
+id: 3427
+area: 其它区
+parent_id: 3422
+
+3428:
+id: 3428
+area: 海南藏族自治州
+parent_id: 3398
+
+3429:
+id: 3429
+area: 共和县
+parent_id: 3428
+
+3430:
+id: 3430
+area: 同德县
+parent_id: 3428
+
+3431:
+id: 3431
+area: 贵德县
+parent_id: 3428
+
+3432:
+id: 3432
+area: 兴海县
+parent_id: 3428
+
+3433:
+id: 3433
+area: 贵南县
+parent_id: 3428
+
+3434:
+id: 3434
+area: 其它区
+parent_id: 3428
+
+3435:
+id: 3435
+area: 果洛藏族自治州
+parent_id: 3398
+
+3436:
+id: 3436
+area: 玛沁县
+parent_id: 3435
+
+3437:
+id: 3437
+area: 班玛县
+parent_id: 3435
+
+3438:
+id: 3438
+area: 甘德县
+parent_id: 3435
+
+3439:
+id: 3439
+area: 达日县
+parent_id: 3435
+
+3440:
+id: 3440
+area: 久治县
+parent_id: 3435
+
+3441:
+id: 3441
+area: 玛多县
+parent_id: 3435
+
+3442:
+id: 3442
+area: 其它区
+parent_id: 3435
+
+3443:
+id: 3443
+area: 玉树藏族自治州
+parent_id: 3398
+
+3444:
+id: 3444
+area: 玉树县
+parent_id: 3443
+
+3445:
+id: 3445
+area: 杂多县
+parent_id: 3443
+
+3446:
+id: 3446
+area: 称多县
+parent_id: 3443
+
+3447:
+id: 3447
+area: 治多县
+parent_id: 3443
+
+3448:
+id: 3448
+area: 囊谦县
+parent_id: 3443
+
+3449:
+id: 3449
+area: 曲麻莱县
+parent_id: 3443
+
+3450:
+id: 3450
+area: 其它区
+parent_id: 3443
+
+3451:
+id: 3451
+area: 海西蒙古族藏族自治州
+parent_id: 3398
+
+3452:
+id: 3452
+area: 格尔木市
+parent_id: 3451
+
+3453:
+id: 3453
+area: 德令哈市
+parent_id: 3451
+
+3454:
+id: 3454
+area: 乌兰县
+parent_id: 3451
+
+3455:
+id: 3455
+area: 都兰县
+parent_id: 3451
+
+3456:
+id: 3456
+area: 天峻县
+parent_id: 3451
+
+3457:
+id: 3457
+area: 其它区
+parent_id: 3451
+
+3458:
+id: 3458
+area: 宁夏回族自治区
+parent_id: 
+
+3459:
+id: 3459
+area: 银川市
+parent_id: 3458
+
+3460:
+id: 3460
+area: 兴庆区
+parent_id: 3459
+
+3461:
+id: 3461
+area: 西夏区
+parent_id: 3459
+
+3462:
+id: 3462
+area: 金凤区
+parent_id: 3459
+
+3463:
+id: 3463
+area: 永宁县
+parent_id: 3459
+
+3464:
+id: 3464
+area: 贺兰县
+parent_id: 3459
+
+3465:
+id: 3465
+area: 灵武市
+parent_id: 3459
+
+3466:
+id: 3466
+area: 其它区
+parent_id: 3459
+
+3467:
+id: 3467
+area: 石嘴山市
+parent_id: 3458
+
+3468:
+id: 3468
+area: 大武口区
+parent_id: 3467
+
+3469:
+id: 3469
+area: 惠农区
+parent_id: 3467
+
+3470:
+id: 3470
+area: 平罗县
+parent_id: 3467
+
+3471:
+id: 3471
+area: 其它区
+parent_id: 3467
+
+3472:
+id: 3472
+area: 吴忠市
+parent_id: 3458
+
+3473:
+id: 3473
+area: 利通区
+parent_id: 3472
+
+3474:
+id: 3474
+area: 红寺堡区
+parent_id: 3472
+
+3475:
+id: 3475
+area: 盐池县
+parent_id: 3472
+
+3476:
+id: 3476
+area: 同心县
+parent_id: 3472
+
+3477:
+id: 3477
+area: 青铜峡市
+parent_id: 3472
+
+3478:
+id: 3478
+area: 其它区
+parent_id: 3472
+
+3479:
+id: 3479
+area: 固原市
+parent_id: 3458
+
+3480:
+id: 3480
+area: 原州区
+parent_id: 3479
+
+3481:
+id: 3481
+area: 西吉县
+parent_id: 3479
+
+3482:
+id: 3482
+area: 隆德县
+parent_id: 3479
+
+3483:
+id: 3483
+area: 泾源县
+parent_id: 3479
+
+3484:
+id: 3484
+area: 彭阳县
+parent_id: 3479
+
+3485:
+id: 3485
+area: 其它区
+parent_id: 3479
+
+3486:
+id: 3486
+area: 中卫市
+parent_id: 3458
+
+3487:
+id: 3487
+area: 沙坡头区
+parent_id: 3486
+
+3488:
+id: 3488
+area: 中宁县
+parent_id: 3486
+
+3489:
+id: 3489
+area: 海原县
+parent_id: 3486
+
+3490:
+id: 3490
+area: 其它区
+parent_id: 3486
+
+3491:
+id: 3491
+area: 新疆维吾尔自治区
+parent_id: 
+
+3492:
+id: 3492
+area: 乌鲁木齐市
+parent_id: 3491
+
+3493:
+id: 3493
+area: 天山区
+parent_id: 3492
+
+3494:
+id: 3494
+area: 沙依巴克区
+parent_id: 3492
+
+3495:
+id: 3495
+area: 新市区
+parent_id: 3492
+
+3496:
+id: 3496
+area: 水磨沟区
+parent_id: 3492
+
+3497:
+id: 3497
+area: 头屯河区
+parent_id: 3492
+
+3498:
+id: 3498
+area: 达坂城区
+parent_id: 3492
+
+3499:
+id: 3499
+area: 东山区
+parent_id: 3492
+
+3500:
+id: 3500
+area: 米东区
+parent_id: 3492
+
+3501:
+id: 3501
+area: 乌鲁木齐县
+parent_id: 3492
+
+3502:
+id: 3502
+area: 其它区
+parent_id: 3492
+
+3503:
+id: 3503
+area: 克拉玛依市
+parent_id: 3491
+
+3504:
+id: 3504
+area: 独山子区
+parent_id: 3503
+
+3505:
+id: 3505
+area: 克拉玛依区
+parent_id: 3503
+
+3506:
+id: 3506
+area: 白碱滩区
+parent_id: 3503
+
+3507:
+id: 3507
+area: 乌尔禾区
+parent_id: 3503
+
+3508:
+id: 3508
+area: 其它区
+parent_id: 3503
+
+3509:
+id: 3509
+area: 吐鲁番地区
+parent_id: 3491
+
+3510:
+id: 3510
+area: 吐鲁番市
+parent_id: 3509
+
+3511:
+id: 3511
+area: 鄯善县
+parent_id: 3509
+
+3512:
+id: 3512
+area: 托克逊县
+parent_id: 3509
+
+3513:
+id: 3513
+area: 其它区
+parent_id: 3509
+
+3514:
+id: 3514
+area: 哈密地区
+parent_id: 3491
+
+3515:
+id: 3515
+area: 哈密市
+parent_id: 3514
+
+3516:
+id: 3516
+area: 巴里坤哈萨克自治县
+parent_id: 3514
+
+3517:
+id: 3517
+area: 伊吾县
+parent_id: 3514
+
+3518:
+id: 3518
+area: 其它区
+parent_id: 3514
+
+3519:
+id: 3519
+area: 昌吉回族自治州
+parent_id: 3491
+
+3520:
+id: 3520
+area: 昌吉市
+parent_id: 3519
+
+3521:
+id: 3521
+area: 阜康市
+parent_id: 3519
+
+3522:
+id: 3522
+area: 米泉市
+parent_id: 3519
+
+3523:
+id: 3523
+area: 呼图壁县
+parent_id: 3519
+
+3524:
+id: 3524
+area: 玛纳斯县
+parent_id: 3519
+
+3525:
+id: 3525
+area: 奇台县
+parent_id: 3519
+
+3526:
+id: 3526
+area: 吉木萨尔县
+parent_id: 3519
+
+3527:
+id: 3527
+area: 木垒哈萨克自治县
+parent_id: 3519
+
+3528:
+id: 3528
+area: 其它区
+parent_id: 3519
+
+3529:
+id: 3529
+area: 博尔塔拉蒙古自治州
+parent_id: 3491
+
+3530:
+id: 3530
+area: 博乐市
+parent_id: 3529
+
+3531:
+id: 3531
+area: 精河县
+parent_id: 3529
+
+3532:
+id: 3532
+area: 温泉县
+parent_id: 3529
+
+3533:
+id: 3533
+area: 其它区
+parent_id: 3529
+
+3534:
+id: 3534
+area: 巴音郭楞蒙古自治州
+parent_id: 3491
+
+3535:
+id: 3535
+area: 库尔勒市
+parent_id: 3534
+
+3536:
+id: 3536
+area: 轮台县
+parent_id: 3534
+
+3537:
+id: 3537
+area: 尉犁县
+parent_id: 3534
+
+3538:
+id: 3538
+area: 若羌县
+parent_id: 3534
+
+3539:
+id: 3539
+area: 且末县
+parent_id: 3534
+
+3540:
+id: 3540
+area: 焉耆回族自治县
+parent_id: 3534
+
+3541:
+id: 3541
+area: 和静县
+parent_id: 3534
+
+3542:
+id: 3542
+area: 和硕县
+parent_id: 3534
+
+3543:
+id: 3543
+area: 博湖县
+parent_id: 3534
+
+3544:
+id: 3544
+area: 其它区
+parent_id: 3534
+
+3545:
+id: 3545
+area: 阿克苏地区
+parent_id: 3491
+
+3546:
+id: 3546
+area: 阿克苏市
+parent_id: 3545
+
+3547:
+id: 3547
+area: 温宿县
+parent_id: 3545
+
+3548:
+id: 3548
+area: 库车县
+parent_id: 3545
+
+3549:
+id: 3549
+area: 沙雅县
+parent_id: 3545
+
+3550:
+id: 3550
+area: 新和县
+parent_id: 3545
+
+3551:
+id: 3551
+area: 拜城县
+parent_id: 3545
+
+3552:
+id: 3552
+area: 乌什县
+parent_id: 3545
+
+3553:
+id: 3553
+area: 阿瓦提县
+parent_id: 3545
+
+3554:
+id: 3554
+area: 柯坪县
+parent_id: 3545
+
+3555:
+id: 3555
+area: 其它区
+parent_id: 3545
+
+3556:
+id: 3556
+area: 克孜勒苏柯尔克孜自治州
+parent_id: 3491
+
+3557:
+id: 3557
+area: 阿图什市
+parent_id: 3556
+
+3558:
+id: 3558
+area: 阿克陶县
+parent_id: 3556
+
+3559:
+id: 3559
+area: 阿合奇县
+parent_id: 3556
+
+3560:
+id: 3560
+area: 乌恰县
+parent_id: 3556
+
+3561:
+id: 3561
+area: 其它区
+parent_id: 3556
+
+3562:
+id: 3562
+area: 喀什地区
+parent_id: 3491
+
+3563:
+id: 3563
+area: 喀什市
+parent_id: 3562
+
+3564:
+id: 3564
+area: 疏附县
+parent_id: 3562
+
+3565:
+id: 3565
+area: 疏勒县
+parent_id: 3562
+
+3566:
+id: 3566
+area: 英吉沙县
+parent_id: 3562
+
+3567:
+id: 3567
+area: 泽普县
+parent_id: 3562
+
+3568:
+id: 3568
+area: 莎车县
+parent_id: 3562
+
+3569:
+id: 3569
+area: 叶城县
+parent_id: 3562
+
+3570:
+id: 3570
+area: 麦盖提县
+parent_id: 3562
+
+3571:
+id: 3571
+area: 岳普湖县
+parent_id: 3562
+
+3572:
+id: 3572
+area: 伽师县
+parent_id: 3562
+
+3573:
+id: 3573
+area: 巴楚县
+parent_id: 3562
+
+3574:
+id: 3574
+area: 塔什库尔干塔吉克自治县
+parent_id: 3562
+
+3575:
+id: 3575
+area: 其它区
+parent_id: 3562
+
+3576:
+id: 3576
+area: 和田地区
+parent_id: 3491
+
+3577:
+id: 3577
+area: 和田市
+parent_id: 3576
+
+3578:
+id: 3578
+area: 和田县
+parent_id: 3576
+
+3579:
+id: 3579
+area: 墨玉县
+parent_id: 3576
+
+3580:
+id: 3580
+area: 皮山县
+parent_id: 3576
+
+3581:
+id: 3581
+area: 洛浦县
+parent_id: 3576
+
+3582:
+id: 3582
+area: 策勒县
+parent_id: 3576
+
+3583:
+id: 3583
+area: 于田县
+parent_id: 3576
+
+3584:
+id: 3584
+area: 民丰县
+parent_id: 3576
+
+3585:
+id: 3585
+area: 其它区
+parent_id: 3576
+
+3586:
+id: 3586
+area: 伊犁哈萨克自治州
+parent_id: 3491
+
+3587:
+id: 3587
+area: 伊宁市
+parent_id: 3586
+
+3588:
+id: 3588
+area: 奎屯市
+parent_id: 3586
+
+3589:
+id: 3589
+area: 伊宁县
+parent_id: 3586
+
+3590:
+id: 3590
+area: 察布查尔锡伯自治县
+parent_id: 3586
+
+3591:
+id: 3591
+area: 霍城县
+parent_id: 3586
+
+3592:
+id: 3592
+area: 巩留县
+parent_id: 3586
+
+3593:
+id: 3593
+area: 新源县
+parent_id: 3586
+
+3594:
+id: 3594
+area: 昭苏县
+parent_id: 3586
+
+3595:
+id: 3595
+area: 特克斯县
+parent_id: 3586
+
+3596:
+id: 3596
+area: 尼勒克县
+parent_id: 3586
+
+3597:
+id: 3597
+area: 其它区
+parent_id: 3586
+
+3598:
+id: 3598
+area: 塔城地区
+parent_id: 3491
+
+3599:
+id: 3599
+area: 塔城市
+parent_id: 3598
+
+3600:
+id: 3600
+area: 乌苏市
+parent_id: 3598
+
+3601:
+id: 3601
+area: 额敏县
+parent_id: 3598
+
+3602:
+id: 3602
+area: 沙湾县
+parent_id: 3598
+
+3603:
+id: 3603
+area: 托里县
+parent_id: 3598
+
+3604:
+id: 3604
+area: 裕民县
+parent_id: 3598
+
+3605:
+id: 3605
+area: 和布克赛尔蒙古自治县
+parent_id: 3598
+
+3606:
+id: 3606
+area: 其它区
+parent_id: 3598
+
+3607:
+id: 3607
+area: 阿勒泰地区
+parent_id: 3491
+
+3608:
+id: 3608
+area: 阿勒泰市
+parent_id: 3607
+
+3609:
+id: 3609
+area: 布尔津县
+parent_id: 3607
+
+3610:
+id: 3610
+area: 富蕴县
+parent_id: 3607
+
+3611:
+id: 3611
+area: 福海县
+parent_id: 3607
+
+3612:
+id: 3612
+area: 哈巴河县
+parent_id: 3607
+
+3613:
+id: 3613
+area: 青河县
+parent_id: 3607
+
+3614:
+id: 3614
+area: 吉木乃县
+parent_id: 3607
+
+3615:
+id: 3615
+area: 其它区
+parent_id: 3607
+
+3616:
+id: 3616
+area: 石河子市
+parent_id: 3491
+
+3617:
+id: 3617
+area: 阿拉尔市
+parent_id: 3491
+
+3618:
+id: 3618
+area: 图木舒克市
+parent_id: 3491
+
+3619:
+id: 3619
+area: 五家渠市
+parent_id: 3491
+
+3620:
+id: 3620
+area: 台湾省
+parent_id: 
+
+3621:
+id: 3621
+area: 台北市
+parent_id: 3620
+
+3622:
+id: 3622
+area: 中正区
+parent_id: 3621
+
+3623:
+id: 3623
+area: 大同区
+parent_id: 3621
+
+3624:
+id: 3624
+area: 中山区
+parent_id: 3621
+
+3625:
+id: 3625
+area: 松山区
+parent_id: 3621
+
+3626:
+id: 3626
+area: 大安区
+parent_id: 3621
+
+3627:
+id: 3627
+area: 万华区
+parent_id: 3621
+
+3628:
+id: 3628
+area: 信义区
+parent_id: 3621
+
+3629:
+id: 3629
+area: 士林区
+parent_id: 3621
+
+3630:
+id: 3630
+area: 北投区
+parent_id: 3621
+
+3631:
+id: 3631
+area: 内湖区
+parent_id: 3621
+
+3632:
+id: 3632
+area: 南港区
+parent_id: 3621
+
+3633:
+id: 3633
+area: 文山区
+parent_id: 3621
+
+3634:
+id: 3634
+area: 其它区
+parent_id: 3621
+
+3635:
+id: 3635
+area: 高雄市
+parent_id: 3620
+
+3636:
+id: 3636
+area: 新兴区
+parent_id: 3635
+
+3637:
+id: 3637
+area: 前金区
+parent_id: 3635
+
+3638:
+id: 3638
+area: 芩雅区
+parent_id: 3635
+
+3639:
+id: 3639
+area: 盐埕区
+parent_id: 3635
+
+3640:
+id: 3640
+area: 鼓山区
+parent_id: 3635
+
+3641:
+id: 3641
+area: 旗津区
+parent_id: 3635
+
+3642:
+id: 3642
+area: 前镇区
+parent_id: 3635
+
+3643:
+id: 3643
+area: 三民区
+parent_id: 3635
+
+3644:
+id: 3644
+area: 左营区
+parent_id: 3635
+
+3645:
+id: 3645
+area: 楠梓区
+parent_id: 3635
+
+3646:
+id: 3646
+area: 小港区
+parent_id: 3635
+
+3647:
+id: 3647
+area: 其它区
+parent_id: 3635
+
+3648:
+id: 3648
+area: 台南市
+parent_id: 3620
+
+3649:
+id: 3649
+area: 中西区
+parent_id: 3648
+
+3650:
+id: 3650
+area: 东区
+parent_id: 3648
+
+3651:
+id: 3651
+area: 南区
+parent_id: 3648
+
+3652:
+id: 3652
+area: 北区
+parent_id: 3648
+
+3653:
+id: 3653
+area: 安平区
+parent_id: 3648
+
+3654:
+id: 3654
+area: 安南区
+parent_id: 3648
+
+3655:
+id: 3655
+area: 其它区
+parent_id: 3648
+
+3656:
+id: 3656
+area: 台中市
+parent_id: 3620
+
+3657:
+id: 3657
+area: 中区
+parent_id: 3656
+
+3658:
+id: 3658
+area: 东区
+parent_id: 3656
+
+3659:
+id: 3659
+area: 南区
+parent_id: 3656
+
+3660:
+id: 3660
+area: 西区
+parent_id: 3656
+
+3661:
+id: 3661
+area: 北区
+parent_id: 3656
+
+3662:
+id: 3662
+area: 北屯区
+parent_id: 3656
+
+3663:
+id: 3663
+area: 西屯区
+parent_id: 3656
+
+3664:
+id: 3664
+area: 南屯区
+parent_id: 3656
+
+3665:
+id: 3665
+area: 其它区
+parent_id: 3656
+
+3666:
+id: 3666
+area: 金门县
+parent_id: 3620
+
+3667:
+id: 3667
+area: 南投县
+parent_id: 3620
+
+3668:
+id: 3668
+area: 基隆市
+parent_id: 3620
+
+3669:
+id: 3669
+area: 仁爱区
+parent_id: 3668
+
+3670:
+id: 3670
+area: 信义区
+parent_id: 3668
+
+3671:
+id: 3671
+area: 中正区
+parent_id: 3668
+
+3672:
+id: 3672
+area: 中山区
+parent_id: 3668
+
+3673:
+id: 3673
+area: 安乐区
+parent_id: 3668
+
+3674:
+id: 3674
+area: 暖暖区
+parent_id: 3668
+
+3675:
+id: 3675
+area: 七堵区
+parent_id: 3668
+
+3676:
+id: 3676
+area: 其它区
+parent_id: 3668
+
+3677:
+id: 3677
+area: 新竹市
+parent_id: 3620
+
+3678:
+id: 3678
+area: 东区
+parent_id: 3677
+
+3679:
+id: 3679
+area: 北区
+parent_id: 3677
+
+3680:
+id: 3680
+area: 香山区
+parent_id: 3677
+
+3681:
+id: 3681
+area: 其它区
+parent_id: 3677
+
+3682:
+id: 3682
+area: 嘉义市
+parent_id: 3620
+
+3683:
+id: 3683
+area: 东区
+parent_id: 3682
+
+3684:
+id: 3684
+area: 西区
+parent_id: 3682
+
+3685:
+id: 3685
+area: 其它区
+parent_id: 3682
+
+3686:
+id: 3686
+area: 新北市
+parent_id: 3620
+
+3687:
+id: 3687
+area: 宜兰县
+parent_id: 3620
+
+3688:
+id: 3688
+area: 新竹县
+parent_id: 3620
+
+3689:
+id: 3689
+area: 桃园县
+parent_id: 3620
+
+3690:
+id: 3690
+area: 苗栗县
+parent_id: 3620
+
+3691:
+id: 3691
+area: 彰化县
+parent_id: 3620
+
+3692:
+id: 3692
+area: 嘉义县
+parent_id: 3620
+
+3693:
+id: 3693
+area: 云林县
+parent_id: 3620
+
+3694:
+id: 3694
+area: 屏东县
+parent_id: 3620
+
+3695:
+id: 3695
+area: 台东县
+parent_id: 3620
+
+3696:
+id: 3696
+area: 花莲县
+parent_id: 3620
+
+3697:
+id: 3697
+area: 澎湖县
+parent_id: 3620
+
+3698:
+id: 3698
+area: 香港特别行政区
+parent_id: 
+
+3699:
+id: 3699
+area: 香港岛
+parent_id: 3698
+
+3700:
+id: 3700
+area: 中西区
+parent_id: 3699
+
+3701:
+id: 3701
+area: 湾仔
+parent_id: 3699
+
+3702:
+id: 3702
+area: 东区
+parent_id: 3699
+
+3703:
+id: 3703
+area: 南区
+parent_id: 3699
+
+3704:
+id: 3704
+area: 九龙
+parent_id: 3698
+
+3705:
+id: 3705
+area: 九龙城区
+parent_id: 3704
+
+3706:
+id: 3706
+area: 油尖旺区
+parent_id: 3704
+
+3707:
+id: 3707
+area: 深水埗区
+parent_id: 3704
+
+3708:
+id: 3708
+area: 黄大仙区
+parent_id: 3704
+
+3709:
+id: 3709
+area: 观塘区
+parent_id: 3704
+
+3710:
+id: 3710
+area: 新界
+parent_id: 3698
+
+3711:
+id: 3711
+area: 北区
+parent_id: 3710
+
+3712:
+id: 3712
+area: 大埔区
+parent_id: 3710
+
+3713:
+id: 3713
+area: 沙田区
+parent_id: 3710
+
+3714:
+id: 3714
+area: 西贡区
+parent_id: 3710
+
+3715:
+id: 3715
+area: 元朗区
+parent_id: 3710
+
+3716:
+id: 3716
+area: 屯门区
+parent_id: 3710
+
+3717:
+id: 3717
+area: 荃湾区
+parent_id: 3710
+
+3718:
+id: 3718
+area: 葵青区
+parent_id: 3710
+
+3719:
+id: 3719
+area: 离岛区
+parent_id: 3710
+
+3720:
+id: 3720
+area: 澳门特别行政区
+parent_id: 
+
+3721:
+id: 3721
+area: 澳门半岛
+parent_id: 3720
+
+3722:
+id: 3722
+area: 离岛
+parent_id: 3720
+
