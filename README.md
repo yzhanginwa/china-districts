@@ -1,32 +1,8 @@
 china-districts
 ===============
 
-###中国省市县数据
+###China's provinces, cities and districts
 
-很多地方需要用到省市县数据，但是网上很多数据都太不完整或陈旧(当然这个也可能不完整)，而且到项目已开始后再改这个就非常困难了，确实希望哪个比较权威的地方公开完整的这个东西，并维护着。小弟不才先这么弄一个。
+This package contains a areas.yml file. This file contains China's provinces, cities, and districts info.
 
-1. 数据来源于淘宝
-2. 编号是身份证的一部分，感觉很不错
-3. 如果更新会单独出SQL文件，方便使用者更新
-4. 增加了一个fixture文件，方便rails用户
-
-####需要注意以下几点，自己按需要改吧.
-
-1. 只加了`area_id`的`key`
-2. 文件和建表都是`UTF-8`编码
-
-####文件结构如下
-
-	--------------------
-	  |--MySQL
-	  |    |--latest-xxxx.sql	最新版本
-	  |    |--updates
-	  |    |     |--base-xxxx.sql    基础版本
-	  |          |--patch-xxxx.sql     更新补丁
-	  |
-	  |--JSON
-	  |--README
-	  |--area.yml
-	  |
-
-希望对大家有帮助！有什么代码建议就发个炮吧。
+I may make a gem to make it easy to use for Ruby on Rails developers.
